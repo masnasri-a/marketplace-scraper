@@ -1,31 +1,6 @@
 [
     {
         "marketplace": "blibli",
-        "productName": "Samsung Galaxy A54 5G [8GB/128GB] Smartphone",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-94890069/samsung_samsung_galaxy_a54_5g_-8gb-128gb-_smartphone_full02_tu8tj78m.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-94890069/samsung_samsung_galaxy_a54_5g_-8gb-128gb-_smartphone_full03_ika744bi.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-94890069/samsung_samsung_galaxy_a54_5g_-8gb-128gb-_smartphone_full04_f2y7srwn.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-94890069/samsung_samsung_galaxy_a54_5g_-8gb-128gb-_smartphone_full01_urjxlbvn.jpg"
-        ],
-        "price": {
-            "originalPrice": 5999000,
-            "discount": 7,
-            "finalPrice": 5599000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 15,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Handphone",
-            "Android"
-        ],
-        "url": "https://blibli.com/p/samsung-galaxy-a54-5g-8gb-128gb-smartphone/ps--APG-50293-01689?ds=APG-50293-01689-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1sFR2CFR16OQUkGlubphcrE5fF5z20G0mglTJ8zW7EYuVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3016281&pid1=APG-50293-01689",
-        "crawlAt": 1706956523629
-    },
-    {
-        "marketplace": "blibli",
         "productName": "Nillkin Hard Case (CamShield Pro Case) - Samsung Galaxy Note 20 / Samsung Note 20 5G",
         "brand": "Nillkin",
         "images": [
@@ -35,6 +10,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//91/MTA-8017263/nillkin_nillkin_hard_case_-camshield_pro_case-_-_samsung_galaxy_note_20_-_samsung_note_20_5g_full04_tskjf3bi.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//91/MTA-8017263/nillkin_nillkin_hard_case_-camshield_pro_case-_-_samsung_galaxy_note_20_-_samsung_note_20_5g_full05_o3z15mh7.jpg"
         ],
+        "merchantName": "Orionlycom",
         "price": {
             "originalPrice": 169000,
             "discount": 2,
@@ -48,7 +24,7 @@
             "Casing"
         ],
         "url": "https://blibli.com/p/nillkin-hard-case-camshield-pro-case-samsung-galaxy-note-20-samsung-note-20-5g/ps--ORM-40582-06649?ds=ORM-40582-06649-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1vJj31LsLiIwVXcYYrluCcEH6vkUi4RHhI+l+sVlPrpY6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86POIUqKO9p5cMvC+z/NFTdpQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06649",
-        "crawlAt": 1706956523629
+        "crawlAt": 1707039493019
     },
     {
         "marketplace": "blibli",
@@ -61,6 +37,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//94/MTA-6811590/nillkin_nillkin_hard_case_camshield_pro_case_-_samsung_galaxy_s20_-_samsung_galaxy_s20_5g_full03_z0fu71n.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//94/MTA-6811590/nillkin_nillkin_hard_case_camshield_pro_case_-_samsung_galaxy_s20_-_samsung_galaxy_s20_5g_full02_pjl3lw90.jpg"
         ],
+        "merchantName": "Orionlycom",
         "price": {
             "originalPrice": 169000,
             "discount": 2,
@@ -74,7 +51,7 @@
             "Casing"
         ],
         "url": "https://blibli.com/p/nillkin-hard-case-camshield-pro-case-samsung-galaxy-s20-samsung-galaxy-s20-5g/ps--ORM-40582-06362?ds=ORM-40582-06362-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1sHt2s+DPNzC/qy+zJlEIX8H6vkUi4RHhI+l+sVlPrpY6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86POIUqKO9p5cMvC+z/NFTdpQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06362",
-        "crawlAt": 1706956523629
+        "crawlAt": 1707039493019
     },
     {
         "marketplace": "blibli",
@@ -87,6 +64,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//104/MTA-7964159/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_note_20_-_samsung_galaxy_note_20_5g_full03_kl7nbnjz.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//104/MTA-7964159/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_note_20_-_samsung_galaxy_note_20_5g_full04_c45nm5l0.jpg"
         ],
+        "merchantName": "Orionlycom",
         "price": {
             "originalPrice": 99000,
             "discount": 8,
@@ -100,135 +78,7 @@
             "Casing"
         ],
         "url": "https://blibli.com/p/nillkin-hard-case-super-frosted-shield-samsung-galaxy-note-20-samsung-galaxy-note-20-5g/ps--ORM-40582-06624?ds=ORM-40582-06624-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1jivGClVoqEpHhqjcdJgG3LX8O0QW+udg7MM3z+xpPNnBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aZyNa4lr5t5nmCNGGkFUiPmT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06624",
-        "crawlAt": 1706956523629
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Samsung Galaxy A15 5G 8/256 Garansi Resmi Samsung Indonesia",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/103/MTA-153721489/samsung_samsung_galaxy_a15_5g_8-256_garansi_resmi_samsung_indonesia_full06_b67bjyc1.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/103/MTA-153721489/samsung_samsung_galaxy_a15_5g_8-256_garansi_resmi_samsung_indonesia_full07_o2zk4xd9.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/103/MTA-153721489/samsung_samsung_galaxy_a15_5g_8-256_garansi_resmi_samsung_indonesia_full08_ltp92niz.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/103/MTA-153721489/samsung_samsung_galaxy_a15_5g_8-256_garansi_resmi_samsung_indonesia_full09_mymmt2i1.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/103/MTA-153721489/samsung_samsung_galaxy_a15_5g_8-256_garansi_resmi_samsung_indonesia_full10_eofy1elm.jpg"
-        ],
-        "price": {
-            "originalPrice": 3599000,
-            "discount": 6,
-            "finalPrice": 3380000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 5,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Handphone",
-            "Android"
-        ],
-        "url": "https://blibli.com/p/samsung-galaxy-a15-5g-8-256-garansi-resmi-samsung-indonesia/ps--VOV-70000-00583?ds=VOV-70000-00583-00003&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1hoohFLFJVwVeGdsDku9ec4onvh6tFPB/EN3Wl87vmJ1V6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70MpLMfP88iQTh28yrud9gP8L8fQNr+iQQraBtd3ylN43svJqIi2XqjxFa1WXD2Hq7li0nCtQOqY4utJmZa0EvR2PLWjp7XXNx89qDNn9ZrNSX8CG88FJRCeLOsphecMqhL2TeETumckatdkLB2bGJ7r&cnc=false&pickupPointCode=PP-3225760&pid1=VOV-70000-00583",
-        "crawlAt": 1706956523629
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Nillkin Tempered Glass (Amazing H+) - Samsung Galaxy Tab S7 / Samsung Galaxy Tab S7 5G",
-        "brand": "Nillkin",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//100/MTA-7894441/nillkin_nillkin_tempered_glass_-amazing_h--_-_samsung_galaxy_tab_s7_-_samsung_galaxy_tab_s7_5g_full03_nm7wyyoi.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//100/MTA-7894441/nillkin_nillkin_tempered_glass_-amazing_h--_-_samsung_galaxy_tab_s7_-_samsung_galaxy_tab_s7_5g_full05_b2lig17j.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//100/MTA-7894441/nillkin_nillkin_tempered_glass_-amazing_h--_-_samsung_galaxy_tab_s7_-_samsung_galaxy_tab_s7_5g_full04_dvkrzqst.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//100/MTA-7894441/nillkin_nillkin_tempered_glass_-amazing_h--_-_samsung_galaxy_tab_s7_-_samsung_galaxy_tab_s7_5g_full01_muaxpvlh.jpg"
-        ],
-        "price": {
-            "originalPrice": 269000,
-            "discount": 7,
-            "finalPrice": 251000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 5,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Screen Protector"
-        ],
-        "url": "https://blibli.com/p/nillkin-tempered-glass-amazing-h-samsung-galaxy-tab-s7-samsung-galaxy-tab-s7-5g/ps--ORM-40582-06607?ds=ORM-40582-06607-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1hoohFLFJVwVeGdsDku9ec50hOFjg+ju8eBihHognCYT6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86PFfGXcHNZE4OgTeEc+SpvkQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06607",
-        "crawlAt": 1706956523629
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Imak Screen Protector Anti Gores Hydrogel Samsung Galaxy S20 Plus / Samsung Galaxy S20 Plus 5G",
-        "brand": "Imak",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//93/MTA-10043596/imak_2pcs_imak_screen_protector_anti_gores_hydrogel_samsung_galaxy_s20_plus_-_samsung_galaxy_s20_plus_5g_full05_207yre0.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//93/MTA-10043596/imak_2pcs_imak_screen_protector_anti_gores_hydrogel_samsung_galaxy_s20_plus_-_samsung_galaxy_s20_plus_5g_full06_pgzfjaes.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//93/MTA-10043596/imak_2pcs_imak_screen_protector_anti_gores_hydrogel_samsung_galaxy_s20_plus_-_samsung_galaxy_s20_plus_5g_full07_f8qg6dsx.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//93/MTA-10043596/imak_2pcs_imak_screen_protector_anti_gores_hydrogel_samsung_galaxy_s20_plus_-_samsung_galaxy_s20_plus_5g_full08_gkjt2vou.jpg"
-        ],
-        "price": {
-            "originalPrice": 99000,
-            "discount": 8,
-            "finalPrice": 91000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 3,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Screen Protector"
-        ],
-        "url": "https://blibli.com/p/imak-screen-protector-anti-gores-hydrogel-samsung-galaxy-s20-plus-samsung-galaxy-s20-plus-5g/ps--ORM-40582-07011?ds=ORM-40582-07011-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1sHt2s+DPNzC/qy+zJlEIX/X8O0QW+udg7MM3z+xpPNnBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aO9+IA/O9Alm0sDqZ/gwLsWT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-07011",
-        "crawlAt": 1706956523629
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Nillkin TPU Case (Nature TPU) - Samsung Galaxy Note 20 Ultra / Samsung Galaxy Note 20 Ultra 5G",
-        "brand": "Nillkin",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//98/MTA-8661248/nillkin_nillkin_tpu_case_-nature_tpu-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full01_sypl84bd.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//98/MTA-8661248/nillkin_nillkin_tpu_case_-nature_tpu-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full02_i3dxrbgc.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//98/MTA-8661248/nillkin_nillkin_tpu_case_-nature_tpu-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full05_s5iahsmg.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//98/MTA-8661248/nillkin_nillkin_tpu_case_-nature_tpu-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full04_hrdpyv35.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//98/MTA-8661248/nillkin_nillkin_tpu_case_-nature_tpu-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full03_d4lftr2t.jpg"
-        ],
-        "price": {
-            "originalPrice": 89000,
-            "discount": 9,
-            "finalPrice": 81000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 5,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Casing"
-        ],
-        "url": "https://blibli.com/p/nillkin-tpu-case-nature-tpu-samsung-galaxy-note-20-ultra-samsung-galaxy-note-20-ultra-5g/ps--ORM-40582-06735?ds=ORM-40582-06735-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1hoohFLFJVwVeGdsDku9ec58ETvgnoo9CMlaD064GV/JBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aZyNa4lr5t5nmCNGGkFUiPmT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06735",
-        "crawlAt": 1706956523629
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Nillkin Back Case (Textured Case) - Samsung Galaxy Note 20 Ultra / Samsung Galaxy Note 20 Ultra 5G",
-        "brand": "Nillkin",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//108/MTA-7994736/nillkin_nillkin_back_case_-textured_case-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full05_dkzvacyo.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//108/MTA-7994736/nillkin_nillkin_back_case_-textured_case-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full01_koyg8tlb.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//108/MTA-7994736/nillkin_nillkin_back_case_-textured_case-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full02_iwdpna4n.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//108/MTA-7994736/nillkin_nillkin_back_case_-textured_case-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full03_s190jd2c.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//108/MTA-7994736/nillkin_nillkin_back_case_-textured_case-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full04_slsscvp3.jpg"
-        ],
-        "price": {
-            "originalPrice": 159000,
-            "discount": 8,
-            "finalPrice": 146000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 11,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Casing"
-        ],
-        "url": "https://blibli.com/p/nillkin-back-case-textured-case-samsung-galaxy-note-20-ultra-samsung-galaxy-note-20-ultra-5g/ps--ORM-40582-06645?ds=ORM-40582-06645-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1joJrWzzBGuPpfXA73vr50cDPaVvnZXwjtNLIgLLVT88V6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYOPTaJa61ZourzquQtoo/whKUnRDRXZLSSdAODeCXzbQiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06645",
-        "crawlAt": 1706956523629
+        "crawlAt": 1707039493019
     },
     {
         "marketplace": "blibli",
@@ -241,6 +91,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/104/MTA-152795345/samsung_samsung_galaxy_a15_5g_8-256_garansi_resmi_samsung_indonesia_full01_ilnry138.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/104/MTA-152795345/samsung_samsung_galaxy_a15_5g_8-256_garansi_resmi_samsung_indonesia_full05_pbdxm1j8.jpg"
         ],
+        "merchantName": "Sfone Omni Official Store",
         "price": {
             "originalPrice": 3599000,
             "discount": 6,
@@ -254,7 +105,113 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-a15-5g-8-256-garansi-resmi-samsung-indonesia/ps--MUC-60083-00414?ds=MUC-60083-00414-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1igbwLPbKKMBrsjRhg5GQhsonvh6tFPB/EN3Wl87vmJ1V6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70MpLMfP88iQTh28yrud9gP8L8fQNr+iQQraBtd3ylN43svJqIi2XqjxFa1WXD2Hq7li0nCtQOqY4utJmZa0EvR2PLWjp7XXNx89qDNn9ZrNSX8CG88FJRCeLOsphecMqhL2TeETumckatdkLB2bGJ7r&cnc=false&pickupPointCode=PP-3144238&pid1=MUC-60083-00414",
-        "crawlAt": 1706956523629
+        "crawlAt": 1707039493019
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Nillkin Tempered Glass (Amazing H+) - Samsung Galaxy Tab S7 / Samsung Galaxy Tab S7 5G",
+        "brand": "Nillkin",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//100/MTA-7894441/nillkin_nillkin_tempered_glass_-amazing_h--_-_samsung_galaxy_tab_s7_-_samsung_galaxy_tab_s7_5g_full03_nm7wyyoi.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//100/MTA-7894441/nillkin_nillkin_tempered_glass_-amazing_h--_-_samsung_galaxy_tab_s7_-_samsung_galaxy_tab_s7_5g_full05_b2lig17j.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//100/MTA-7894441/nillkin_nillkin_tempered_glass_-amazing_h--_-_samsung_galaxy_tab_s7_-_samsung_galaxy_tab_s7_5g_full04_dvkrzqst.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//100/MTA-7894441/nillkin_nillkin_tempered_glass_-amazing_h--_-_samsung_galaxy_tab_s7_-_samsung_galaxy_tab_s7_5g_full01_muaxpvlh.jpg"
+        ],
+        "merchantName": "Orionlycom",
+        "price": {
+            "originalPrice": 269000,
+            "discount": 7,
+            "finalPrice": 251000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 5,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Screen Protector"
+        ],
+        "url": "https://blibli.com/p/nillkin-tempered-glass-amazing-h-samsung-galaxy-tab-s7-samsung-galaxy-tab-s7-5g/ps--ORM-40582-06607?ds=ORM-40582-06607-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1hoohFLFJVwVeGdsDku9ec50hOFjg+ju8eBihHognCYT6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86PFfGXcHNZE4OgTeEc+SpvkQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06607",
+        "crawlAt": 1707039493019
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Nillkin TPU Case (Nature TPU) - Samsung Galaxy Note 20 Ultra / Samsung Galaxy Note 20 Ultra 5G",
+        "brand": "Nillkin",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//98/MTA-8661248/nillkin_nillkin_tpu_case_-nature_tpu-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full01_sypl84bd.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//98/MTA-8661248/nillkin_nillkin_tpu_case_-nature_tpu-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full02_i3dxrbgc.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//98/MTA-8661248/nillkin_nillkin_tpu_case_-nature_tpu-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full05_s5iahsmg.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//98/MTA-8661248/nillkin_nillkin_tpu_case_-nature_tpu-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full04_hrdpyv35.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//98/MTA-8661248/nillkin_nillkin_tpu_case_-nature_tpu-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full03_d4lftr2t.jpg"
+        ],
+        "merchantName": "Orionlycom",
+        "price": {
+            "originalPrice": 89000,
+            "discount": 9,
+            "finalPrice": 81000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 5,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Casing"
+        ],
+        "url": "https://blibli.com/p/nillkin-tpu-case-nature-tpu-samsung-galaxy-note-20-ultra-samsung-galaxy-note-20-ultra-5g/ps--ORM-40582-06735?ds=ORM-40582-06735-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1hoohFLFJVwVeGdsDku9ec58ETvgnoo9CMlaD064GV/JBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aZyNa4lr5t5nmCNGGkFUiPmT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06735",
+        "crawlAt": 1707039493019
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Nillkin Back Case (Textured Case) - Samsung Galaxy Note 20 Ultra / Samsung Galaxy Note 20 Ultra 5G",
+        "brand": "Nillkin",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//108/MTA-7994736/nillkin_nillkin_back_case_-textured_case-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full05_dkzvacyo.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//108/MTA-7994736/nillkin_nillkin_back_case_-textured_case-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full01_koyg8tlb.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//108/MTA-7994736/nillkin_nillkin_back_case_-textured_case-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full02_iwdpna4n.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//108/MTA-7994736/nillkin_nillkin_back_case_-textured_case-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full03_s190jd2c.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//108/MTA-7994736/nillkin_nillkin_back_case_-textured_case-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full04_slsscvp3.jpg"
+        ],
+        "merchantName": "Orionlycom",
+        "price": {
+            "originalPrice": 159000,
+            "discount": 8,
+            "finalPrice": 146000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 11,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Casing"
+        ],
+        "url": "https://blibli.com/p/nillkin-back-case-textured-case-samsung-galaxy-note-20-ultra-samsung-galaxy-note-20-ultra-5g/ps--ORM-40582-06645?ds=ORM-40582-06645-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1joJrWzzBGuPpfXA73vr50cDPaVvnZXwjtNLIgLLVT88V6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYOPTaJa61ZourzquQtoo/whKUnRDRXZLSSdAODeCXzbQiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06645",
+        "crawlAt": 1707039493019
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Imak Screen Protector Anti Gores Hydrogel Samsung Galaxy S20 Plus / Samsung Galaxy S20 Plus 5G",
+        "brand": "Imak",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//93/MTA-10043596/imak_2pcs_imak_screen_protector_anti_gores_hydrogel_samsung_galaxy_s20_plus_-_samsung_galaxy_s20_plus_5g_full05_207yre0.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//93/MTA-10043596/imak_2pcs_imak_screen_protector_anti_gores_hydrogel_samsung_galaxy_s20_plus_-_samsung_galaxy_s20_plus_5g_full06_pgzfjaes.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//93/MTA-10043596/imak_2pcs_imak_screen_protector_anti_gores_hydrogel_samsung_galaxy_s20_plus_-_samsung_galaxy_s20_plus_5g_full07_f8qg6dsx.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//93/MTA-10043596/imak_2pcs_imak_screen_protector_anti_gores_hydrogel_samsung_galaxy_s20_plus_-_samsung_galaxy_s20_plus_5g_full08_gkjt2vou.jpg"
+        ],
+        "merchantName": "Orionlycom",
+        "price": {
+            "originalPrice": 99000,
+            "discount": 8,
+            "finalPrice": 91000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 3,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Screen Protector"
+        ],
+        "url": "https://blibli.com/p/imak-screen-protector-anti-gores-hydrogel-samsung-galaxy-s20-plus-samsung-galaxy-s20-plus-5g/ps--ORM-40582-07011?ds=ORM-40582-07011-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1sHt2s+DPNzC/qy+zJlEIX/X8O0QW+udg7MM3z+xpPNnBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aO9+IA/O9Alm0sDqZ/gwLsWT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-07011",
+        "crawlAt": 1707039493019
     },
     {
         "marketplace": "blibli",
@@ -267,6 +224,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//92/MTA-10940472/nillkin_nillkin_anti_gores_amazing_cp-_pro_tempered_glass_samsung_galaxy_a12_-_samsung_galaxy_a32_5g_full03_qt8aiqzc.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//92/MTA-10940472/nillkin_nillkin_anti_gores_amazing_cp-_pro_tempered_glass_samsung_galaxy_a12_-_samsung_galaxy_a32_5g_full02_lnnnqnrp.jpg"
         ],
+        "merchantName": "Orionlycom",
         "price": {
             "originalPrice": 169000,
             "discount": 11,
@@ -280,7 +238,7 @@
             "Screen Protector"
         ],
         "url": "https://blibli.com/p/nillkin-anti-gores-amazing-cp-pro-tempered-glass-samsung-galaxy-a12-samsung-galaxy-a32-5g/ps--ORM-40582-07099?ds=ORM-40582-07099-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1sHt2s+DPNzC/qy+zJlEIX/PS7EykriXYblgSiqXAclx6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86PFfGXcHNZE4OgTeEc+SpvkQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-07099",
-        "crawlAt": 1706956523629
+        "crawlAt": 1707039493019
     },
     {
         "marketplace": "blibli",
@@ -293,6 +251,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//104/MTA-7894705/nillkin_nillkin_tempered_glass_-amazing_h--_-_samsung_galaxy_tab_s7-_-_samsung_galaxy_tab_s7-_5g_full02_p80odi9a.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//104/MTA-7894705/nillkin_nillkin_tempered_glass_-amazing_h--_-_samsung_galaxy_tab_s7-_-_samsung_galaxy_tab_s7-_5g_full06_m0lu80j5.jpg"
         ],
+        "merchantName": "Orionlycom",
         "price": {
             "originalPrice": 289000,
             "discount": 6,
@@ -306,81 +265,7 @@
             "Screen Protector"
         ],
         "url": "https://blibli.com/p/nillkin-tempered-glass-amazing-h-samsung-galaxy-tab-s7-samsung-galaxy-tab-s7-5g/ps--ORM-40582-06608?ds=ORM-40582-06608-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1pGTFXj2OkmKf+AOWXtSxPIt72UjX6c/PBxzr/wbFMB76Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86PFfGXcHNZE4OgTeEc+SpvkQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06608",
-        "crawlAt": 1706956523629
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "XIAOMI REDMI NOTE 12 PRO 5G SMARTPHONE 8/256GB",
-        "brand": "Xiaomi",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/109/MTA-96648841/xiaomi_xiaomi_redmi_note_12_pro_smartphone_8-256gb_full01_fupi2w15.jpeg"
-        ],
-        "price": {
-            "originalPrice": 0,
-            "discount": 0,
-            "finalPrice": 3830000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 1,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Handphone",
-            "Android"
-        ],
-        "url": "https://blibli.com/p/xiaomi-redmi-note-12-pro-5g-smartphone-8-256gb/ps--GOI-60031-00774?ds=GOI-60031-00774-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1igbwLPbKKMBrsjRhg5GQhsOrXuAP2gLxUYexIzULqXgV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3125737&pid1=GOI-60031-00774",
-        "crawlAt": 1706956523629
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Nillkin Baby Skin Case (Flex Pure Case) - Samsung Galaxy S20 / Samsung Galaxy S20 5G",
-        "brand": "Nillkin",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-6549345/nillkin_nillkin_baby_skin_case_-flex_pure_case-_-_samsung_galaxy_s20_-_samsung_galaxy_s20_5g_full01_d150i1ze.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-6549345/nillkin_nillkin_baby_skin_case_-flex_pure_case-_-_samsung_galaxy_s20_-_samsung_galaxy_s20_5g_full02_bn7wesak.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-6549345/nillkin_nillkin_baby_skin_case_-flex_pure_case-_-_samsung_galaxy_s20_-_samsung_galaxy_s20_5g_full10_mejjf8og.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-6549345/nillkin_nillkin_baby_skin_case_-flex_pure_case-_-_samsung_galaxy_s20_-_samsung_galaxy_s20_5g_full11_tj1fgc9n.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-6549345/nillkin_nillkin_baby_skin_case_-flex_pure_case-_-_samsung_galaxy_s20_-_samsung_galaxy_s20_5g_full12_moi8ywco.jpg"
-        ],
-        "price": {
-            "originalPrice": 179000,
-            "discount": 18,
-            "finalPrice": 146000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 2,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Casing"
-        ],
-        "url": "https://blibli.com/p/nillkin-baby-skin-case-flex-pure-case-samsung-galaxy-s20-samsung-galaxy-s20-5g/ps--ORM-40582-06274?ds=ORM-40582-06274-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gVM1r7pUcMHMSa2GcVlGJ8MTMsZOfA3FOzbEmHpF4Iu6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86POIUqKO9p5cMvC+z/NFTdpQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06274",
-        "crawlAt": 1706956523629
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Nillkin Hard Case (Super Frosted Shield) - Samsung Galaxy S20 Plus / Samsung Galaxy S20 Plus 5G",
-        "brand": "Nillkin",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-6104077/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_s20_plus_full18_ddqavrh9.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-6104077/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_s20_plus_full19_qg7h36bn.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-6104077/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_s20_plus_full20_of1x0iy9.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-6104077/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_s20_plus_full21_myov2h06.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-6104077/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_s20_plus_full22_fgv0sx7t.jpg"
-        ],
-        "price": {
-            "originalPrice": 99000,
-            "discount": 8,
-            "finalPrice": 91000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 0,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Casing"
-        ],
-        "url": "https://blibli.com/p/nillkin-hard-case-super-frosted-shield-samsung-galaxy-s20-plus-samsung-galaxy-s20-plus-5g/ps--ORM-40582-06196?ds=ORM-40582-06196-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZHX8O0QW+udg7MM3z+xpPNnBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aZyNa4lr5t5nmCNGGkFUiPmT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06196",
-        "crawlAt": 1706956523629
+        "crawlAt": 1707039493019
     },
     {
         "marketplace": "blibli",
@@ -394,6 +279,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-23979336/samsung_ac_samsung_1-2_pk_-_ar-05tghqasinse_r32_-indoor_-_outdoor_unit_only-_garansi_resmi_full03_df67a426.jpeg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-23979336/samsung_ac_samsung_1-2_pk_-_ar-05tghqasinse_r32_-indoor_-_outdoor_unit_only-_garansi_resmi_full04_232e1881.jpeg"
         ],
+        "merchantName": "CSM Electronic City Official Store",
         "price": {
             "originalPrice": 0,
             "discount": 0,
@@ -409,7 +295,84 @@
             "AC Split 1##2 PK"
         ],
         "url": "https://blibli.com/p/ac-samsung-1-2-pk-ar-05tghqasinse-r32-indoor-outdoor-unit-only-garansi-resmi/ps--CSE-70005-00662?ds=CSE-70005-00662-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1jivGClVoqEpHhqjcdJgG3L8AFrUytodKJSVMYGjIKTIV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYOVzeXI44eWBpbQ2KmN80fUgj8rwLy4WyA5CBpvt+9b/O4etp1CWGykFmfiCVkPqDSgQ08Pd8smWknXQ364KLyJR1idper1VAxjD0VeVT6Y5Q==&cnc=false&pickupPointCode=PP-3176621&pid1=CSE-70005-00662",
-        "crawlAt": 1706956523629
+        "crawlAt": 1707039493019
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "XIAOMI REDMI NOTE 12 PRO 5G SMARTPHONE 8/256GB",
+        "brand": "Xiaomi",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/109/MTA-96648841/xiaomi_xiaomi_redmi_note_12_pro_smartphone_8-256gb_full01_fupi2w15.jpeg"
+        ],
+        "merchantName": "GORI Official Store",
+        "price": {
+            "originalPrice": 0,
+            "discount": 0,
+            "finalPrice": 3830000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 1,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Handphone",
+            "Android"
+        ],
+        "url": "https://blibli.com/p/xiaomi-redmi-note-12-pro-5g-smartphone-8-256gb/ps--GOI-60031-00774?ds=GOI-60031-00774-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1igbwLPbKKMBrsjRhg5GQhsOrXuAP2gLxUYexIzULqXgV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3125737&pid1=GOI-60031-00774",
+        "crawlAt": 1707039493019
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Nillkin Hard Case (Super Frosted Shield) - Samsung Galaxy S20 Plus / Samsung Galaxy S20 Plus 5G",
+        "brand": "Nillkin",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-6104077/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_s20_plus_full18_ddqavrh9.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-6104077/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_s20_plus_full19_qg7h36bn.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-6104077/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_s20_plus_full20_of1x0iy9.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-6104077/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_s20_plus_full21_myov2h06.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-6104077/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_s20_plus_full22_fgv0sx7t.jpg"
+        ],
+        "merchantName": "Orionlycom",
+        "price": {
+            "originalPrice": 99000,
+            "discount": 8,
+            "finalPrice": 91000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 0,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Casing"
+        ],
+        "url": "https://blibli.com/p/nillkin-hard-case-super-frosted-shield-samsung-galaxy-s20-plus-samsung-galaxy-s20-plus-5g/ps--ORM-40582-06196?ds=ORM-40582-06196-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZHX8O0QW+udg7MM3z+xpPNnBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aZyNa4lr5t5nmCNGGkFUiPmT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06196",
+        "crawlAt": 1707039493019
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Nillkin Baby Skin Case (Flex Pure Case) - Samsung Galaxy S20 / Samsung Galaxy S20 5G",
+        "brand": "Nillkin",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-6549345/nillkin_nillkin_baby_skin_case_-flex_pure_case-_-_samsung_galaxy_s20_-_samsung_galaxy_s20_5g_full01_d150i1ze.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-6549345/nillkin_nillkin_baby_skin_case_-flex_pure_case-_-_samsung_galaxy_s20_-_samsung_galaxy_s20_5g_full02_bn7wesak.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-6549345/nillkin_nillkin_baby_skin_case_-flex_pure_case-_-_samsung_galaxy_s20_-_samsung_galaxy_s20_5g_full10_mejjf8og.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-6549345/nillkin_nillkin_baby_skin_case_-flex_pure_case-_-_samsung_galaxy_s20_-_samsung_galaxy_s20_5g_full11_tj1fgc9n.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-6549345/nillkin_nillkin_baby_skin_case_-flex_pure_case-_-_samsung_galaxy_s20_-_samsung_galaxy_s20_5g_full12_moi8ywco.jpg"
+        ],
+        "merchantName": "Orionlycom",
+        "price": {
+            "originalPrice": 179000,
+            "discount": 18,
+            "finalPrice": 146000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 2,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Casing"
+        ],
+        "url": "https://blibli.com/p/nillkin-baby-skin-case-flex-pure-case-samsung-galaxy-s20-samsung-galaxy-s20-5g/ps--ORM-40582-06274?ds=ORM-40582-06274-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gVM1r7pUcMHMSa2GcVlGJ8MTMsZOfA3FOzbEmHpF4Iu6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86POIUqKO9p5cMvC+z/NFTdpQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06274",
+        "crawlAt": 1707039493019
     },
     {
         "marketplace": "blibli",
@@ -423,6 +386,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-3674470/nillkin_nillkin-tempered-glass--amazing-cp--pro----samsung-galaxy-a80---samsung-galaxy-a90_full10.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-3674470/nillkin_nillkin-tempered-glass--amazing-cp--pro----samsung-galaxy-a80---samsung-galaxy-a90_full11.jpg"
         ],
+        "merchantName": "Orionlycom",
         "price": {
             "originalPrice": 169000,
             "discount": 11,
@@ -436,32 +400,7 @@
             "Screen Protector"
         ],
         "url": "https://blibli.com/p/nillkin-tempered-glass-amazing-cp-plus-pro-screen-protector-for-samsung-galaxy-a80-or-samsung-galaxy-a90/ps--ORM-40582-05468?ds=ORM-40582-05468-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZHPS7EykriXYblgSiqXAclx6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86PFfGXcHNZE4OgTeEc+SpvkQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-05468",
-        "crawlAt": 1706956523629
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Charger Dekstop DT LCD / Casan Kodok / Charger Kodok Grosir",
-        "brand": "OEM",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//92/MTA-43325336/oem_charger-dekstop-dt-lcd-casan-kodok-charger-kodok-grosir_full01.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//92/MTA-43325336/oem_charger-dekstop-dt-lcd-casan-kodok-charger-kodok-grosir_full02.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//92/MTA-43325336/oem_charger-dekstop-dt-lcd-casan-kodok-charger-kodok-grosir_full03.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//92/MTA-43325336/oem_charger-dekstop-dt-lcd-casan-kodok-charger-kodok-grosir_full04.jpg"
-        ],
-        "price": {
-            "originalPrice": 14000,
-            "discount": 2,
-            "finalPrice": 13720
-        },
-        "category": "Handphone & Tablet",
-        "sell": 2,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Charge"
-        ],
-        "url": "https://blibli.com/p/charger-dekstop-dt-lcd-casan-kodok-charger-kodok-grosir/ps--XEA-70004-00765?ds=XEA-70004-00765-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gVM1r7pUcMHMSa2GcVlGJ+SHf1A+uCrVbgvVt7/CtLdBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8awEJI0uXEB1Q33/NvXGd3CmT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3336929&pid1=XEA-70004-00765",
-        "crawlAt": 1706956523629
+        "crawlAt": 1707039493019
     },
     {
         "marketplace": "blibli",
@@ -472,6 +411,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//98/MTA-6634259/mocolo_tempered_glass_kamera_samsung_a71_-_mocolo_original_premium_glass_full06_fstrkppk.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//98/MTA-6634259/mocolo_tempered_glass_kamera_samsung_a71_-_mocolo_original_premium_glass_full07_pa0ehx57.jpg"
         ],
+        "merchantName": "Gojali Store Official Store",
         "price": {
             "originalPrice": 50000,
             "discount": 2,
@@ -485,7 +425,7 @@
             "Screen Protector"
         ],
         "url": "https://blibli.com/p/mocolo-premium-tempered-glass-tempered-glass-camera-protector-for-samsung-a71/ps--GOI-60037-00243?ds=GOI-60037-00243-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1sHt2s+DPNzC/qy+zJlEIX/9a8kwhn6HM6+ii2G9TLTGBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/kWb5w256LwNjT3swpYhADDsnVS4KZgnkIiy9zaokE29tNkqUl3PHrq+qgYsvxKT2wRTevY4og2XOgqky25YOx84ncnRyz6/GfSAGKLvMXl3aiLJTQoc4Ol+IA+Z0cTCN85pveAnMYwuQcyTE1JTNL&cnc=false&pickupPointCode=PP-3082390&pid1=GOI-60037-00243",
-        "crawlAt": 1706956523629
+        "crawlAt": 1707039493019
     },
     {
         "marketplace": "blibli",
@@ -498,6 +438,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//91/MTA-3973040/nillkin_nillkin_hard_case_-super_frosted_shield-_for_samsung_galaxy_note_10_plus_-_samsung_galaxy_note_10_plus_5g_full25.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//91/MTA-3973040/nillkin_nillkin_hard_case_-super_frosted_shield-_for_samsung_galaxy_note_10_plus_-_samsung_galaxy_note_10_plus_5g_full26.jpg"
         ],
+        "merchantName": "Orionlycom",
         "price": {
             "originalPrice": 99000,
             "discount": 8,
@@ -511,7 +452,7 @@
             "Casing"
         ],
         "url": "https://blibli.com/p/nillkin-hard-case-super-frosted-shield-for-samsung-galaxy-note-10-plus-samsung-galaxy-note-10-plus-5g/ps--ORM-40582-05633?ds=ORM-40582-05633-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1glXvEa/ey9ABMCrC8d7ex1/pxkQhcFMRYoUUSu7QqMu6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86POIUqKO9p5cMvC+z/NFTdpQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-05633",
-        "crawlAt": 1706956523629
+        "crawlAt": 1707039493019
     },
     {
         "marketplace": "blibli",
@@ -524,6 +465,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-9409261/nillkin_nillkin_tempered_glass_-amazing_h-_-_samsung_galaxy_m51_full03_babrlz3i.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-9409261/nillkin_nillkin_tempered_glass_-amazing_h-_-_samsung_galaxy_m51_full01_bbsphn4u.jpg"
         ],
+        "merchantName": "Orionlycom",
         "price": {
             "originalPrice": 129000,
             "discount": 10,
@@ -537,7 +479,33 @@
             "Screen Protector"
         ],
         "url": "https://blibli.com/p/nillkin-tempered-glass-amazing-h-samsung-galaxy-m51/ps--ORM-40582-06897?ds=ORM-40582-06897-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZE0HhG7rHz8LqWmNzkGmfXJ6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86PFfGXcHNZE4OgTeEc+SpvkQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06897",
-        "crawlAt": 1706956523629
+        "crawlAt": 1707039493019
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Charger Dekstop DT LCD / Casan Kodok / Charger Kodok Grosir",
+        "brand": "OEM",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//92/MTA-43325336/oem_charger-dekstop-dt-lcd-casan-kodok-charger-kodok-grosir_full01.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//92/MTA-43325336/oem_charger-dekstop-dt-lcd-casan-kodok-charger-kodok-grosir_full02.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//92/MTA-43325336/oem_charger-dekstop-dt-lcd-casan-kodok-charger-kodok-grosir_full03.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//92/MTA-43325336/oem_charger-dekstop-dt-lcd-casan-kodok-charger-kodok-grosir_full04.jpg"
+        ],
+        "merchantName": "Xenia ACC",
+        "price": {
+            "originalPrice": 14000,
+            "discount": 2,
+            "finalPrice": 13720
+        },
+        "category": "Handphone & Tablet",
+        "sell": 2,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Charge"
+        ],
+        "url": "https://blibli.com/p/charger-dekstop-dt-lcd-casan-kodok-charger-kodok-grosir/ps--XEA-70004-00765?ds=XEA-70004-00765-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gVM1r7pUcMHMSa2GcVlGJ+SHf1A+uCrVbgvVt7/CtLdBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8awEJI0uXEB1Q33/NvXGd3CmT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3336929&pid1=XEA-70004-00765",
+        "crawlAt": 1707039493019
     },
     {
         "marketplace": "blibli",
@@ -550,6 +518,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//82/MTA-60041320/brd-44261_promo-case-samsung-galaxy-a03-core-2021-softcase-deer-bermotif-jeans-new-casing-samsung-galaxy-a03-core-2021_full04.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//82/MTA-60041320/brd-44261_promo-case-samsung-galaxy-a03-core-2021-softcase-deer-bermotif-jeans-new-casing-samsung-galaxy-a03-core-2021_full05.jpg"
         ],
+        "merchantName": "ARSUM CASE",
         "price": {
             "originalPrice": 28000,
             "discount": 23,
@@ -563,7 +532,58 @@
             "Casing"
         ],
         "url": "https://blibli.com/p/promo-case-samsung-galaxy-a03-core-2021-softcase-deer-bermotif-jeans-new-casing-samsung-galaxy-a03-core-2021/ps--ARC-70290-00556?ds=ARC-70290-00556-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZHTvhOAYbzvaDYyGptEr5JcBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aZyNa4lr5t5nmCNGGkFUiPmT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3391458&pid1=ARC-70290-00556",
-        "crawlAt": 1706956523629
+        "crawlAt": 1707039493019
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Samsung Galaxy A04e Smartphone [3/32GB]",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//92/MTA-81456031/samsung_samsung_galaxy_a04e_3-32gb_full14_i2msri4x.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//92/MTA-81456031/samsung_samsung_galaxy_a04e_3-32gb_full12_blnwqy3y.jpg"
+        ],
+        "merchantName": "AllShare",
+        "price": {
+            "originalPrice": 0,
+            "discount": 0,
+            "finalPrice": 960000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 1400,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Handphone",
+            "Android"
+        ],
+        "url": "https://blibli.com/p/samsung-galaxy-a04e-smartphone-3-32gb/ps--ALE-60038-00100?ds=ALE-60038-00100-00003&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1oa/8QeczOIhfSxyeZuA3Gl0CdmdXDln2O+BkGRNFBnalsogVVfmUpV8Tbz8/WvDB0/Qd+PE2R+BYcbkg24R21ueL9F9e2M76YsQGLUm9TigHjCITnaWFAGh4FHnHRTkmp2KnAun/YYLvwc268FM3NiL59VZTgWpMbeYqGkFrJSh7AOVPD2SpZKfjAs2aksZMMLpEI+vdGef6g8NpVxWl320XBPM8Ib69hRyb0y0TLR/&cnc=false&pickupPointCode=PP-3049510&pid1=ALE-60038-00100",
+        "crawlAt": 1707039493019,
+        "_id": "65bf5b2b1abe1c535fd564cc"
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Samsung Galaxy Z Flip5 5G Garansi Resmi",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/89/MTA-133261811/br-m036969-02885_samsung-galaxy-z-flip5-5g-8-256gb-8-512gb-resmi_full05-ab528843.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/89/MTA-133261811/br-m036969-02885_samsung-galaxy-z-flip5-5g-8-256gb-8-512gb-resmi_full17-3783f410.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/89/MTA-133261811/br-m036969-02885_samsung-galaxy-z-flip5-5g-8-256gb-8-512gb-resmi_full01-a1281a07.jpg"
+        ],
+        "merchantName": "Gadget Original Official Store ",
+        "price": {
+            "originalPrice": 15999000,
+            "discount": 10,
+            "finalPrice": 14325000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 3,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Handphone",
+            "Android"
+        ],
+        "url": "https://blibli.com/p/samsung-galaxy-z-flip5-5g-garansi-resmi/ps--DIG-60025-01455?ds=DIG-60025-01455-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1sHt2s+DPNzC/qy+zJlEIX+8SXrteiCDhhq4NVzANAdTVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3037122&pid1=DIG-60025-01455",
+        "crawlAt": 1707039493019,
+        "_id": "65bf5b2c1abe1c535fd564ce"
     },
     {
         "marketplace": "blibli",
@@ -576,6 +596,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//92/MTA-22732292/ringke_ringke_tablet_phone_stand_fold_dudukan_holder_ipad_apple_samsung_mi_full03_jgduqc4a.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//92/MTA-22732292/ringke_ringke_tablet_phone_stand_fold_dudukan_holder_ipad_apple_samsung_mi_full04_uy12p554.jpg"
         ],
+        "merchantName": "Official Store Ringke",
         "price": {
             "originalPrice": 300000,
             "discount": 60,
@@ -589,57 +610,8 @@
             "Aksesoris Handphone & Tablet Lainnya"
         ],
         "url": "https://blibli.com/p/ringke-tablet-phone-stand-fold-dudukan-holder-ipad-apple-samsung-mi/ps--RIO-60031-01386?ds=RIO-60031-01386-00004&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1mcVsjhcdgPp+qTVepsj2RTPMHk1mi8P6HbvOu2DJt5a6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvgDGemfm5SNh5Jq9KPDEXJ5jzCxKTOmEWlperjuKJtK31FBTc87YP8sPvWm7FKE+rYMTLk5pIsoVQJmtwLacJnYvOraDWI0pCKeuYXD6zKYCo6VDwUUPcKZk+j9p84RlPkq6VBV00TSMvh5kbZwrs+u&cnc=false&pickupPointCode=PP-3042228&pid1=RIO-60031-01386",
-        "crawlAt": 1706956523629
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Samsung Galaxy Z Flip5 5G Garansi Resmi",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/89/MTA-133261811/br-m036969-02885_samsung-galaxy-z-flip5-5g-8-256gb-8-512gb-resmi_full03-0d3c378d.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/89/MTA-133261811/br-m036969-02885_samsung-galaxy-z-flip5-5g-8-256gb-8-512gb-resmi_full17-3783f410.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/89/MTA-133261811/br-m036969-02885_samsung-galaxy-z-flip5-5g-8-256gb-8-512gb-resmi_full01-a1281a07.jpg"
-        ],
-        "price": {
-            "originalPrice": 15999000,
-            "discount": 10,
-            "finalPrice": 14325000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 3,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Handphone",
-            "Android"
-        ],
-        "url": "https://blibli.com/p/samsung-galaxy-z-flip5-5g-garansi-resmi/ps--DIG-60025-01455?ds=DIG-60025-01455-00003&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1sHt2s+DPNzC/qy+zJlEIX+8SXrteiCDhhq4NVzANAdTVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3037122&pid1=DIG-60025-01455",
-        "crawlAt": 1706956523629
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Nillkin Hard Case CamShield Pro Case - Samsung Galaxy S20 Plus / Samsung Galaxy S20 Plus 5G",
-        "brand": "Nillkin",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//113/MTA-6865988/nillkin_nillkin_hard_case_camshield_pro_case_-_samsung_galaxy_s20_plus_-_samsung_galaxy_s20_plus_5g_full01_redrxwru.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//113/MTA-6865988/nillkin_nillkin_hard_case_camshield_pro_case_-_samsung_galaxy_s20_plus_-_samsung_galaxy_s20_plus_5g_full05_ln0ykmc.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//113/MTA-6865988/nillkin_nillkin_hard_case_camshield_pro_case_-_samsung_galaxy_s20_plus_-_samsung_galaxy_s20_plus_5g_full04_b8xtzbtj.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//113/MTA-6865988/nillkin_nillkin_hard_case_camshield_pro_case_-_samsung_galaxy_s20_plus_-_samsung_galaxy_s20_plus_5g_full03_mewtsabs.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//113/MTA-6865988/nillkin_nillkin_hard_case_camshield_pro_case_-_samsung_galaxy_s20_plus_-_samsung_galaxy_s20_plus_5g_full02_b5o8da60.jpg"
-        ],
-        "price": {
-            "originalPrice": 169000,
-            "discount": 2,
-            "finalPrice": 166000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 6,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Casing"
-        ],
-        "url": "https://blibli.com/p/nillkin-hard-case-camshield-pro-case-samsung-galaxy-s20-plus-samsung-galaxy-s20-plus-5g/ps--ORM-40582-06367?ds=ORM-40582-06367-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1mcVsjhcdgPp+qTVepsj2RQH6vkUi4RHhI+l+sVlPrpY6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86POIUqKO9p5cMvC+z/NFTdpQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06367",
-        "crawlAt": 1706956523629
+        "crawlAt": 1707039493019,
+        "_id": "65bf5b2d1abe1c535fd564d0"
     },
     {
         "marketplace": "blibli",
@@ -655,6 +627,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//104/MTA-17885921/nillkin_nillkin_3d_cp-_max_tempered_glass_screen_protector_for_samsung_galaxy_s20_or_samsung_galaxy_s20_5g_full07_qaalijt0.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//104/MTA-17885921/nillkin_nillkin_3d_cp-_max_tempered_glass_screen_protector_for_samsung_galaxy_s20_or_samsung_galaxy_s20_5g_full08_hvcxfmqt.jpg"
         ],
+        "merchantName": "Orionlycom",
         "price": {
             "originalPrice": 209000,
             "discount": 6,
@@ -668,7 +641,36 @@
             "Screen Protector"
         ],
         "url": "https://blibli.com/p/nillkin-3d-cp-max-tempered-glass-screen-protector-for-samsung-galaxy-s20-or-samsung-galaxy-s20-5g/ps--ORM-40582-06267?ds=ORM-40582-06267-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1jivGClVoqEpHhqjcdJgG3IVupK421ZNZjxMkIszT4fV6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86PFfGXcHNZE4OgTeEc+SpvkQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06267",
-        "crawlAt": 1706956523629
+        "crawlAt": 1707039493019,
+        "_id": "65bf5b301abe1c535fd564d2"
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Nillkin Hard Case CamShield Pro Case - Samsung Galaxy S20 Plus / Samsung Galaxy S20 Plus 5G",
+        "brand": "Nillkin",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//113/MTA-6865988/nillkin_nillkin_hard_case_camshield_pro_case_-_samsung_galaxy_s20_plus_-_samsung_galaxy_s20_plus_5g_full01_redrxwru.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//113/MTA-6865988/nillkin_nillkin_hard_case_camshield_pro_case_-_samsung_galaxy_s20_plus_-_samsung_galaxy_s20_plus_5g_full05_ln0ykmc.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//113/MTA-6865988/nillkin_nillkin_hard_case_camshield_pro_case_-_samsung_galaxy_s20_plus_-_samsung_galaxy_s20_plus_5g_full04_b8xtzbtj.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//113/MTA-6865988/nillkin_nillkin_hard_case_camshield_pro_case_-_samsung_galaxy_s20_plus_-_samsung_galaxy_s20_plus_5g_full03_mewtsabs.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//113/MTA-6865988/nillkin_nillkin_hard_case_camshield_pro_case_-_samsung_galaxy_s20_plus_-_samsung_galaxy_s20_plus_5g_full02_b5o8da60.jpg"
+        ],
+        "merchantName": "Orionlycom",
+        "price": {
+            "originalPrice": 169000,
+            "discount": 2,
+            "finalPrice": 166000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 6,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Casing"
+        ],
+        "url": "https://blibli.com/p/nillkin-hard-case-camshield-pro-case-samsung-galaxy-s20-plus-samsung-galaxy-s20-plus-5g/ps--ORM-40582-06367?ds=ORM-40582-06367-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1mcVsjhcdgPp+qTVepsj2RQH6vkUi4RHhI+l+sVlPrpY6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86POIUqKO9p5cMvC+z/NFTdpQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06367",
+        "crawlAt": 1707039493019,
+        "_id": "65bf5b321abe1c535fd564d4"
     },
     {
         "marketplace": "blibli",
@@ -681,6 +683,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//106/MTA-8870586/nillkin_nillkin_tempered_glass_-amazing_h-_pro-_-_samsung_galaxy_m31s_-_samsung_galaxy_a51_-_samsung_galaxy_a51_5g_full03_bkdjhob9.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//106/MTA-8870586/nillkin_nillkin_tempered_glass_-amazing_h-_pro-_-_samsung_galaxy_m31s_-_samsung_galaxy_a51_-_samsung_galaxy_a51_5g_full02_hkr2zxlb.jpg"
         ],
+        "merchantName": "Orionlycom",
         "price": {
             "originalPrice": 149000,
             "discount": 5,
@@ -694,58 +697,8 @@
             "Screen Protector"
         ],
         "url": "https://blibli.com/p/nillkin-tempered-glass-amazing-h-pro-samsung-galaxy-m31s-samsung-galaxy-a51-samsung-galaxy-a51-5g/ps--ORM-40582-06811?ds=ORM-40582-06811-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZH9VlseAwtvhOGOLlL7NcYf6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86PFfGXcHNZE4OgTeEc+SpvkQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06811",
-        "crawlAt": 1706956523629
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Nillkin Matte Screen Protector for Samsung Galaxy A8 Plus 2018 or Samsung Galaxy A8 Plus 2018 Duos [Simple Pack]",
-        "brand": "Nillkin",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//97/MTA-2507685/nillkin_nillkin-screen-protector--simple-pack----samsung-galaxy-a8-plus-2018-samsung-galaxy-a8-plus-2018-duos-matte_full05.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//97/MTA-2507685/nillkin_nillkin-screen-protector--simple-pack----samsung-galaxy-a8-plus-2018-samsung-galaxy-a8-plus-2018-duos-matte_full06.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//97/MTA-2507685/nillkin_nillkin-screen-protector--simple-pack----samsung-galaxy-a8-plus-2018-samsung-galaxy-a8-plus-2018-duos-matte_full07.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//97/MTA-2507685/nillkin_nillkin-screen-protector--simple-pack----samsung-galaxy-a8-plus-2018-samsung-galaxy-a8-plus-2018-duos-matte_full08.jpg"
-        ],
-        "price": {
-            "originalPrice": 65000,
-            "discount": 6,
-            "finalPrice": 61000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 2,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Screen Protector"
-        ],
-        "url": "https://blibli.com/p/nillkin-matte-screen-protector-for-samsung-galaxy-a8-plus-2018-or-samsung-galaxy-a8-plus-2018-duos-simple-pack/ps--ORM-40582-04320?ds=ORM-40582-04320-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gVM1r7pUcMHMSa2GcVlGJ+Fag/PwQSOdDt/5kcafqUGBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aO9+IA/O9Alm0sDqZ/gwLsWT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-04320",
-        "crawlAt": 1706956523629
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Nillkin Tempered Glass (3D CP+ MAX) - Samsung Galaxy Note 20 Ultra / Samsung Galaxy Note 20 Ultra 5G",
-        "brand": "Nillkin",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//111/MTA-7988069/nillkin_nillkin_tempered_glass_-3d_cp-_max-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full01_f3rqvgb1.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//111/MTA-7988069/nillkin_nillkin_tempered_glass_-3d_cp-_max-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full05_fe1fff9r.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//111/MTA-7988069/nillkin_nillkin_tempered_glass_-3d_cp-_max-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full04_hyvfovm2.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//111/MTA-7988069/nillkin_nillkin_tempered_glass_-3d_cp-_max-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full03_svtya9za.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//111/MTA-7988069/nillkin_nillkin_tempered_glass_-3d_cp-_max-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full02_qizcp4ir.jpg"
-        ],
-        "price": {
-            "originalPrice": 209000,
-            "discount": 6,
-            "finalPrice": 196000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 11,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Screen Protector"
-        ],
-        "url": "https://blibli.com/p/nillkin-tempered-glass-3d-cp-max-samsung-galaxy-note-20-ultra-samsung-galaxy-note-20-ultra-5g/ps--ORM-40582-06642?ds=ORM-40582-06642-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1joJrWzzBGuPpfXA73vr50dfg10rLDuWIVyqznT71PD7V6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYOPTaJa61ZourzquQtoo/whwI6i9DoehUWw+hDWjdpAXCQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06642",
-        "crawlAt": 1706956523629
+        "crawlAt": 1707039493019,
+        "_id": "65bf5b331abe1c535fd564d6"
     },
     {
         "marketplace": "blibli",
@@ -758,6 +711,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//80/MTA-6104113/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_s20_ultra_full21_c0zjo699.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//80/MTA-6104113/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_s20_ultra_full22_m7jh3ecs.jpg"
         ],
+        "merchantName": "Orionlycom",
         "price": {
             "originalPrice": 99000,
             "discount": 8,
@@ -771,7 +725,35 @@
             "Casing"
         ],
         "url": "https://blibli.com/p/nillkin-hard-case-super-frosted-shield-samsung-galaxy-s20-ultra-samsung-galaxy-s20-ultra-5g/ps--ORM-40582-06197?ds=ORM-40582-06197-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1pGTFXj2OkmKf+AOWXtSxPLX8O0QW+udg7MM3z+xpPNnBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aZyNa4lr5t5nmCNGGkFUiPmT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06197",
-        "crawlAt": 1706956523629
+        "crawlAt": 1707039493019,
+        "_id": "65bf5b341abe1c535fd564d8"
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Nillkin Matte Screen Protector for Samsung Galaxy A8 Plus 2018 or Samsung Galaxy A8 Plus 2018 Duos [Simple Pack]",
+        "brand": "Nillkin",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//97/MTA-2507685/nillkin_nillkin-screen-protector--simple-pack----samsung-galaxy-a8-plus-2018-samsung-galaxy-a8-plus-2018-duos-matte_full05.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//97/MTA-2507685/nillkin_nillkin-screen-protector--simple-pack----samsung-galaxy-a8-plus-2018-samsung-galaxy-a8-plus-2018-duos-matte_full06.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//97/MTA-2507685/nillkin_nillkin-screen-protector--simple-pack----samsung-galaxy-a8-plus-2018-samsung-galaxy-a8-plus-2018-duos-matte_full07.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//97/MTA-2507685/nillkin_nillkin-screen-protector--simple-pack----samsung-galaxy-a8-plus-2018-samsung-galaxy-a8-plus-2018-duos-matte_full08.jpg"
+        ],
+        "merchantName": "Orionlycom",
+        "price": {
+            "originalPrice": 65000,
+            "discount": 6,
+            "finalPrice": 61000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 2,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Screen Protector"
+        ],
+        "url": "https://blibli.com/p/nillkin-matte-screen-protector-for-samsung-galaxy-a8-plus-2018-or-samsung-galaxy-a8-plus-2018-duos-simple-pack/ps--ORM-40582-04320?ds=ORM-40582-04320-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gVM1r7pUcMHMSa2GcVlGJ+Fag/PwQSOdDt/5kcafqUGBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aO9+IA/O9Alm0sDqZ/gwLsWT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-04320",
+        "crawlAt": 1707039493019,
+        "_id": "65bf5b361abe1c535fd564da"
     },
     {
         "marketplace": "blibli",
@@ -784,6 +766,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//100/MTA-7987104/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_note_20_utlra_-_samsung_galaxy_note_20_ultra_5g_full04_k9nqypzb.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//100/MTA-7987104/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_note_20_utlra_-_samsung_galaxy_note_20_ultra_5g_full05_h5t3p4pi.jpg"
         ],
+        "merchantName": "Orionlycom",
         "price": {
             "originalPrice": 99000,
             "discount": 8,
@@ -797,7 +780,8 @@
             "Casing"
         ],
         "url": "https://blibli.com/p/nillkin-hard-case-super-frosted-shield-samsung-galaxy-note-20-utlra-samsung-galaxy-note-20-ultra-5g/ps--ORM-40582-06641?ds=ORM-40582-06641-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1vJj31LsLiIwVXcYYrluCcHX8O0QW+udg7MM3z+xpPNnBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aZyNa4lr5t5nmCNGGkFUiPmT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06641",
-        "crawlAt": 1706956523629
+        "crawlAt": 1707039493019,
+        "_id": "65bf5b381abe1c535fd564dc"
     },
     {
         "marketplace": "blibli",
@@ -809,6 +793,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//100/MTA-4118779/nillkin_nillkin_baby_skin_case_-flex_pure_case-_-_samsung_galaxy_note_10_plus_-_samsung_galaxy_note_10_plus_5g_full22.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//100/MTA-4118779/nillkin_nillkin_baby_skin_case_-flex_pure_case-_-_samsung_galaxy_note_10_plus_-_samsung_galaxy_note_10_plus_5g_full15.jpg"
         ],
+        "merchantName": "Orionlycom",
         "price": {
             "originalPrice": 179000,
             "discount": 18,
@@ -822,59 +807,8 @@
             "Casing"
         ],
         "url": "https://blibli.com/p/nillkin-baby-skin-flex-pure-casing-for-samsung-galaxy-note-10-plus-or-samsung-galaxy-note-10-plus-5g/ps--ORM-40582-05671?ds=ORM-40582-05671-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1jivGClVoqEpHhqjcdJgG3IMTMsZOfA3FOzbEmHpF4Iu6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86POIUqKO9p5cMvC+z/NFTdpQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-05671",
-        "crawlAt": 1706956523629
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Nillkin Hard Case CamShield (Armor Case) - Samsung Galaxy Note 20 Ultra / Samsung Galaxy Note 20 Ultra 5G",
-        "brand": "Nillkin",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-8212289/nillkin_nillkin_hard_case_camshield_-armor_case-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full05_jxwnrqy0.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-8212289/nillkin_nillkin_hard_case_camshield_-armor_case-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full01_pbh1rlfo.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-8212289/nillkin_nillkin_hard_case_camshield_-armor_case-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full03_e3a5whtm.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-8212289/nillkin_nillkin_hard_case_camshield_-armor_case-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full04_bqa0aasj.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-8212289/nillkin_nillkin_hard_case_camshield_-armor_case-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full07_t3v4yo99.jpg"
-        ],
-        "price": {
-            "originalPrice": 199000,
-            "discount": 12,
-            "finalPrice": 176000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 26,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Casing"
-        ],
-        "url": "https://blibli.com/p/nillkin-hard-case-camshield-armor-case-samsung-galaxy-note-20-ultra-samsung-galaxy-note-20-ultra-5g/ps--ORM-40582-06686?ds=ORM-40582-06686-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1k+QZi5M2LSKgeke3pOtuKJE6N/Cf2I7mN8ZZY9GvRo2V6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYOPTaJa61ZourzquQtoo/whKUnRDRXZLSSdAODeCXzbQiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06686",
-        "crawlAt": 1706956523629
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Ringke Samsung Galaxy Z Flip 3 Slim - Black",
-        "brand": "Ringke",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-81585479/ringke_ringke-samsung-galaxy-z-flip-3-slim-black_full01.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-81585479/ringke_ringke-samsung-galaxy-z-flip-3-slim-black_full02.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-81585479/ringke_ringke-samsung-galaxy-z-flip-3-slim-black_full03.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-81585479/ringke_ringke-samsung-galaxy-z-flip-3-slim-black_full04.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-81585479/ringke_ringke-samsung-galaxy-z-flip-3-slim-black_full05.jpg"
-        ],
-        "price": {
-            "originalPrice": 519000,
-            "discount": 64,
-            "finalPrice": 184400
-        },
-        "category": "Handphone & Tablet",
-        "sell": 4,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Casing"
-        ],
-        "url": "https://blibli.com/p/ringke-samsung-galaxy-z-flip-3-slim-black/ps--RIO-60031-01846?ds=RIO-60031-01846-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1jivGClVoqEpHhqjcdJgG3INpW9NsZWdZpTesvKqgfh06Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvgDGemfm5SNh5Jq9KPDEXJ5jzCxKTOmEWlperjuKJtK31FBTc87YP8sPvWm7FKE+rYMTLk5pIsoVQJmtwLacJnYvOraDWI0pCKeuYXD6zKYCpT14wSobMnF05qab41SltUq6VBV00TSMvh5kbZwrs+u&cnc=false&pickupPointCode=PP-3042228&pid1=RIO-60031-01846",
-        "crawlAt": 1706956523629
+        "crawlAt": 1707039493019,
+        "_id": "65bf5b391abe1c535fd564de"
     },
     {
         "marketplace": "blibli",
@@ -887,6 +821,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/MTA-7130361/samsung_samsung_ua43t6500_smart_tv_-full_hd-_full04_d0gf1aic.jpeg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/MTA-7130361/samsung_samsung_ua43t6500_smart_tv_-full_hd-_full05_knnzbvtx.jpeg"
         ],
+        "merchantName": "SINAR AGUNG ELECTRONIC Official Store",
         "price": {
             "originalPrice": 4521500,
             "discount": 11,
@@ -902,59 +837,120 @@
             "Smart TV 40-49 Inch"
         ],
         "url": "https://blibli.com/p/samsung-ua43t6500-smart-tv-full-hd/ps--SIA-36682-03571?ds=SIA-36682-03571-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZHpHgewi5cmT+1D7U3jUJC6V6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYN1KAztwN0qeBS0GdaecCEkc8m/gETOGCcvSIAKOJoHCbg0vYFrbDYY4ipFbyy1mdL5iCaXeV8BCXCBFQEof6QIR1idper1VAxjD0VeVT6Y5Q==&cnc=false&pickupPointCode=PP-3009945&pid1=SIA-36682-03571",
-        "crawlAt": 1706956523629
+        "crawlAt": 1707039493019,
+        "_id": "65bf5b3a1abe1c535fd564e0"
     },
     {
         "marketplace": "blibli",
-        "productName": "Nillkin Hard Case CamShield Pro Case - Samsung Galaxy S20 Ultra / Samsung Galaxy S20 Ultra 5G",
-        "brand": "Nillkin",
+        "productName": "Samsung Galaxy S24 Ultra Smart View Wallet Case",
+        "brand": "no brand",
         "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-6811574/nillkin_nillkin_hard_case_camshield_pro_case_-_samsung_galaxy_s20_ultra_-_samsung_galaxy_s20_ultra_5g_full01_lnuo8uuc.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-6811574/nillkin_nillkin_hard_case_camshield_pro_case_-_samsung_galaxy_s20_ultra_-_samsung_galaxy_s20_ultra_5g_full05_mvns42wb.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-6811574/nillkin_nillkin_hard_case_camshield_pro_case_-_samsung_galaxy_s20_ultra_-_samsung_galaxy_s20_ultra_5g_full04_hfz3fqze.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-6811574/nillkin_nillkin_hard_case_camshield_pro_case_-_samsung_galaxy_s20_ultra_-_samsung_galaxy_s20_ultra_5g_full03_e1lolgm6.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-6811574/nillkin_nillkin_hard_case_camshield_pro_case_-_samsung_galaxy_s20_ultra_-_samsung_galaxy_s20_ultra_5g_full02_b3ecb3kf.jpg"
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/97/MTA-155145472/brd-44261_samsung-galaxy-s24-ultra-smart-view-wallet-case_full05-301dd5fb.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/97/MTA-155145472/brd-44261_samsung-galaxy-s24-ultra-smart-view-wallet-case_full01-02c7aabb.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/97/MTA-155145472/brd-44261_samsung-galaxy-s24-ultra-smart-view-wallet-case_full02-fbbb9f94.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/97/MTA-155145472/brd-44261_samsung-galaxy-s24-ultra-smart-view-wallet-case_full03-81648f1c.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/97/MTA-155145472/brd-44261_samsung-galaxy-s24-ultra-smart-view-wallet-case_full04-088ecd4b.jpg"
         ],
+        "merchantName": "HapeJoss Official Store",
         "price": {
-            "originalPrice": 169000,
-            "discount": 2,
-            "finalPrice": 166000
+            "originalPrice": 0,
+            "discount": 0,
+            "finalPrice": 499000
         },
         "category": "Handphone & Tablet",
-        "sell": 12,
+        "sell": 2,
         "categoryList": [
             "Handphone & Tablet",
             "Aksesoris Handphone & Tablet",
             "Casing"
         ],
-        "url": "https://blibli.com/p/nillkin-hard-case-camshield-pro-case-samsung-galaxy-s20-ultra-samsung-galaxy-s20-ultra-5g/ps--ORM-40582-06361?ds=ORM-40582-06361-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1i1zUkDz0XPTp6rr5PUEIlXilvoZlglFIIg09etvIDvCV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYOPTaJa61ZourzquQtoo/whKUnRDRXZLSSdAODeCXzbQiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06361",
-        "crawlAt": 1706956523629
+        "url": "https://blibli.com/p/samsung-galaxy-s24-ultra-smart-view-wallet-case/ps--HAS-70030-00822?ds=HAS-70030-00822-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gVM1r7pUcMHMSa2GcVlGJ8xNp1hOCpHb9ER7yLXGu+H6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86POIUqKO9p5cMvC+z/NFTdpQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3314382&pid1=HAS-70030-00822&tag=new",
+        "crawlAt": 1707039493019,
+        "_id": "65bf5b3f1abe1c535fd564e2"
     },
     {
         "marketplace": "blibli",
-        "productName": "LG TV OLED 65C3PSA SMART TV 4K LG TV 65 INCH 65C3",
-        "brand": "LG",
+        "productName": "Nillkin Tempered Glass (3D CP+ MAX) - Samsung Galaxy Note 20 Ultra / Samsung Galaxy Note 20 Ultra 5G",
+        "brand": "Nillkin",
         "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/106/MTA-98935171/lg_lg_tv_oled_65c3psa_smart_tv_4k_lg_tv_65_inch_65c3_full01_nx9cb8yk.jpeg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/106/MTA-98935171/lg_lg_tv_oled_65c3psa_smart_tv_4k_lg_tv_65_inch_65c3_full02_gvngnrb4.jpeg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/106/MTA-98935171/lg_lg_tv_oled_65c3psa_smart_tv_4k_lg_tv_65_inch_65c3_full03_b5ejutw.jpeg"
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//111/MTA-7988069/nillkin_nillkin_tempered_glass_-3d_cp-_max-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full01_f3rqvgb1.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//111/MTA-7988069/nillkin_nillkin_tempered_glass_-3d_cp-_max-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full05_fe1fff9r.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//111/MTA-7988069/nillkin_nillkin_tempered_glass_-3d_cp-_max-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full04_hyvfovm2.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//111/MTA-7988069/nillkin_nillkin_tempered_glass_-3d_cp-_max-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full03_svtya9za.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//111/MTA-7988069/nillkin_nillkin_tempered_glass_-3d_cp-_max-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full02_qizcp4ir.jpg"
         ],
+        "merchantName": "Orionlycom",
         "price": {
-            "originalPrice": 0,
-            "discount": 0,
-            "finalPrice": 26999000
+            "originalPrice": 209000,
+            "discount": 6,
+            "finalPrice": 196000
         },
-        "category": "Peralatan Elektronik",
-        "sell": 7,
+        "category": "Handphone & Tablet",
+        "sell": 11,
         "categoryList": [
-            "Peralatan Elektronik",
-            "Televisi & Aksesoris",
-            "TV LCD##LED",
-            "Smart TV",
-            "Smart TV 60-69 Inch"
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Screen Protector"
         ],
-        "url": "https://blibli.com/p/lg-tv-oled-65c3psa-smart-tv-4k-lg-tv-65-inch-65c3/ps--TI9-70004-00705?ds=TI9-70004-00705-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1n2w4hyoSe9OWrWTVrMg3TaX233wVKWdCp0hrdl773Z3Vfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPqbM7lt328rv/uATuMrdMHKlbi4aulnAm4XgZlLGTbTANAzP0TCbosRlNRDom8WQ2VMSQ89ETnHjN5afVfeNJnCjvPH8s78v5mXVKRMB7V1hA==&cnc=false&pickupPointCode=PP-3265106&pid1=TI9-70004-00705",
-        "crawlAt": 1706956523629
+        "url": "https://blibli.com/p/nillkin-tempered-glass-3d-cp-max-samsung-galaxy-note-20-ultra-samsung-galaxy-note-20-ultra-5g/ps--ORM-40582-06642?ds=ORM-40582-06642-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1joJrWzzBGuPpfXA73vr50dfg10rLDuWIVyqznT71PD7V6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYOPTaJa61ZourzquQtoo/whwI6i9DoehUWw+hDWjdpAXCQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06642",
+        "crawlAt": 1707039493019,
+        "_id": "65bf5b3f1abe1c535fd564e4"
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Ringke Samsung Galaxy Z Flip 3 Slim - Black",
+        "brand": "Ringke",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-81585479/ringke_ringke-samsung-galaxy-z-flip-3-slim-black_full01.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-81585479/ringke_ringke-samsung-galaxy-z-flip-3-slim-black_full02.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-81585479/ringke_ringke-samsung-galaxy-z-flip-3-slim-black_full03.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-81585479/ringke_ringke-samsung-galaxy-z-flip-3-slim-black_full04.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-81585479/ringke_ringke-samsung-galaxy-z-flip-3-slim-black_full05.jpg"
+        ],
+        "merchantName": "Official Store Ringke",
+        "price": {
+            "originalPrice": 519000,
+            "discount": 64,
+            "finalPrice": 184400
+        },
+        "category": "Handphone & Tablet",
+        "sell": 4,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Casing"
+        ],
+        "url": "https://blibli.com/p/ringke-samsung-galaxy-z-flip-3-slim-black/ps--RIO-60031-01846?ds=RIO-60031-01846-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1jivGClVoqEpHhqjcdJgG3INpW9NsZWdZpTesvKqgfh06Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvgDGemfm5SNh5Jq9KPDEXJ5jzCxKTOmEWlperjuKJtK31FBTc87YP8sPvWm7FKE+rYMTLk5pIsoVQJmtwLacJnYvOraDWI0pCKeuYXD6zKYCpT14wSobMnF05qab41SltUq6VBV00TSMvh5kbZwrs+u&cnc=false&pickupPointCode=PP-3042228&pid1=RIO-60031-01846",
+        "crawlAt": 1707039493019,
+        "_id": "65bf5b401abe1c535fd564e6"
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Nillkin Hard Case CamShield (Armor Case) - Samsung Galaxy Note 20 Ultra / Samsung Galaxy Note 20 Ultra 5G",
+        "brand": "Nillkin",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-8212289/nillkin_nillkin_hard_case_camshield_-armor_case-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full05_jxwnrqy0.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-8212289/nillkin_nillkin_hard_case_camshield_-armor_case-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full01_pbh1rlfo.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-8212289/nillkin_nillkin_hard_case_camshield_-armor_case-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full03_e3a5whtm.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-8212289/nillkin_nillkin_hard_case_camshield_-armor_case-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full04_bqa0aasj.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-8212289/nillkin_nillkin_hard_case_camshield_-armor_case-_-_samsung_galaxy_note_20_ultra_-_samsung_galaxy_note_20_ultra_5g_full07_t3v4yo99.jpg"
+        ],
+        "merchantName": "Orionlycom",
+        "price": {
+            "originalPrice": 199000,
+            "discount": 12,
+            "finalPrice": 176000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 26,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Casing"
+        ],
+        "url": "https://blibli.com/p/nillkin-hard-case-camshield-armor-case-samsung-galaxy-note-20-ultra-samsung-galaxy-note-20-ultra-5g/ps--ORM-40582-06686?ds=ORM-40582-06686-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1k+QZi5M2LSKgeke3pOtuKJE6N/Cf2I7mN8ZZY9GvRo2V6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYOPTaJa61ZourzquQtoo/whKUnRDRXZLSSdAODeCXzbQiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06686",
+        "crawlAt": 1707039493019,
+        "_id": "65bf5b441abe1c535fd564e8"
     },
     {
         "marketplace": "blibli",
@@ -967,6 +963,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/104/MTA-153718780/samsung_samsung_galaxy_a15_lte_8-128_garansi_resmi_samsung_indonesia_full04_t9oh0f03.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/104/MTA-153718780/samsung_samsung_galaxy_a15_lte_8-128_garansi_resmi_samsung_indonesia_full05_qy1dw5tn.jpg"
         ],
+        "merchantName": "Vote VIP Official Store",
         "price": {
             "originalPrice": 2899000,
             "discount": 6,
@@ -980,7 +977,36 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-a15-lte-8-128-garansi-resmi-samsung-indonesia/ps--VOV-70000-00581?ds=VOV-70000-00581-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gVM1r7pUcMHMSa2GcVlGJ9hs4/fm17jJP7PK7YWKBOlV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70MpLMfP88iQTh28yrud9gP8L8fQNr+iQQraBtd3ylN43svJqIi2XqjxFa1WXD2Hq7li0nCtQOqY4utJmZa0EvR2PLWjp7XXNx89qDNn9ZrNSX8CG88FJRCeLOsphecMqhL2TeETumckatdkLB2bGJ7r&cnc=false&pickupPointCode=PP-3459261&pid1=VOV-70000-00581",
-        "crawlAt": 1706956523629
+        "crawlAt": 1707039493019,
+        "_id": "65bf5b461abe1c535fd564ea"
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Nillkin Hard Case CamShield Pro Case - Samsung Galaxy S20 Ultra / Samsung Galaxy S20 Ultra 5G",
+        "brand": "Nillkin",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-6811574/nillkin_nillkin_hard_case_camshield_pro_case_-_samsung_galaxy_s20_ultra_-_samsung_galaxy_s20_ultra_5g_full01_lnuo8uuc.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-6811574/nillkin_nillkin_hard_case_camshield_pro_case_-_samsung_galaxy_s20_ultra_-_samsung_galaxy_s20_ultra_5g_full05_mvns42wb.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-6811574/nillkin_nillkin_hard_case_camshield_pro_case_-_samsung_galaxy_s20_ultra_-_samsung_galaxy_s20_ultra_5g_full04_hfz3fqze.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-6811574/nillkin_nillkin_hard_case_camshield_pro_case_-_samsung_galaxy_s20_ultra_-_samsung_galaxy_s20_ultra_5g_full03_e1lolgm6.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-6811574/nillkin_nillkin_hard_case_camshield_pro_case_-_samsung_galaxy_s20_ultra_-_samsung_galaxy_s20_ultra_5g_full02_b3ecb3kf.jpg"
+        ],
+        "merchantName": "Orionlycom",
+        "price": {
+            "originalPrice": 169000,
+            "discount": 2,
+            "finalPrice": 166000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 12,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Casing"
+        ],
+        "url": "https://blibli.com/p/nillkin-hard-case-camshield-pro-case-samsung-galaxy-s20-ultra-samsung-galaxy-s20-ultra-5g/ps--ORM-40582-06361?ds=ORM-40582-06361-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1i1zUkDz0XPTp6rr5PUEIlXilvoZlglFIIg09etvIDvCV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYOPTaJa61ZourzquQtoo/whKUnRDRXZLSSdAODeCXzbQiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06361",
+        "crawlAt": 1707039493019,
+        "_id": "65bf5b471abe1c535fd564ec"
     },
     {
         "marketplace": "blibli",
@@ -1001,6 +1027,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//116/MTA-69918938/nillkin_case_samsung_galaxy_a04_nillkin_frosted_shield_casing_full12_q4yw8oqm.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//116/MTA-69918938/nillkin_case_samsung_galaxy_a04_nillkin_frosted_shield_casing_full13_me2jmexs.jpg"
         ],
+        "merchantName": "Orionlycom",
         "price": {
             "originalPrice": 99000,
             "discount": 8,
@@ -1014,7 +1041,36 @@
             "Casing"
         ],
         "url": "https://blibli.com/p/case-samsung-galaxy-a04-nillkin-frosted-shield-casing/ps--ORM-40582-08278?ds=ORM-40582-08278-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZHX8O0QW+udg7MM3z+xpPNnBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aZyNa4lr5t5nmCNGGkFUiPmT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-08278",
-        "crawlAt": 1706956523629
+        "crawlAt": 1707039493019,
+        "_id": "65bf5b481abe1c535fd564ee"
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "#DIJAMINMURAH Samsung 32N4001 LED TV [32 Inch]",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//94/MTA-14616148/samsung_-dijaminmurah_samsung_32n4001_led_tv_-32_inch-_full01_i4rl91kb.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//94/MTA-14616148/samsung_-dijaminmurah_samsung_32n4001_led_tv_-32_inch-_full02_jpk5ts7j.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//94/MTA-14616148/samsung_-dijaminmurah_samsung_32n4001_led_tv_-32_inch-_full03_p4ijyxjg.jpg"
+        ],
+        "merchantName": "WAHANA SUPER Official Store",
+        "price": {
+            "originalPrice": 2599000,
+            "discount": 35,
+            "finalPrice": 1699000
+        },
+        "category": "Peralatan Elektronik",
+        "sell": 93,
+        "categoryList": [
+            "Peralatan Elektronik",
+            "Televisi & Aksesoris",
+            "TV LCD##LED",
+            "Basic TV",
+            "Basic TV 30-39 Inch"
+        ],
+        "url": "https://blibli.com/p/dijaminmurah-samsung-32n4001-led-tv-32-inch/ps--WAS-26793-02156?ds=WAS-26793-02156-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1mjcRfR2i2sFCdc1t33nDmqoFGQE8YFVHCq5s0PpnGLJVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPqbM7lt328rv/uATuMrdMHKlbi4aulnAm4XgZlLGTbTADIsNT/oK5A1BH+mJ2Y5OaCKBEh1f8rNX0jgxA1h1cZVjvPH8s78v5mXVKRMB7V1hA==&cnc=false&pickupPointCode=PP-3002962&pid1=WAS-26793-02156",
+        "crawlAt": 1707039493019,
+        "_id": "65bf5b491abe1c535fd564f0"
     },
     {
         "marketplace": "blibli",
@@ -1026,6 +1082,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//86/MTA-3012069/nillkin_nillkin-nature-tpu-casing-samsung-galaxy-s10-lite_full16.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//86/MTA-3012069/nillkin_nillkin-nature-tpu-casing-samsung-galaxy-s10-lite_full17.jpg"
         ],
+        "merchantName": "Orionlycom",
         "price": {
             "originalPrice": 89000,
             "discount": 9,
@@ -1039,6 +1096,7 @@
             "Casing"
         ],
         "url": "https://blibli.com/p/nillkin-nature-tpu-casing-samsung-galaxy-s10e/ps--ORM-40582-05055?ds=ORM-40582-05055-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1mcVsjhcdgPp+qTVepsj2RR8ETvgnoo9CMlaD064GV/JBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aZyNa4lr5t5nmCNGGkFUiPmT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-05055",
-        "crawlAt": 1706956523629
+        "crawlAt": 1707039493019,
+        "_id": "65bf5b4a1abe1c535fd564f2"
     }
 ]

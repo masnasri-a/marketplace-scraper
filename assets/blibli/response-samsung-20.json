@@ -1,181 +1,18 @@
 [
     {
         "marketplace": "blibli",
-        "productName": "Samsung Galaxy A53 5G Smartphone (8/128GB)",
+        "productName": "Samsung Galaxy A13 Smartphone [4GB/128GB]",
         "brand": "Samsung",
         "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-41374520/samsung_samsung_galaxy_a53_5g_smartphone_-8-128gb-_full01_u6b0ns32.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-41374520/samsung_samsung_galaxy_a53_5g_smartphone_-8-128gb-_full02_r3ua9s2h.jpg"
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//91/MTA-42872220/samsung_samsung_galaxy_a13_smartphone_-4gb-128gb-_full07_s0pkj83j.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//91/MTA-42872220/samsung_samsung_galaxy_a13_smartphone_-4gb-128gb-_full08_snf2lsrb.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//91/MTA-42872220/samsung_samsung_galaxy_a13_smartphone_-4gb-128gb-_full09_rh2j7qlt.jpg"
         ],
+        "merchantName": "GGS",
         "price": {
-            "originalPrice": 0,
-            "discount": 0,
-            "finalPrice": 5799000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 47,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Handphone",
-            "Android"
-        ],
-        "url": "https://blibli.com/p/samsung-galaxy-a53-5g-smartphone-8-128gb/ps--SMS-53926-01362?ds=SMS-53926-01362-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1ldgGqW4ak+rIzxVJE309qwyp/VH96QITI7G0sbJnSaNVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3017991&pid1=SMS-53926-01362",
-        "crawlAt": 1706956443249
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Samsung WA80H4000SW Mesin Cuci [8 kg] FREE ONGKIR (JABODETABEK)",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/samsung_samsung-wa80h4000sw-mesin-cuci--8-kg-_full02.jpg"
-        ],
-        "price": {
-            "originalPrice": 2999000,
-            "discount": 5,
-            "finalPrice": 2839000
-        },
-        "category": "Peralatan Elektronik",
-        "sell": 14,
-        "categoryList": [
-            "Peralatan Elektronik",
-            "Mesin Cuci & Pengering",
-            "Mesin Cuci",
-            "Mesin Cuci Top Load"
-        ],
-        "url": "https://blibli.com/p/samsung-wa80h4000sw-mesin-cuci-8-kg-free-ongkir-jabodetabek/ps--BRE-70015-00235?ds=BRE-70015-00235-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1mPLhyhOtMzhHDziRpiGCLsDd3cbMIWyqHbfx7fpQ4wNVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPrEeZLThBo/IOniAtfMl1JoworXuLJlyAuvmmGBCDjonGdC+71dSzZaOZ027u6WrS5qeRbJl3Fqhz++QbM3dw0n&cnc=false&pickupPointCode=PP-3178020&pid1=BRE-70015-00235",
-        "crawlAt": 1706956443249
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Samsung Galaxy Buds 2 - Garansi Resmi",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//101/MTA-24238568/samsung_samsung_galaxy_buds_2_-_garansi_resmi_full01_iecwjm7c.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//101/MTA-24238568/samsung_samsung_galaxy_buds_2_-_garansi_resmi_full02_ko8bywlp.jpg"
-        ],
-        "price": {
-            "originalPrice": 1641200,
-            "discount": 12,
-            "finalPrice": 1445000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 2,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Wearable Gadget",
-            "True Wireless"
-        ],
-        "url": "https://blibli.com/p/samsung-galaxy-buds-2-garansi-resmi/ps--BBP-60023-00937?ds=BBP-60023-00937-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gVM1r7pUcMHMSa2GcVlGJ97k/KMBlCvwArCPuRXPqJ6V6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYOpOoj7VMrTjotH+a8sGedqmFnqwQrFQyp7CeeVx2tenkHxub4gKCfc2aOvb96sHbcrvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3056887&pid1=BBP-60023-00937",
-        "crawlAt": 1706956443249
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Samsung Galaxy Watch5 Pro Smarwatch [45 mm]",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-56486511/samsung_samsung_galaxy_watch5_pro_smarwatch_-45_mm-_full07_dy7hvhyy.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-56486511/samsung_samsung_galaxy_watch5_pro_smarwatch_-45_mm-_full08_j36l60ov.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-56486511/samsung_samsung_galaxy_watch5_pro_smarwatch_-45_mm-_full09_emqskvix.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-56486511/samsung_samsung_galaxy_watch5_pro_smarwatch_-45_mm-_full10_e2of2kdn.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-56486511/samsung_samsung_galaxy_watch5_pro_smarwatch_-45_mm-_full11_p3a3q57h.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-56486511/samsung_samsung_galaxy_watch5_pro_smarwatch_-45_mm-_full12_dx4cnltv.jpg"
-        ],
-        "price": {
-            "originalPrice": 6499000,
+            "originalPrice": 2499000,
             "discount": 20,
-            "finalPrice": 5173000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 4,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Wearable Gadget",
-            "Smart Watch"
-        ],
-        "url": "https://blibli.com/p/samsung-galaxy-watch5-pro-smarwatch-45-mm/ps--THG-46091-00882?ds=THG-46091-00882-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1jivGClVoqEpHhqjcdJgG3JQMDajr6iyBub/kHo/A0c6V6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70MpLMfP88iQTh28yrud9gP8L8fQNr+iQQraBtd3ylN43svJqIi2XqjxFa1WXD2Hq7li0nCtQOqY4utJmZa0EvR2Gf9WyM2pgTZcWDETrjzoEhoPy+BA9qZcO5pr9GMbzbr2TeETumckatdkLB2bGJ7r&cnc=false&pickupPointCode=PP-3014058&pid1=THG-46091-00882",
-        "crawlAt": 1706956443249
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Samsung Galaxy A24 Ram 8/128 Gb Garansi Resmi 1 Tahun",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/90/MTA-103084342/samsung_samsung_galaxy_a24_ram_8-128_gb_garansi_resmi_1_tahun_full01_d0f1f169.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/90/MTA-103084342/samsung_samsung_galaxy_a24_ram_8-128_gb_garansi_resmi_1_tahun_full02_ff8b8635.jpg"
-        ],
-        "price": {
-            "originalPrice": 0,
-            "discount": 0,
-            "finalPrice": 3500000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 7,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Handphone",
-            "Android"
-        ],
-        "url": "https://blibli.com/p/samsung-galaxy-a24-ram-8-128-gb-garansi-resmi-1-tahun/ps--KAP-70194-00054?ds=KAP-70194-00054-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1n2w4hyoSe9OWrWTVrMg3TZKHmR7qEwZ9XJ1+3pzQfnjV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3293200&pid1=KAP-70194-00054",
-        "crawlAt": 1706956443249
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Samsung AR09NRFLDWKNSE AC Split - Putih [ 1 PK ]",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-3060961/samsung_samsung-ar09nrfldwknse-ac-split---putih--1-pk---khusus-jadetabek-_full02.jpg"
-        ],
-        "price": {
-            "originalPrice": 4599000,
-            "discount": 17,
-            "finalPrice": 3799000
-        },
-        "category": "Peralatan Elektronik",
-        "sell": 2,
-        "categoryList": [
-            "Peralatan Elektronik",
-            "Cooling, Heating & Air Quality",
-            "Air Conditioner",
-            "AC Split",
-            "AC Split 1 PK"
-        ],
-        "url": "https://blibli.com/p/samsung-ar09nrfldwknse-ac-split-putih-1-pk/ps--SUB-60072-00024?ds=SUB-60072-00024-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gVM1r7pUcMHMSa2GcVlGJ8lM9tTrBWTBLJYQTZBXA8eV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYOVzeXI44eWBpbQ2KmN80fUgj8rwLy4WyA5CBpvt+9b/O4etp1CWGykFmfiCVkPqDR3reOwiZq5MX733nx7Co2LR1idper1VAxjD0VeVT6Y5Q==&cnc=false&pickupPointCode=PP-3088772&pid1=SUB-60072-00024",
-        "crawlAt": 1706956443249
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Samsung Original Clear View Standing Flip Cover casing for Samsung Galaxy S8",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-1649561/samsung_samsung-original-clear-view-standing-flip-cover-casing-for-samsung-galaxy-s8_full02.jpg"
-        ],
-        "price": {
-            "originalPrice": 499000,
-            "discount": 60,
-            "finalPrice": 199600
-        },
-        "category": "Handphone & Tablet",
-        "sell": 7,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Casing"
-        ],
-        "url": "https://blibli.com/p/samsung-original-clear-view-standing-flip-cover-casing-for-samsung-galaxy-s8/ps--BLP-60048-00049?ds=BLP-60048-00049-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1n2w4hyoSe9OWrWTVrMg3TZvhcKgtIKH0TiceWN+eBVK6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86POIUqKO9p5cMvC+z/NFTdpQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3098359&pid1=BLP-60048-00049",
-        "crawlAt": 1706956443249
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Samsung Galaxy S23 Ultra 5G 12GB/512GB",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-92192595/samsung_samsung_galaxy_s23_ultra_smartphone_-12-512_gb-_full03_k9e749o4.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-92192595/samsung_samsung_galaxy_s23_ultra_smartphone_-12-512_gb-_full01_jahx66wq.jpg"
-        ],
-        "price": {
-            "originalPrice": 0,
-            "discount": 0,
-            "finalPrice": 21999000
+            "finalPrice": 2007910
         },
         "category": "Handphone & Tablet",
         "sell": 0,
@@ -184,8 +21,119 @@
             "Handphone",
             "Android"
         ],
-        "url": "https://blibli.com/p/samsung-galaxy-s23-ultra-5g-12gb-512gb/ps--PLP-60023-00688?ds=PLP-60023-00688-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZHv/9Jy2FMIIRxhaeq+p3vwVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3035578&pid1=PLP-60023-00688",
-        "crawlAt": 1706956443249
+        "url": "https://blibli.com/p/samsung-galaxy-a13-smartphone-4gb-128gb/ps--GGS-60024-00138?ds=GGS-60024-00138-00003&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZF1nLCCT4bcIUZumhk7EhJcV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70MpLMfP88iQTh28yrud9gP8L8fQNr+iQQraBtd3ylN43svJqIi2XqjxFa1WXD2Hq7li0nCtQOqY4utJmZa0EvR2PLWjp7XXNx89qDNn9ZrNSX8CG88FJRCeLOsphecMqhL2TeETumckatdkLB2bGJ7r&cnc=false&pickupPointCode=PP-3097103&pid1=GGS-60024-00138",
+        "crawlAt": 1707038789196
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Samsung Galaxy A14 5G 6/128GB",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/123/MTA-98959785/samsung_samsung_a14_5g_6-128gb_full02_kptrox91.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/123/MTA-98959785/samsung_samsung_a14_5g_6-128gb_full01_gtxsa760.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/123/MTA-98959785/samsung_samsung_a14_5g_6-128gb_full03_iwl0tgfe.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/123/MTA-98959785/samsung_samsung_a14_5g_6-128gb_full04_snf47gs9.jpg"
+        ],
+        "merchantName": "Candu Gadget",
+        "price": {
+            "originalPrice": 0,
+            "discount": 0,
+            "finalPrice": 2800000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 44,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Handphone",
+            "Android"
+        ],
+        "url": "https://blibli.com/p/samsung-galaxy-a14-5g-6-128gb/ps--CAG-70019-00182?ds=CAG-70019-00182-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1vfae4yyVrjmQUZZOhsMwErm5XAWDPVE0R/QzM7JOk12Vfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3179578&pid1=CAG-70019-00182",
+        "crawlAt": 1707038789196
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Samsung Galaxy A25 5G 8/256GB",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/105/MTA-152716299/br-m036969-02885_samsung-galaxy-a25-5g-ukuran-8-256gb_full08-5455d990.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/105/MTA-152716299/br-m036969-02885_samsung-galaxy-a25-5g-ukuran-8-256gb_full01-30b49eb1.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/105/MTA-152716299/br-m036969-02885_samsung-galaxy-a25-5g-ukuran-8-256gb_full02-96bbdb42.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/105/MTA-152716299/br-m036969-02885_samsung-galaxy-a25-5g-ukuran-8-256gb_full03-17c22091.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/105/MTA-152716299/br-m036969-02885_samsung-galaxy-a25-5g-ukuran-8-256gb_full04-d3433ab1.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/105/MTA-152716299/br-m036969-02885_samsung-galaxy-a25-5g-ukuran-8-256gb_full05-ae28a501.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/105/MTA-152716299/br-m036969-02885_samsung-galaxy-a25-5g-ukuran-8-256gb_full06-4c996c65.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/105/MTA-152716299/br-m036969-02885_samsung-galaxy-a25-5g-ukuran-8-256gb_full07-6e6bf116.jpg"
+        ],
+        "merchantName": "Jikalaku",
+        "price": {
+            "originalPrice": 3989000,
+            "discount": 3,
+            "finalPrice": 3888275
+        },
+        "category": "Handphone & Tablet",
+        "sell": 7,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Handphone",
+            "Android"
+        ],
+        "url": "https://blibli.com/p/samsung-galaxy-a25-5g-8-256gb/ps--SIA-60028-01904?ds=SIA-60028-01904-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1n2w4hyoSe9OWrWTVrMg3TaPsXIWxJUcjsO+fCdKmMWYV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3034298&pid1=SIA-60028-01904",
+        "crawlAt": 1707038789196
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Samsung Galaxy A34 5G 8/256GB",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-94780833/samsung_samsung_galaxy_a34_5g_8-256gb_full01_utfkun7r.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//106/MTA-94780833/br-m036969-02885_samsung-a34-5g-8-256gb_full01.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//106/MTA-94780833/samsung_samsung_a34_5g_8-256gb_full02_utefxwmh.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//106/MTA-94780833/samsung_samsung_a34_5g_8-256gb_full03_l15kcc15.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//106/MTA-94780833/samsung_samsung_a34_5g_8-256gb_full04_uuw1gpko.jpg"
+        ],
+        "merchantName": "HapeJoss Official Store",
+        "price": {
+            "originalPrice": 0,
+            "discount": 0,
+            "finalPrice": 5099000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 0,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Handphone",
+            "Android"
+        ],
+        "url": "https://blibli.com/p/samsung-galaxy-a34-5g-8-256gb/ps--HAS-70030-00600?ds=HAS-70030-00600-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZF5n6mPoqQkx2JMD0xmcJMXV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3139813&pid1=HAS-70030-00600",
+        "crawlAt": 1707038789196
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "PREORDER - Samsung Galaxy Z Fold4 5G Smartphone [12GB/256GB]",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//102/MTA-52874319/samsung_samsung_galaxy_z_fold4_5g_smartphone_-12gb-256gb-_full01_mt6yu32l.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//102/MTA-52874319/samsung_samsung_galaxy_z_fold4_5g_smartphone_-12gb-256gb-_full02_udh8moy9.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//102/MTA-52874319/samsung_samsung_galaxy_z_fold4_5g_smartphone_-12gb-256gb-_full03_b2o1vlk7.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//102/MTA-52874319/samsung_samsung_galaxy_z_fold4_5g_smartphone_-12gb-256gb-_full04_dip5yhak.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//102/MTA-52874319/samsung_samsung_galaxy_z_fold4_5g_smartphone_-12gb-256gb-_full05_huctkv7r.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//102/MTA-52874319/samsung_samsung_galaxy_z_fold4_5g_smartphone_-12gb-256gb-_full06_keddhgbd.jpg"
+        ],
+        "merchantName": "Bumilindo  Official Store",
+        "price": {
+            "originalPrice": 0,
+            "discount": 0,
+            "finalPrice": 24999000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 26,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Handphone",
+            "Android"
+        ],
+        "url": "https://blibli.com/p/preorder-samsung-galaxy-z-fold4-5g-smartphone-12gb-256gb/ps--SAB-60079-00168?ds=SAB-60079-00168-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1k+QZi5M2LSKgeke3pOtuKLn5xOjxrods52o8GRDVj2ilsogVVfmUpV8Tbz8/WvDB0/Qd+PE2R+BYcbkg24R21ueL9F9e2M76YsQGLUm9TigHjCITnaWFAGh4FHnHRTkmp2KnAun/YYLvwc268FM3NiL59VZTgWpMbeYqGkFrJSh7AOVPD2SpZKfjAs2aksZMMLpEI+vdGef6g8NpVxWl320XBPM8Ib69hRyb0y0TLR/&cnc=false&pickupPointCode=PP-3110108&pid1=SAB-60079-00168",
+        "crawlAt": 1707038789196
     },
     {
         "marketplace": "blibli",
@@ -199,6 +147,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-139921969/samsung_samsung_galaxy_a05s_6-128gb_-_garansi_resmi_full05_lgxk5adr.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-139921969/samsung_samsung_galaxy_a05s_6-128gb_-_garansi_resmi_full06_b5w3rhgj.jpg"
         ],
+        "merchantName": "Peace Cell Marina Official Store",
         "price": {
             "originalPrice": 0,
             "discount": 0,
@@ -212,7 +161,7 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-a05s-6-128gb-garansi-resmi/ps--PEC-48525-00777?ds=PEC-48525-00777-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1sFR2CFR16OQUkGlubphcrGyKQ2XDtlybCOpZgYut8iSVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3134470&pid1=PEC-48525-00777",
-        "crawlAt": 1706956443249
+        "crawlAt": 1707038789196
     },
     {
         "marketplace": "blibli",
@@ -235,6 +184,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/94/MTA-135820722/samsung_samsung_galaxy_m23_5g_6-128gb_garansi_resmi_full14_8521cfe6.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/94/MTA-135820722/samsung_samsung_galaxy_m23_5g_6-128gb_garansi_resmi_full15_eccebbc5.jpg"
         ],
+        "merchantName": "WijayaShop78",
         "price": {
             "originalPrice": 0,
             "discount": 0,
@@ -248,7 +198,118 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-m23-5g-6-128gb-garansi-resmi/ps--WI8-70014-00003?ds=WI8-70014-00003-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1kJeYSYdvyEYzVHmvtMQJv3ppUD6qsZKwQgu+0OxKg3oVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3452103&pid1=WI8-70014-00003",
-        "crawlAt": 1706956443249
+        "crawlAt": 1707038789196
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Samsung Galaxy S21 FE Smartphone [8/256GB]",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//108/MTA-33675669/samsung_samsung_galaxy_s21_fe_smartphone_-8-256gb-_full09_ldw8wwvv.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/MTA-33675669/samsung_samsung_galaxy_s21_fe_smartphone_-8-256gb-_full10_ce0qk8o2.jpeg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//108/MTA-33675669/samsung_samsung_galaxy_s21_fe_smartphone_-8-256gb-_full02_ntkzs3ok.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//108/MTA-33675669/samsung_samsung_galaxy_s21_fe_smartphone_-8-256gb-_full03_k9xt84ko.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//108/MTA-33675669/samsung_samsung_galaxy_s21_fe_smartphone_-8-256gb-_full04_ew8434uu.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//108/MTA-33675669/samsung_samsung_galaxy_s21_fe_smartphone_-8-256gb-_full05_rti11hen.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//108/MTA-33675669/samsung_samsung_galaxy_s21_fe_smartphone_-8-256gb-_full06_wf0i2w4.jpg"
+        ],
+        "merchantName": "Samsung Official Store",
+        "price": {
+            "originalPrice": 9999000,
+            "discount": 30,
+            "finalPrice": 6999000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 10,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Handphone",
+            "Android"
+        ],
+        "url": "https://blibli.com/p/samsung-galaxy-s21-fe-smartphone-8-256gb/ps--SAO-60034-01613?ds=SAO-60034-01613-00004&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1p5gq3b06HjawEqL9H3Sky/7lDBVRIscbrR8aNYcVEpMVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3036193&pid1=SAO-60034-01613",
+        "crawlAt": 1707038789196
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Samsung Galaxy S23 Ultra 256GB 512GB",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/96/MTA-154155255/samsung_samsung_galaxy_s23_ultra_256gb_512gb_full01_70bd8b77.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/96/MTA-154155255/samsung_samsung_galaxy_s23_ultra_256gb_512gb_full02_0035a8c2.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/96/MTA-154155255/samsung_samsung_galaxy_s23_ultra_256gb_512gb_full03_05805908.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/96/MTA-154155255/samsung_samsung_galaxy_s23_ultra_256gb_512gb_full04_0addd898.jpg"
+        ],
+        "merchantName": "453pshop",
+        "price": {
+            "originalPrice": 0,
+            "discount": 0,
+            "finalPrice": 19000000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 2,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Handphone",
+            "Android"
+        ],
+        "url": "https://blibli.com/p/samsung-galaxy-s23-ultra-256gb-512gb/ps--45P-70000-00042?ds=45P-70000-00042-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gVM1r7pUcMHMSa2GcVlGJ86hpnhIB4Xeu70D8OZ2aW5Vfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3384993&pid1=45P-70000-00042&tag=new",
+        "crawlAt": 1707038789196
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Samsung Galaxy A54 8/256 dan 8/128 Free XL 120gb, Garansi Resmi Samsung 1Tahun",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-94998266/samsung_samsung_galaxy_a54_8-256_dan_8-128_free_xl_120gb-_garansi_resmi_samsung_1tahun_full04_9e3ce7df.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//116/MTA-94998266/samsung_samsung_galaxy_a54_8-256_dan_8-128_free_xl_120gb-_garansi_resmi_samsung_1tahun_full02_bc6da3d5.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//116/MTA-94998266/samsung_samsung_galaxy_a54_8-256_dan_8-128_free_xl_120gb-_garansi_resmi_samsung_1tahun_full03_d5aa7bb4.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//116/MTA-94998266/samsung_samsung_galaxy_a54_8-256_dan_8-128_free_xl_120gb-_garansi_resmi_samsung_1tahun_full04_569889af.jpg"
+        ],
+        "merchantName": "Dunia Gadget Surabaya",
+        "price": {
+            "originalPrice": 6000000,
+            "discount": 10,
+            "finalPrice": 5376000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 63,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Handphone",
+            "Android"
+        ],
+        "url": "https://blibli.com/p/samsung-galaxy-a54-8-256-dan-8-128-free-xl-120gb-garansi-resmi-samsung-1tahun/ps--DUG-70037-00032?ds=DUG-70037-00032-00006&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1hKWmG1lUDd9LlGO1ocQIF42s5w0nfKuaai/0yC8ULFrVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3394899&pid1=DUG-70037-00032",
+        "crawlAt": 1707038789196
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Samsung Galaxy S24 Ultra 5G Accessories Silicone",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-153609083/samsung_samsung_galaxy_s24_ultra_5g_accessories_silicone_full12_faceyfpr.jpeg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-153609083/samsung_samsung_galaxy_s24_ultra_5g_accessories_silicone_full05_r73vs8e5.jpeg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-153609083/samsung_samsung_galaxy_s24_ultra_5g_accessories_silicone_full06_sj9pg9tp.jpeg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-153609083/samsung_samsung_galaxy_s24_ultra_5g_accessories_silicone_full08_uw8j8bd1.jpeg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-153609083/samsung_samsung_galaxy_s24_ultra_5g_accessories_silicone_full07_dsealkgn.jpeg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-153609083/samsung_samsung_galaxy_s24_ultra_5g_accessories_silicone_full09_bvj58mye.jpeg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-153609083/samsung_samsung_galaxy_s24_ultra_5g_accessories_silicone_full11_puzx5xm5.jpeg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-153609083/samsung_samsung_galaxy_s24_ultra_5g_accessories_silicone_full10_k6lprhm0.jpeg"
+        ],
+        "merchantName": "Samsung Preorder Store",
+        "price": {
+            "originalPrice": 0,
+            "discount": 0,
+            "finalPrice": 299000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 9,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Casing"
+        ],
+        "url": "https://blibli.com/p/samsung-galaxy-s24-ultra-5g-accessories-silicone/ps--SAP-70586-00045?ds=SAP-70586-00045-00005&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1vJj31LsLiIwVXcYYrluCcEFWWDDjJxXLkhhojZeolsH6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86POIUqKO9p5cMvC+z/NFTdpQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3517911&pid1=SAP-70586-00045",
+        "crawlAt": 1707038789196
     },
     {
         "marketplace": "blibli",
@@ -263,6 +324,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-70473076/samsung_samsung_galaxy_a04s_smartphone_-4-64gb-_full06_bwhseawt.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-70473076/samsung_samsung_galaxy_a04s_smartphone_-4-64gb-_full07_uoe8th6k.jpg"
         ],
+        "merchantName": "Blibli Monobrand Instore",
         "price": {
             "originalPrice": 0,
             "discount": 0,
@@ -276,100 +338,7 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-a04s-smartphone-4-64gb/ps--PTG-70003-00614?ds=PTG-70003-00614-00003&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1kH6AFVU/3621AV785dl9uz0HeMzPr7Cq+rbzw6ocs59lsogVVfmUpV8Tbz8/WvDB0/Qd+PE2R+BYcbkg24R21ueL9F9e2M76YsQGLUm9TigHjCITnaWFAGh4FHnHRTkmp2KnAun/YYLvwc268FM3NiL59VZTgWpMbeYqGkFrJSh7AOVPD2SpZKfjAs2aksZMMLpEI+vdGef6g8NpVxWl320XBPM8Ib69hRyb0y0TLR/&cnc=false&pickupPointCode=PP-3276109&pid1=PTG-70003-00614",
-        "crawlAt": 1706956443249
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "PREORDER - Samsung Galaxy Z Fold4 5G Smartphone [12GB/256GB]",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//102/MTA-52874319/samsung_samsung_galaxy_z_fold4_5g_smartphone_-12gb-256gb-_full01_mt6yu32l.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//102/MTA-52874319/samsung_samsung_galaxy_z_fold4_5g_smartphone_-12gb-256gb-_full02_udh8moy9.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//102/MTA-52874319/samsung_samsung_galaxy_z_fold4_5g_smartphone_-12gb-256gb-_full03_b2o1vlk7.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//102/MTA-52874319/samsung_samsung_galaxy_z_fold4_5g_smartphone_-12gb-256gb-_full04_dip5yhak.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//102/MTA-52874319/samsung_samsung_galaxy_z_fold4_5g_smartphone_-12gb-256gb-_full05_huctkv7r.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//102/MTA-52874319/samsung_samsung_galaxy_z_fold4_5g_smartphone_-12gb-256gb-_full06_keddhgbd.jpg"
-        ],
-        "price": {
-            "originalPrice": 0,
-            "discount": 0,
-            "finalPrice": 24999000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 26,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Handphone",
-            "Android"
-        ],
-        "url": "https://blibli.com/p/preorder-samsung-galaxy-z-fold4-5g-smartphone-12gb-256gb/ps--SAB-60079-00168?ds=SAB-60079-00168-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1k+QZi5M2LSKgeke3pOtuKLn5xOjxrods52o8GRDVj2ilsogVVfmUpV8Tbz8/WvDB0/Qd+PE2R+BYcbkg24R21ueL9F9e2M76YsQGLUm9TigHjCITnaWFAGh4FHnHRTkmp2KnAun/YYLvwc268FM3NiL59VZTgWpMbeYqGkFrJSh7AOVPD2SpZKfjAs2aksZMMLpEI+vdGef6g8NpVxWl320XBPM8Ib69hRyb0y0TLR/&cnc=false&pickupPointCode=PP-3110108&pid1=SAB-60079-00168",
-        "crawlAt": 1706956443249
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Samsung Galaxy M33 5G Smartphone [6/128GB]",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-54028650/samsung_samsung_galaxy_m33_5g_smartphone_-6-128gb-_full02_e74c191d.jpg"
-        ],
-        "price": {
-            "originalPrice": 0,
-            "discount": 0,
-            "finalPrice": 3089000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 10,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Handphone",
-            "Android"
-        ],
-        "url": "https://blibli.com/p/samsung-galaxy-m33-5g-smartphone-6-128gb/ps--LUA-60035-00128?ds=LUA-60035-00128-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1p5gq3b06HjawEqL9H3Sky8isM30KjoVyLx44ohTTEf4Vfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3061666&pid1=LUA-60035-00128",
-        "crawlAt": 1706956443249
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "SAMSUNG GALAXY A05S 6/128 GB GARANSI RESMI",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/107/MTA-139691618/samsung_samsung_galaxy_a05s_6-128_gb_garansi_resmi_full02_u71ekjnv.jpg"
-        ],
-        "price": {
-            "originalPrice": 0,
-            "discount": 0,
-            "finalPrice": 2165000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 3,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Handphone",
-            "Android"
-        ],
-        "url": "https://blibli.com/p/samsung-galaxy-a05s-6-128-gb-garansi-resmi/ps--KTP-70005-00147?ds=KTP-70005-00147-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1sHt2s+DPNzC/qy+zJlEIX8So5ye9J5MURNKqiLZY7uKV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3478262&pid1=KTP-70005-00147",
-        "crawlAt": 1706956443249
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Samsung Galaxy Tab A9+ Wifi 4/64 GB",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/92/MTA-143311664/samsung_samsung_galaxy_tab_a9-_wifi_4-64_gb_full01_6a66ad5b.jpg"
-        ],
-        "price": {
-            "originalPrice": 3499000,
-            "discount": 10,
-            "finalPrice": 3145000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 1,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Tablet",
-            "Tablet Android"
-        ],
-        "url": "https://blibli.com/p/samsung-galaxy-tab-a9-wifi-4-64-gb/ps--THG-46091-01001?ds=THG-46091-01001-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1igbwLPbKKMBrsjRhg5GQht2WZcfh34+QNzSIPLsb8E7V6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMoPVXJEloe2aUs6H+xoeDUADQdPWZxYmTcbY7x7DR0rm/MCweomP5mTTEg2BtPpcUrvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3014058&pid1=THG-46091-01001",
-        "crawlAt": 1706956443249
+        "crawlAt": 1707038789196
     },
     {
         "marketplace": "blibli",
@@ -382,6 +351,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-7752164/samsung_samsung_galaxy_a01_core_smartphone_-1gb-_16gb-_full29_md6ritzg.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-7752164/samsung_samsung_galaxy_a01_core_smartphone_-1gb-_16gb-_full30_n77qtz7k.jpg"
         ],
+        "merchantName": "HN Store 2003",
         "price": {
             "originalPrice": 1300000,
             "discount": 7,
@@ -395,59 +365,7 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-a01-core-smartphone-1gb-16gb/ps--HNS-60028-00040?ds=HNS-60028-00040-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1hoohFLFJVwVeGdsDku9ec4eWADw3iS6hXpeFuYkVt0QV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3093783&pid1=HNS-60028-00040",
-        "crawlAt": 1706956443249
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "KULKAS SIDE BY SIDE SAMSUNG 550L AROUND COOLING RS-52B3000M9",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/99/MTA-96303752/samsung_kulkas_side_by_side_samsung_550l_around_cooling_rs-52b3000m9_full01_sf0j94px.jpeg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/99/MTA-96303752/samsung_kulkas_side_by_side_samsung_550l_around_cooling_rs-52b3000m9_full02_fuywz0ht.jpeg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/99/MTA-96303752/samsung_kulkas_side_by_side_samsung_550l_around_cooling_rs-52b3000m9_full03_mqmhexpf.jpeg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/99/MTA-96303752/samsung_kulkas_side_by_side_samsung_550l_around_cooling_rs-52b3000m9_full04_nwb6zbxc.jpeg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/99/MTA-96303752/samsung_kulkas_side_by_side_samsung_550l_around_cooling_rs-52b3000m9_full05_nr74w6zy.jpeg"
-        ],
-        "price": {
-            "originalPrice": 0,
-            "discount": 0,
-            "finalPrice": 9470000
-        },
-        "category": "Peralatan Elektronik",
-        "sell": 0,
-        "categoryList": [
-            "Peralatan Elektronik",
-            "Kulkas, Chiller & Freezer",
-            "Kulkas",
-            "Kulkas Side by Side"
-        ],
-        "url": "https://blibli.com/p/kulkas-side-by-side-samsung-550l-around-cooling-rs-52b3000m9/ps--SIU-60022-01867?ds=SIU-60022-01867-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZFbRVlUYHDco8PQ75pSeMR8V6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYPIRHt2nY0TymQs4iU3ALDM6kFQ5WpTE1j9X4CScC2MsqqykP7EoF9/ptfZEkaISGsMij/4xkwBjbHdnInRru+a&cnc=false&pickupPointCode=PP-3028213&pid1=SIU-60022-01867",
-        "crawlAt": 1706956443249
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Samsung Galaxy A54 8/256 dan 8/128 Free XL 120gb, Garansi Resmi Samsung 1Tahun",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-94998266/samsung_samsung_galaxy_a54_8-256_dan_8-128_free_xl_120gb-_garansi_resmi_samsung_1tahun_full04_9e3ce7df.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//116/MTA-94998266/samsung_samsung_galaxy_a54_8-256_dan_8-128_free_xl_120gb-_garansi_resmi_samsung_1tahun_full02_bc6da3d5.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//116/MTA-94998266/samsung_samsung_galaxy_a54_8-256_dan_8-128_free_xl_120gb-_garansi_resmi_samsung_1tahun_full03_d5aa7bb4.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//116/MTA-94998266/samsung_samsung_galaxy_a54_8-256_dan_8-128_free_xl_120gb-_garansi_resmi_samsung_1tahun_full04_569889af.jpg"
-        ],
-        "price": {
-            "originalPrice": 6000000,
-            "discount": 10,
-            "finalPrice": 5376000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 63,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Handphone",
-            "Android"
-        ],
-        "url": "https://blibli.com/p/samsung-galaxy-a54-8-256-dan-8-128-free-xl-120gb-garansi-resmi-samsung-1tahun/ps--DUG-70037-00032?ds=DUG-70037-00032-00006&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1hKWmG1lUDd9LlGO1ocQIF42s5w0nfKuaai/0yC8ULFrVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3394899&pid1=DUG-70037-00032",
-        "crawlAt": 1706956443249
+        "crawlAt": 1707038789196
     },
     {
         "marketplace": "blibli",
@@ -456,6 +374,7 @@
         "images": [
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//86/MTA-2830423/samsung_samsung-ac-0-5pk-standard-ar05nrfldwkxse_full02.jpg"
         ],
+        "merchantName": "SUMBER BERKAT STORE",
         "price": {
             "originalPrice": 0,
             "discount": 0,
@@ -471,33 +390,30 @@
             "AC Split 1##2 PK"
         ],
         "url": "https://blibli.com/p/samsung-ar05nrfldwkxse-standard-ac-split-0-5pk-1-2-pk/ps--SUB-60072-00001?ds=SUB-60072-00001-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1k+QZi5M2LSKgeke3pOtuKKA8uLjADdShNQHpZGq1kC3Vfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPqEfk2b6UX/vtQGEoG5AKimS9+4L4kkAUXq8R/ZENVO/+q0gP8+XsdTEiFn0xSkZ29p1cebEebNQlfMpVJ0m/RPjvPH8s78v5mXVKRMB7V1hA==&cnc=false&pickupPointCode=PP-3088772&pid1=SUB-60072-00001",
-        "crawlAt": 1706956443249
+        "crawlAt": 1707038789196
     },
     {
         "marketplace": "blibli",
-        "productName": "Samsung Galaxy A04e Smartphone [3GB/32GB]",
+        "productName": "Samsung Original Clear View Standing Flip Cover casing for Samsung Galaxy S8",
         "brand": "Samsung",
         "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//104/MTA-93617825/samsung_samsung_galaxy_a04e_smartphone_-3gb-32gb-_full08_n65rksl1.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//104/MTA-93617825/samsung_samsung_galaxy_a04e_3-32gb_garansi_resmi_full03_nm2s3lnz.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//104/MTA-93617825/samsung_samsung_galaxy_a04e_3-32gb_garansi_resmi_full04_mleov9dv.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//104/MTA-93617825/samsung_samsung_galaxy_a04e_3-32gb_garansi_resmi_full05_d6wd3q99.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//104/MTA-93617825/samsung_samsung_galaxy_a04e_3-32gb_garansi_resmi_full07_i3zizdqo.jpg"
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-1649561/samsung_samsung-original-clear-view-standing-flip-cover-casing-for-samsung-galaxy-s8_full02.jpg"
         ],
+        "merchantName": "Bli.HP",
         "price": {
-            "originalPrice": 1299000,
-            "discount": 8,
-            "finalPrice": 1199000
+            "originalPrice": 499000,
+            "discount": 60,
+            "finalPrice": 199600
         },
         "category": "Handphone & Tablet",
-        "sell": 3,
+        "sell": 7,
         "categoryList": [
             "Handphone & Tablet",
-            "Handphone",
-            "Android"
+            "Aksesoris Handphone & Tablet",
+            "Casing"
         ],
-        "url": "https://blibli.com/p/samsung-galaxy-a04e-smartphone-3gb-32gb/ps--SAC-16923-01600?ds=SAC-16923-01600-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1sHt2s+DPNzC/qy+zJlEIX8ek25Yf8RRz3/ZTYhnAHWMV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3457057&pid1=SAC-16923-01600",
-        "crawlAt": 1706956443249
+        "url": "https://blibli.com/p/samsung-original-clear-view-standing-flip-cover-casing-for-samsung-galaxy-s8/ps--BLP-60048-00049?ds=BLP-60048-00049-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1n2w4hyoSe9OWrWTVrMg3TZvhcKgtIKH0TiceWN+eBVK6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86POIUqKO9p5cMvC+z/NFTdpQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3098359&pid1=BLP-60048-00049",
+        "crawlAt": 1707038789196
     },
     {
         "marketplace": "blibli",
@@ -508,6 +424,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/96/MTA-133035755/samsung_samsung-led-tv-43-inch-full-hd-smart-tv-t6500_full02.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/96/MTA-133035755/samsung_samsung-led-tv-43-inch-full-hd-smart-tv-t6500_full03.jpg"
         ],
+        "merchantName": "Ali elektronik",
         "price": {
             "originalPrice": 0,
             "discount": 0,
@@ -523,7 +440,153 @@
             "Smart TV 40-49 Inch"
         ],
         "url": "https://blibli.com/p/samsung-led-tv-43-inch-full-hd-smart-tv-t6500/ps--ALE-70552-00042?ds=ALE-70552-00042-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1igbwLPbKKMBrsjRhg5GQhvwMQKdeQ0646VA++I9hYYVV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYN1KAztwN0qeBS0GdaecCEkc8m/gETOGCcvSIAKOJoHCbg0vYFrbDYY4ipFbyy1mdL5iCaXeV8BCXCBFQEof6QIR1idper1VAxjD0VeVT6Y5Q==&cnc=false&pickupPointCode=PP-3502688&pid1=ALE-70552-00042",
-        "crawlAt": 1706956443249
+        "crawlAt": 1707038789196
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "SAMSUNG 24\" SR35 75Hz IPS 1080p Monitor 24SR350 FreeSync VGA HDMI",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/88/MTA-101815521/samsung_samsung_24-_sr35_75hz_ips_1080p_monitor_24sr350_freesync_vga_hdmi_full01_j3hjbc5r.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/88/MTA-101815521/samsung_samsung_24-_sr35_75hz_ips_1080p_monitor_24sr350_freesync_vga_hdmi_full02_cd5zc8u4.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/88/MTA-101815521/samsung_samsung_24-_sr35_75hz_ips_1080p_monitor_24sr350_freesync_vga_hdmi_full03_uw132p8.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/88/MTA-101815521/samsung_samsung_24-_sr35_75hz_ips_1080p_monitor_24sr350_freesync_vga_hdmi_full04_gnc7gfa2.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/88/MTA-101815521/samsung_samsung_24-_sr35_75hz_ips_1080p_monitor_24sr350_freesync_vga_hdmi_full05_b3ppx7jg.jpg"
+        ],
+        "merchantName": "Samsung Monitor Official Store",
+        "price": {
+            "originalPrice": 1799000,
+            "discount": 22,
+            "finalPrice": 1395000
+        },
+        "category": "Komputer & Gaming",
+        "sell": 9,
+        "categoryList": [
+            "Komputer & Gaming",
+            "Komputer",
+            "Monitor Komputer"
+        ],
+        "url": "https://blibli.com/p/samsung-24-sr35-75hz-ips-1080p-monitor-24sr350-freesync-vga-hdmi/ps--SAM-70365-00003?ds=SAM-70365-00003-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1vJj31LsLiIwVXcYYrluCcH8Icztnv8MKz9UwTBH7XRIV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70MpLMfP88iQTh28yrud9gP8L8fQNr+iQQraBtd3ylN43svJqIi2XqjxFa1WXD2Hq7kJb3XHBYDwr/rpsPgJumBr/AVDUVzvEa7ezWAJw7fqYmRAktPnfnI/oQXHmJKeQsP2TeETumckatdkLB2bGJ7r&cnc=false&pickupPointCode=PP-3470819&pid1=SAM-70365-00003",
+        "crawlAt": 1707038789196
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Samsung Galaxy A04 4/64 GB garansi resmi",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-87046773/samsung_samsung_galaxy_a04_4-64_gb_garansi_resmi_full01_pshox0do.jpeg"
+        ],
+        "merchantName": "AS-PHONEE",
+        "price": {
+            "originalPrice": 1549000,
+            "discount": 12,
+            "finalPrice": 1365000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 5,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Handphone",
+            "Android"
+        ],
+        "url": "https://blibli.com/p/samsung-galaxy-a04-4-64-gb-garansi-resmi/ps--ASE-70113-00006?ds=ASE-70113-00006-00003&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1hoohFLFJVwVeGdsDku9ec4W8/6Rp4WIJI//lWQVrpwyV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3393758&pid1=ASE-70113-00006",
+        "crawlAt": 1707038789196
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "SAMSUNG GALAXY A05 4/64 GB GARANSI RESMI",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/104/MTA-139522099/samsung_samsung_galaxy_a05_4-64_gb_garansi_resmi_full03_nej12der.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/104/MTA-139522099/samsung_samsung_galaxy_a05_4-64_gb_garansi_resmi_full04_hlim8x6b.jpg"
+        ],
+        "merchantName": "ACE_LINE",
+        "price": {
+            "originalPrice": 1395000,
+            "discount": 0,
+            "finalPrice": 1388025
+        },
+        "category": "Handphone & Tablet",
+        "sell": 0,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Handphone",
+            "Android"
+        ],
+        "url": "https://blibli.com/p/samsung-galaxy-a05-4-64-gb-garansi-resmi/ps--MRG-70009-00251?ds=MRG-70009-00251-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZHp4+UK24/OhZVsTzkjlLOTV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70MpLMfP88iQTh28yrud9gP8L8fQNr+iQQraBtd3ylN43svJqIi2XqjxFa1WXD2Hq7li0nCtQOqY4utJmZa0EvR2PLWjp7XXNx89qDNn9ZrNSX8CG88FJRCeLOsphecMqhL2TeETumckatdkLB2bGJ7r&cnc=false&pickupPointCode=PP-3320914&pid1=MRG-70009-00251",
+        "crawlAt": 1707038789196
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Samsung Galaxy M54 5G Smartphone [8GB/256GB]",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/111/MTA-146596638/samsung_samsung_galaxy_m54_5g_smartphone_-8gb-256gb-_full13_lbjzsknn.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/111/MTA-146596638/samsung_samsung_galaxy_m54_5g_smartphone_-8gb-256gb-_full12_s4i3uk41.jpg"
+        ],
+        "merchantName": "INTIKOM ",
+        "price": {
+            "originalPrice": 6499000,
+            "discount": 0,
+            "finalPrice": 6466505
+        },
+        "category": "Handphone & Tablet",
+        "sell": 10,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Handphone",
+            "Android"
+        ],
+        "url": "https://blibli.com/p/samsung-galaxy-m54-5g-smartphone-8gb-256gb/ps--INM-60022-04142?ds=INM-60022-04142-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1p5gq3b06HjawEqL9H3Sky+CRblv13be1CnFzc3BwOUqVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX5S8zmthDZvuxaMAiMic0Z/VadLzfI1Uug6xRZEdsASicz0Rl8lfc9CnJqjMMx4lFpRiA2nX5MQkJ/wB53voxWG7TpFTM31J8iJEsajgAmGqZIyu1gXyKCeg3W1yjMq1TtHWJ2l6vVUDGMPRV5VPpjl&cnc=false&pickupPointCode=PP-3022918&pid1=INM-60022-04142",
+        "crawlAt": 1707038789196
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Samsung Galaxy M33 5G Smartphone [6/128GB]",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-54028650/samsung_samsung_galaxy_m33_5g_smartphone_-6-128gb-_full02_e74c191d.jpg"
+        ],
+        "merchantName": "LUCKY ASA PONSEL",
+        "price": {
+            "originalPrice": 0,
+            "discount": 0,
+            "finalPrice": 3089000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 10,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Handphone",
+            "Android"
+        ],
+        "url": "https://blibli.com/p/samsung-galaxy-m33-5g-smartphone-6-128gb/ps--LUA-60035-00128?ds=LUA-60035-00128-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1p5gq3b06HjawEqL9H3Sky8isM30KjoVyLx44ohTTEf4Vfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3061666&pid1=LUA-60035-00128",
+        "crawlAt": 1707038789196,
+        "_id": "65bf58671abe1c535fd562e4"
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Samsung Galaxy A04 4/64GB RAM 4GB ROM 64GB (Garansi Resmi)",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/96/MTA-113307926/samsung_samsung_galaxy_a04_4-64gb_ram_4gb_rom_64gb_-garansi_resmi-_full01_npkter2r.jpg"
+        ],
+        "merchantName": "Ktownshop",
+        "price": {
+            "originalPrice": 0,
+            "discount": 0,
+            "finalPrice": 1300000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 0,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Handphone",
+            "Android"
+        ],
+        "url": "https://blibli.com/p/samsung-galaxy-a04-4-64gb-ram-4gb-rom-64gb-garansi-resmi/ps--KTP-70005-00015?ds=KTP-70005-00015-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZGdi/dZOHltWfMDtywVpannV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3478262&pid1=KTP-70005-00015",
+        "crawlAt": 1707038789196,
+        "_id": "65bf58681abe1c535fd562e6"
     },
     {
         "marketplace": "blibli",
@@ -539,6 +602,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//96/MTA-22878222/samsung_monitor_led_samsung_s27a800_27-_ips_4k_hdr10_hdmi_dp_ergo_stand_usb_full07_hcx1mpc4.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//96/MTA-22878222/samsung_monitor_led_samsung_s27a800_27-_ips_4k_hdr10_hdmi_dp_ergo_stand_usb_full08_hqtedhk5.jpg"
         ],
+        "merchantName": "Abditama",
         "price": {
             "originalPrice": 6000000,
             "discount": 10,
@@ -552,278 +616,89 @@
             "Monitor Komputer"
         ],
         "url": "https://blibli.com/p/monitor-led-samsung-s27a800-27-ips-4k-hdr10-hdmi-dp-ergo-stand-usb/ps--ABA-60044-00734?ds=ABA-60044-00734-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1hoohFLFJVwVeGdsDku9ec7HfsJZ3/3rbvr8ihpFuRxsV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYO+Bt8lF6uHShubdas43I/r7wOxHClP1aQp1Vq9llU5n24x0fmnjQobkI3ZMYz6m/Mrvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3097301&pid1=ABA-60044-00734",
-        "crawlAt": 1706956443249
+        "crawlAt": 1707038789196,
+        "_id": "65bf58691abe1c535fd562e8"
     },
     {
         "marketplace": "blibli",
-        "productName": "Samsung Galaxy M54 5G Smartphone [8GB/256GB]",
+        "productName": "KULKAS SIDE BY SIDE SAMSUNG 550L AROUND COOLING RS-52B3000M9",
         "brand": "Samsung",
         "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/111/MTA-146596638/samsung_samsung_galaxy_m54_5g_smartphone_-8gb-256gb-_full13_lbjzsknn.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/111/MTA-146596638/samsung_samsung_galaxy_m54_5g_smartphone_-8gb-256gb-_full12_s4i3uk41.jpg"
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/99/MTA-96303752/samsung_kulkas_side_by_side_samsung_550l_around_cooling_rs-52b3000m9_full01_sf0j94px.jpeg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/99/MTA-96303752/samsung_kulkas_side_by_side_samsung_550l_around_cooling_rs-52b3000m9_full02_fuywz0ht.jpeg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/99/MTA-96303752/samsung_kulkas_side_by_side_samsung_550l_around_cooling_rs-52b3000m9_full03_mqmhexpf.jpeg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/99/MTA-96303752/samsung_kulkas_side_by_side_samsung_550l_around_cooling_rs-52b3000m9_full04_nwb6zbxc.jpeg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/99/MTA-96303752/samsung_kulkas_side_by_side_samsung_550l_around_cooling_rs-52b3000m9_full05_nr74w6zy.jpeg"
         ],
-        "price": {
-            "originalPrice": 6499000,
-            "discount": 0,
-            "finalPrice": 6466505
-        },
-        "category": "Handphone & Tablet",
-        "sell": 10,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Handphone",
-            "Android"
-        ],
-        "url": "https://blibli.com/p/samsung-galaxy-m54-5g-smartphone-8gb-256gb/ps--INM-60022-04142?ds=INM-60022-04142-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1p5gq3b06HjawEqL9H3Sky+CRblv13be1CnFzc3BwOUqVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX5S8zmthDZvuxaMAiMic0Z/VadLzfI1Uug6xRZEdsASicz0Rl8lfc9CnJqjMMx4lFpRiA2nX5MQkJ/wB53voxWG7TpFTM31J8iJEsajgAmGqZIyu1gXyKCeg3W1yjMq1TtHWJ2l6vVUDGMPRV5VPpjl&cnc=false&pickupPointCode=PP-3022918&pid1=INM-60022-04142",
-        "crawlAt": 1706956443249
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "SAMSUNG SMART LED TV 32 INCH HDR WITH PurCollor 32T4501 / T4501",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-98032176/samsung_samsung_smart_led_tv_32_inch_hdr_with_purcollor_32t4501_-_t4501_full01_vvwh2q10.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/100/MTA-98032176/samsung_samsung-smart-led-tv-32-inch-hdr-with-purcollor-32t4501-t4501_full01.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/100/MTA-98032176/samsung_samsung-smart-led-tv-32-inch-hdr-with-purcollor-32t4501-t4501_full02.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/100/MTA-98032176/samsung_samsung-smart-led-tv-32-inch-hdr-with-purcollor-32t4501-t4501_full03.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/100/MTA-98032176/samsung_samsung-smart-led-tv-32-inch-hdr-with-purcollor-32t4501-t4501_full04.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/100/MTA-98032176/samsung_samsung-smart-led-tv-32-inch-hdr-with-purcollor-32t4501-t4501_full05.jpg"
-        ],
+        "merchantName": "Sinarmaju Official Store",
         "price": {
             "originalPrice": 0,
             "discount": 0,
-            "finalPrice": 2294900
+            "finalPrice": 9470000
         },
         "category": "Peralatan Elektronik",
-        "sell": 2,
-        "categoryList": [
-            "Peralatan Elektronik",
-            "Televisi & Aksesoris",
-            "TV LCD##LED",
-            "Smart TV",
-            "Smart TV 30-39 Inch"
-        ],
-        "url": "https://blibli.com/p/samsung-smart-led-tv-32-inch-hdr-with-purcollor-32t4501-t4501/ps--SIA-36682-05197?ds=SIA-36682-05197-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gVM1r7pUcMHMSa2GcVlGJ9SqsBUeY89+ILCb3+KKeWzV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYN1KAztwN0qeBS0GdaecCEkc8m/gETOGCcvSIAKOJoHCbg0vYFrbDYY4ipFbyy1mdJCQvrKw15qm9yLheJVPqItR1idper1VAxjD0VeVT6Y5Q==&cnc=false&pickupPointCode=PP-3009945&pid1=SIA-36682-05197",
-        "crawlAt": 1706956443249
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Casing Samsung Galaxy A34 5G Clear Cover Gadget Case Bening",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/111/MTA-95813994/samsung_casing_samsung_galaxy_a34_5g_clear_cover_gadget_case_bening_full01_jrs3v2ji.jpeg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/111/MTA-95813994/samsung_casing_samsung_galaxy_a34_5g_clear_cover_gadget_case_bening_full02_sstacnhg.jpeg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/111/MTA-95813994/samsung_casing_samsung_galaxy_a34_5g_clear_cover_gadget_case_bening_full03_d8egak5p.jpeg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/111/MTA-95813994/samsung_casing_samsung_galaxy_a34_5g_clear_cover_gadget_case_bening_full04_d2xbx8a.jpeg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/111/MTA-95813994/samsung_casing_samsung_galaxy_a34_5g_clear_cover_gadget_case_bening_full05_jzo361pz.jpeg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/111/MTA-95813994/samsung_casing_samsung_galaxy_a34_5g_clear_cover_gadget_case_bening_full06_hq5nz3mo.jpeg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/111/MTA-95813994/samsung_casing_samsung_galaxy_a34_5g_clear_cover_gadget_case_bening_full07_qy0sji74.jpeg"
-        ],
-        "price": {
-            "originalPrice": 0,
-            "discount": 0,
-            "finalPrice": 99000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 4,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Casing"
-        ],
-        "url": "https://blibli.com/p/casing-samsung-galaxy-a34-5g-clear-cover-gadget-case-bening/ps--FEO-16605-04550?ds=FEO-16605-04550-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1jivGClVoqEpHhqjcdJgG3I8/HakygN5NM2e3y0e0vaeBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aZyNa4lr5t5nmCNGGkFUiPmT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3140310&pid1=FEO-16605-04550",
-        "crawlAt": 1706956443249
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Samsung Galaxy Tab A8 2022 LTE 4/64 Gb Garansi Resmi",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-87002481/samsung_samsung_galaxy_tab_a8_2022_lte_4-64_gb_garansi_resmi_full01_bq35oz1o.jpg"
-        ],
-        "price": {
-            "originalPrice": 3660000,
-            "discount": 0,
-            "finalPrice": 3659000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 7,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Tablet",
-            "Tablet Android"
-        ],
-        "url": "https://blibli.com/p/samsung-galaxy-tab-a8-2022-lte-4-64-gb-garansi-resmi/ps--SES-70404-00183?ds=SES-70404-00183-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1n2w4hyoSe9OWrWTVrMg3TbpHZLTuvSK0Nv1b/k1GNrlV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70MpLMfP88iQTh28yrud9gP8L8fQNr+iQQraBtd3ylN43svJqIi2XqjxFa1WXD2Hq7li0nCtQOqY4utJmZa0EvR2ZzpOOMdOk17yww/hFY7T1CC5SLDDkk/NXp4m5tkHYA32TeETumckatdkLB2bGJ7r&cnc=false&pickupPointCode=PP-3319326&pid1=SES-70404-00183",
-        "crawlAt": 1706956443249
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Samsung Galaxy A04 4/64 GB garansi resmi",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-87046773/samsung_samsung_galaxy_a04_4-64_gb_garansi_resmi_full01_pshox0do.jpeg"
-        ],
-        "price": {
-            "originalPrice": 1549000,
-            "discount": 12,
-            "finalPrice": 1365000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 5,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Handphone",
-            "Android"
-        ],
-        "url": "https://blibli.com/p/samsung-galaxy-a04-4-64-gb-garansi-resmi/ps--ASE-70113-00006?ds=ASE-70113-00006-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1hoohFLFJVwVeGdsDku9ec4W8/6Rp4WIJI//lWQVrpwyV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3393758&pid1=ASE-70113-00006",
-        "crawlAt": 1706956443250
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "SAMSUNG GALAXY A05 4/64 GB GARANSI RESMI",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/104/MTA-139522099/samsung_samsung_galaxy_a05_4-64_gb_garansi_resmi_full03_nej12der.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/104/MTA-139522099/samsung_samsung_galaxy_a05_4-64_gb_garansi_resmi_full04_hlim8x6b.jpg"
-        ],
-        "price": {
-            "originalPrice": 1395000,
-            "discount": 0,
-            "finalPrice": 1388025
-        },
-        "category": "Handphone & Tablet",
         "sell": 0,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Handphone",
-            "Android"
-        ],
-        "url": "https://blibli.com/p/samsung-galaxy-a05-4-64-gb-garansi-resmi/ps--MRG-70009-00251?ds=MRG-70009-00251-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZHp4+UK24/OhZVsTzkjlLOTV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70MpLMfP88iQTh28yrud9gP8L8fQNr+iQQraBtd3ylN43svJqIi2XqjxFa1WXD2Hq7li0nCtQOqY4utJmZa0EvR2PLWjp7XXNx89qDNn9ZrNSX8CG88FJRCeLOsphecMqhL2TeETumckatdkLB2bGJ7r&cnc=false&pickupPointCode=PP-3320914&pid1=MRG-70009-00251",
-        "crawlAt": 1706956443250
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Samsung Galaxy A04 4/64GB RAM 4GB ROM 64GB (Garansi Resmi)",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/96/MTA-113307926/samsung_samsung_galaxy_a04_4-64gb_ram_4gb_rom_64gb_-garansi_resmi-_full01_npkter2r.jpg"
-        ],
-        "price": {
-            "originalPrice": 0,
-            "discount": 0,
-            "finalPrice": 1300000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 0,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Handphone",
-            "Android"
-        ],
-        "url": "https://blibli.com/p/samsung-galaxy-a04-4-64gb-ram-4gb-rom-64gb-garansi-resmi/ps--KTP-70005-00015?ds=KTP-70005-00015-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZGdi/dZOHltWfMDtywVpannV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3478262&pid1=KTP-70005-00015",
-        "crawlAt": 1706956443250
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "SAMSUNG KULKAS SIDE BY SIDE RF48A4000B4/SE TWIN COOLING 511 L",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//108/MTA-48755394/samsung_samsung_kulkas_side_by_side_rf48a4000b4-se_twin_cooling_511_l_full01_efqs34f6.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//108/MTA-48755394/samsung_samsung_kulkas_side_by_side_rf48a4000b4-se_twin_cooling_511_l_full02_jg1pgsfu.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//108/MTA-48755394/samsung_samsung_kulkas_side_by_side_rf48a4000b4-se_twin_cooling_511_l_full03_fxszoj8y.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//108/MTA-48755394/samsung_samsung_kulkas_side_by_side_rf48a4000b4-se_twin_cooling_511_l_full04_pjq9d9rx.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//108/MTA-48755394/samsung_samsung_kulkas_side_by_side_rf48a4000b4-se_twin_cooling_511_l_full05_rclzivf9.jpg"
-        ],
-        "price": {
-            "originalPrice": 0,
-            "discount": 0,
-            "finalPrice": 13169000
-        },
-        "category": "Peralatan Elektronik",
-        "sell": 1,
         "categoryList": [
             "Peralatan Elektronik",
             "Kulkas, Chiller & Freezer",
             "Kulkas",
             "Kulkas Side by Side"
         ],
-        "url": "https://blibli.com/p/samsung-kulkas-side-by-side-rf48a4000b4-se-twin-cooling-511-l/ps--ATE-70052-00587?ds=ATE-70052-00587-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1igbwLPbKKMBrsjRhg5GQhuDGTXR1q9HRqLiYd/gDdXjVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPrqREXl7K/pdWLg2Wumgqz2gcMFUGJgnLWCW73milbcgVWtq4XsdYuy09x2u0UVjdk6DHJz7eBZxdKRg8NpIdfN&cnc=false&pickupPointCode=PP-3335875&pid1=ATE-70052-00587",
-        "crawlAt": 1706956443250
+        "url": "https://blibli.com/p/kulkas-side-by-side-samsung-550l-around-cooling-rs-52b3000m9/ps--SIU-60022-01867?ds=SIU-60022-01867-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZFbRVlUYHDco8PQ75pSeMR8V6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYPIRHt2nY0TymQs4iU3ALDM6kFQ5WpTE1j9X4CScC2MsqqykP7EoF9/ptfZEkaISGsMij/4xkwBjbHdnInRru+a&cnc=false&pickupPointCode=PP-3028213&pid1=SIU-60022-01867",
+        "crawlAt": 1707038789196,
+        "_id": "65bf586a1abe1c535fd562ea"
     },
     {
         "marketplace": "blibli",
-        "productName": "New SSD SAMSUNG 980 NVMe M.2 500GB PCIe",
+        "productName": "SAMSUNG GALAXY A05S 6/128 GB GARANSI RESMI",
         "brand": "Samsung",
         "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-132891680/samsung_new_ssd_samsung_980_nvme_m-2_500gb_pcie_full01_k5o9fq22.jpg"
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/107/MTA-139691618/samsung_samsung_galaxy_a05s_6-128_gb_garansi_resmi_full02_u71ekjnv.jpg"
         ],
+        "merchantName": "Ktownshop",
         "price": {
             "originalPrice": 0,
             "discount": 0,
-            "finalPrice": 918000
-        },
-        "category": "Komputer & Gaming",
-        "sell": 16,
-        "categoryList": [
-            "Komputer & Gaming",
-            "Media Penyimpanan",
-            "SSD"
-        ],
-        "url": "https://blibli.com/p/new-ssd-samsung-980-nvme-m-2-500gb-pcie/ps--TOL-70093-00063?ds=TOL-70093-00063-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1glXvEa/ey9ABMCrC8d7ex2nPW7RQz7j3FAh9bE7SSewV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYP2TBTZ1Ww4se1lsPQ7QJWvuODppJfDf0WtE4M7Xk7tJyQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3205016&pid1=TOL-70093-00063",
-        "crawlAt": 1706956443250
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Samsung SSD 990 PRO Heatsink 2TB For PS5",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/115/MTA-129934969/samsung_ssd_samsung_with_heatsink_for_ps5_-_2tb_heatsink_full02_kb1ebu4.jpg"
-        ],
-        "price": {
-            "originalPrice": 4079000,
-            "discount": 0,
-            "finalPrice": 4078000
-        },
-        "category": "Komputer & Gaming",
-        "sell": 2,
-        "categoryList": [
-            "Komputer & Gaming",
-            "Media Penyimpanan",
-            "SSD"
-        ],
-        "url": "https://blibli.com/p/samsung-ssd-990-pro-heatsink-2tb-for-ps5/ps--SUS-34874-02085?ds=SUS-34874-02085-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gVM1r7pUcMHMSa2GcVlGJ/BnYykYNupZmCIRtiAhl1SV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70MpLMfP88iQTh28yrud9gP8L8fQNr+iQQraBtd3ylN43svJqIi2XqjxFa1WXD2Hq7kJb3XHBYDwr/rpsPgJumBrlN1F9i/nB2vjgt8XlzJDTtPoguQ60b+cHUC/jEQ7TfX2TeETumckatdkLB2bGJ7r&cnc=false&pickupPointCode=PP-3008847&pid1=SUS-34874-02085",
-        "crawlAt": 1706956443250
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Samsung Galaxy A04 2022 4/64GB Garansi Resmi Sein",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-68488403/samsung_samsung_galaxy_a04_2022_4-64gb_garansi_resmi_sein_full01_deauox66.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-68488403/samsung_samsung_galaxy_a04_2022_4-64gb_garansi_resmi_sein_full10_exwqwys2.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-68488403/samsung_samsung_galaxy_a04_2022_4-64gb_garansi_resmi_sein_full06_svfgjedr.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-68488403/samsung_samsung_galaxy_a04_2022_4-64gb_garansi_resmi_sein_full11_lwkhrzdr.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-68488403/samsung_samsung_galaxy_a04_2022_4-64gb_garansi_resmi_sein_full07_trwzslpq.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-68488403/samsung_samsung_galaxy_a04_2022_4-64gb_garansi_resmi_sein_full12_iw81ja2u.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-68488403/samsung_samsung_galaxy_a04_2022_4-64gb_garansi_resmi_sein_full02_nhj3xn08.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-68488403/samsung_samsung_galaxy_a04_2022_4-64gb_garansi_resmi_sein_full04_m7gkrihw.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-68488403/samsung_samsung_galaxy_a04_2022_4-64gb_garansi_resmi_sein_full08_quhe6qp3.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-68488403/samsung_samsung_galaxy_a04_2022_4-64gb_garansi_resmi_sein_full09_p5cesiud.jpg"
-        ],
-        "price": {
-            "originalPrice": 0,
-            "discount": 0,
-            "finalPrice": 1599000
+            "finalPrice": 2165000
         },
         "category": "Handphone & Tablet",
-        "sell": 0,
+        "sell": 3,
         "categoryList": [
             "Handphone & Tablet",
             "Handphone",
             "Android"
         ],
-        "url": "https://blibli.com/p/samsung-galaxy-a04-2022-4-64gb-garansi-resmi-sein/ps--PRA-57137-00579?ds=PRA-57137-00579-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZE+n5HmhfGKOHpzIdcqBH/XV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3020471&pid1=PRA-57137-00579",
-        "crawlAt": 1706956443250
+        "url": "https://blibli.com/p/samsung-galaxy-a05s-6-128-gb-garansi-resmi/ps--KTP-70005-00147?ds=KTP-70005-00147-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1sHt2s+DPNzC/qy+zJlEIX8So5ye9J5MURNKqiLZY7uKV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3478262&pid1=KTP-70005-00147",
+        "crawlAt": 1707038789196,
+        "_id": "65bf586a1abe1c535fd562ec"
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Samsung Galaxy A04e Smartphone [3GB/32GB]",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//104/MTA-93617825/samsung_samsung_galaxy_a04e_smartphone_-3gb-32gb-_full08_n65rksl1.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//104/MTA-93617825/samsung_samsung_galaxy_a04e_3-32gb_garansi_resmi_full03_nm2s3lnz.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//104/MTA-93617825/samsung_samsung_galaxy_a04e_3-32gb_garansi_resmi_full04_mleov9dv.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//104/MTA-93617825/samsung_samsung_galaxy_a04e_3-32gb_garansi_resmi_full05_d6wd3q99.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//104/MTA-93617825/samsung_samsung_galaxy_a04e_3-32gb_garansi_resmi_full07_i3zizdqo.jpg"
+        ],
+        "merchantName": "SKC Official Store",
+        "price": {
+            "originalPrice": 1299000,
+            "discount": 8,
+            "finalPrice": 1199000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 3,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Handphone",
+            "Android"
+        ],
+        "url": "https://blibli.com/p/samsung-galaxy-a04e-smartphone-3gb-32gb/ps--SAC-16923-01600?ds=SAC-16923-01600-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1sHt2s+DPNzC/qy+zJlEIX8ek25Yf8RRz3/ZTYhnAHWMV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3457057&pid1=SAC-16923-01600",
+        "crawlAt": 1707038789196,
+        "_id": "65bf586d1abe1c535fd562ee"
     },
     {
         "marketplace": "blibli",
@@ -835,6 +710,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/104/MTA-99731255/samsung_samsung_full03.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/104/MTA-99731255/samsung_samsung_full04.jpg"
         ],
+        "merchantName": "HAKACELL Official Store",
         "price": {
             "originalPrice": 398000,
             "discount": 10,
@@ -848,7 +724,8 @@
             "Powerbank"
         ],
         "url": "https://blibli.com/p/limited-samsung-powerbank-25w-10000mah-battery-pack-25w-10000mah-type-c/ps--HAL-60040-00024?ds=HAL-60040-00024-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1igbwLPbKKMBrsjRhg5GQhtfBLpStNlV9c7Opk8a9aha6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86Pm2ZOc9ESIgdWygRWRXtGZQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3124359&pid1=HAL-60040-00024",
-        "crawlAt": 1706956443250
+        "crawlAt": 1707038789196,
+        "_id": "65bf586e1abe1c535fd562f0"
     },
     {
         "marketplace": "blibli",
@@ -866,6 +743,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-23978757/samsung_samsung_ac_1-2_pk_-_ar05tghqasinse_r32_-free_instalasi-_garansi_resmi_full06_05344f27.jpeg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-23978757/samsung_samsung_ac_1-2_pk_-_ar05tghqasinse_r32_-free_instalasi-_garansi_resmi_full07_ab94c198.jpeg"
         ],
+        "merchantName": "CSM Electronic City Official Store",
         "price": {
             "originalPrice": 0,
             "discount": 0,
@@ -881,54 +759,272 @@
             "AC Split 1##2 PK"
         ],
         "url": "https://blibli.com/p/samsung-ac-1-2-pk-ar05tghqasinse-r32-free-instalasi-garansi-resmi/ps--CSE-70005-00653?ds=CSE-70005-00653-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1jivGClVoqEpHhqjcdJgG3Jvv7B6BQ6C6D+7gbWzPJhgV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYOVzeXI44eWBpbQ2KmN80fUgj8rwLy4WyA5CBpvt+9b/O4etp1CWGykFmfiCVkPqDSgQ08Pd8smWknXQ364KLyJR1idper1VAxjD0VeVT6Y5Q==&cnc=false&pickupPointCode=PP-3176621&pid1=CSE-70005-00653",
-        "crawlAt": 1706956443250
+        "crawlAt": 1707038789196,
+        "_id": "65bf586f1abe1c535fd562f2"
     },
     {
         "marketplace": "blibli",
-        "productName": "Samsung Galaxy A73 8/256GB",
-        "brand": "A",
+        "productName": "Samsung Galaxy S23+ 5G 8GB/512GB",
+        "brand": "Samsung",
         "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//116/MTA-54879479/a_samsung-galaxy-a73-8-256gb_full00_31139723-1E40-4650-8731-9C51BABDAE4B.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//116/MTA-54879479/a_samsung-galaxy-a73-8-256gb_full01_40508840-DD28-4DC5-8FC9-DA449FCF523B.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//116/MTA-54879479/a_samsung-galaxy-a73-8-256gb_full02_2DC43B46-BBF6-4082-8CA0-86BD4EC3FB01.jpg"
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//100/MTA-92192662/samsung_samsung_galaxy_s23-_smartphone_-8-512_gb-_full02_jvhllh8x.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//100/MTA-92192662/samsung_samsung_galaxy_s23-_smartphone_-8-512_gb-_full01_of5ad4oo.jpg"
         ],
+        "merchantName": "Pluto P Sellular",
         "price": {
             "originalPrice": 0,
             "discount": 0,
-            "finalPrice": 7748000
+            "finalPrice": 17999000
         },
         "category": "Handphone & Tablet",
-        "sell": 66,
+        "sell": 0,
         "categoryList": [
             "Handphone & Tablet",
             "Handphone",
             "Android"
         ],
-        "url": "https://blibli.com/p/samsung-galaxy-a73-8-256gb/ps--TUT-70022-00229?ds=TUT-70022-00229-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1nyFjzC3wWqdnZVwloVAILzyBXNalgwRqNG2JhvWzjBUVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3360214&pid1=TUT-70022-00229",
-        "crawlAt": 1706956443250
+        "url": "https://blibli.com/p/samsung-galaxy-s23-5g-8gb-512gb/ps--PLP-60023-00690?ds=PLP-60023-00690-00003&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZElLn0PXFWD6C1R8zkQHo95Vfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3035578&pid1=PLP-60023-00690",
+        "crawlAt": 1707038789196,
+        "_id": "65bf58701abe1c535fd562f4"
     },
     {
         "marketplace": "blibli",
-        "productName": "SAMSUNG GALAXY Z FOLD 3 5G 12-512GB",
+        "productName": "Casing Samsung Galaxy A34 5G Clear Cover Gadget Case Bening",
         "brand": "Samsung",
         "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-28043488/samsung_samsung_galaxy_z_fold_3_5g_12-512gb_full01_e88rp4i.jpeg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//101/MTA-28043488/samsung_samsung_galaxy_z_fold_3_5g_12-512gb_full01_i1e9sle7.jpg"
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/111/MTA-95813994/samsung_casing_samsung_galaxy_a34_5g_clear_cover_gadget_case_bening_full01_jrs3v2ji.jpeg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/111/MTA-95813994/samsung_casing_samsung_galaxy_a34_5g_clear_cover_gadget_case_bening_full02_sstacnhg.jpeg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/111/MTA-95813994/samsung_casing_samsung_galaxy_a34_5g_clear_cover_gadget_case_bening_full03_d8egak5p.jpeg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/111/MTA-95813994/samsung_casing_samsung_galaxy_a34_5g_clear_cover_gadget_case_bening_full04_d2xbx8a.jpeg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/111/MTA-95813994/samsung_casing_samsung_galaxy_a34_5g_clear_cover_gadget_case_bening_full05_jzo361pz.jpeg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/111/MTA-95813994/samsung_casing_samsung_galaxy_a34_5g_clear_cover_gadget_case_bening_full06_hq5nz3mo.jpeg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/111/MTA-95813994/samsung_casing_samsung_galaxy_a34_5g_clear_cover_gadget_case_bening_full07_qy0sji74.jpeg"
         ],
+        "merchantName": "Super Gadget ",
         "price": {
-            "originalPrice": 26999000,
-            "discount": 13,
-            "finalPrice": 23499000
+            "originalPrice": 0,
+            "discount": 0,
+            "finalPrice": 99000
         },
         "category": "Handphone & Tablet",
-        "sell": 5,
+        "sell": 4,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Casing"
+        ],
+        "url": "https://blibli.com/p/casing-samsung-galaxy-a34-5g-clear-cover-gadget-case-bening/ps--FEO-16605-04550?ds=FEO-16605-04550-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1jivGClVoqEpHhqjcdJgG3I8/HakygN5NM2e3y0e0vaeBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aZyNa4lr5t5nmCNGGkFUiPmT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3140310&pid1=FEO-16605-04550",
+        "crawlAt": 1707038789196,
+        "_id": "65bf58711abe1c535fd562f6"
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Samsung Galaxy Tab A8 2022 LTE 4/64 Gb Garansi Resmi",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-87002481/samsung_samsung_galaxy_tab_a8_2022_lte_4-64_gb_garansi_resmi_full01_bq35oz1o.jpg"
+        ],
+        "merchantName": "Senjaya Selindo Official Store",
+        "price": {
+            "originalPrice": 3660000,
+            "discount": 0,
+            "finalPrice": 3659000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 7,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Tablet",
+            "Tablet Android"
+        ],
+        "url": "https://blibli.com/p/samsung-galaxy-tab-a8-2022-lte-4-64-gb-garansi-resmi/ps--SES-70404-00183?ds=SES-70404-00183-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1n2w4hyoSe9OWrWTVrMg3TbpHZLTuvSK0Nv1b/k1GNrlV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70MpLMfP88iQTh28yrud9gP8L8fQNr+iQQraBtd3ylN43svJqIi2XqjxFa1WXD2Hq7li0nCtQOqY4utJmZa0EvR2ZzpOOMdOk17yww/hFY7T1CC5SLDDkk/NXp4m5tkHYA32TeETumckatdkLB2bGJ7r&cnc=false&pickupPointCode=PP-3319326&pid1=SES-70404-00183",
+        "crawlAt": 1707038789196,
+        "_id": "65bf58721abe1c535fd562f8"
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Samsung Galaxy A04 2022 4/64GB Garansi Resmi Sein",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-68488403/samsung_samsung_galaxy_a04_2022_4-64gb_garansi_resmi_sein_full01_deauox66.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-68488403/samsung_samsung_galaxy_a04_2022_4-64gb_garansi_resmi_sein_full10_exwqwys2.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-68488403/samsung_samsung_galaxy_a04_2022_4-64gb_garansi_resmi_sein_full06_svfgjedr.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-68488403/samsung_samsung_galaxy_a04_2022_4-64gb_garansi_resmi_sein_full11_lwkhrzdr.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-68488403/samsung_samsung_galaxy_a04_2022_4-64gb_garansi_resmi_sein_full07_trwzslpq.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-68488403/samsung_samsung_galaxy_a04_2022_4-64gb_garansi_resmi_sein_full12_iw81ja2u.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-68488403/samsung_samsung_galaxy_a04_2022_4-64gb_garansi_resmi_sein_full02_nhj3xn08.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-68488403/samsung_samsung_galaxy_a04_2022_4-64gb_garansi_resmi_sein_full04_m7gkrihw.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-68488403/samsung_samsung_galaxy_a04_2022_4-64gb_garansi_resmi_sein_full08_quhe6qp3.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-68488403/samsung_samsung_galaxy_a04_2022_4-64gb_garansi_resmi_sein_full09_p5cesiud.jpg"
+        ],
+        "merchantName": "Prima Abadi Official Store ",
+        "price": {
+            "originalPrice": 0,
+            "discount": 0,
+            "finalPrice": 1599000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 0,
         "categoryList": [
             "Handphone & Tablet",
             "Handphone",
             "Android"
         ],
-        "url": "https://blibli.com/p/samsung-galaxy-z-fold-3-5g-12-512gb/ps--SAB-60079-00118?ds=SAB-60079-00118-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1hoohFLFJVwVeGdsDku9ec5ZFtfFrlLTczAXjNfr+SHeVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3110108&pid1=SAB-60079-00118",
-        "crawlAt": 1706956443250
+        "url": "https://blibli.com/p/samsung-galaxy-a04-2022-4-64gb-garansi-resmi-sein/ps--PRA-57137-00579?ds=PRA-57137-00579-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZE+n5HmhfGKOHpzIdcqBH/XV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3020471&pid1=PRA-57137-00579",
+        "crawlAt": 1707038789196,
+        "_id": "65bf58751abe1c535fd562fa"
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Samsung WA80H4000SW Mesin Cuci [8 kg]",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/samsung_samsung-wa80h4000sw-mesin-cuci--8-kg-_full02.jpg"
+        ],
+        "merchantName": "UFO Elektronika dan Furniture Official Store",
+        "price": {
+            "originalPrice": 0,
+            "discount": 0,
+            "finalPrice": 2698000
+        },
+        "category": "Peralatan Elektronik",
+        "sell": 8,
+        "categoryList": [
+            "Peralatan Elektronik",
+            "Mesin Cuci & Pengering",
+            "Mesin Cuci",
+            "Mesin Cuci Top Load"
+        ],
+        "url": "https://blibli.com/p/samsung-wa80h4000sw-mesin-cuci-8-kg/ps--UFE-27255-04860?ds=UFE-27255-04860-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1pGTFXj2OkmKf+AOWXtSxPI6Sv35+AznarN5RrFJVwdiV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYN2zTrAbBmhBUv0dwUOiSqKC12wcg/UTP8EaMg90qVnPLDWEmLf/HMAlF+zy2oHsWcMij/4xkwBjbHdnInRru+a&cnc=false&pickupPointCode=PP-3024341&pid1=UFE-27255-04860",
+        "crawlAt": 1707038789196,
+        "_id": "65bf58761abe1c535fd562fc"
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Samsung Galaxy A53 5G Smartphone (8/128GB)",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-40879363/samsung_samsung_galaxy_a53_5g_smartphone_-8-128gb-_full01_ebcdfzse.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//104/MTA-40879363/samsung_samsung_galaxy_a53_5g_smartphone_-8-128gb-_full01_ev29mori.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-40879363/samsung_samsung_galaxy_a53_5g_smartphone_-8-128gb-_full02_ltuh8hxp.jpg"
+        ],
+        "merchantName": "Okeshop O2O Official Store",
+        "price": {
+            "originalPrice": 0,
+            "discount": 0,
+            "finalPrice": 5799000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 274,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Handphone",
+            "Android"
+        ],
+        "url": "https://blibli.com/p/samsung-galaxy-a53-5g-smartphone-8-128gb/ps--OKO-70008-00227?ds=OKO-70008-00227-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1ry+f+ABZnfy7ntEJt2iLxitZNTTsjRZdr2yIf3u0dWFlsogVVfmUpV8Tbz8/WvDB0/Qd+PE2R+BYcbkg24R21ueL9F9e2M76YsQGLUm9TigHjCITnaWFAGh4FHnHRTkmp2KnAun/YYLvwc268FM3NiL59VZTgWpMbeYqGkFrJSh7AOVPD2SpZKfjAs2aksZMMLpEI+vdGef6g8NpVxWl320XBPM8Ib69hRyb0y0TLR/&cnc=false&pickupPointCode=PP-3218488&pid1=OKO-70008-00227",
+        "crawlAt": 1707038789196,
+        "_id": "65bf58781abe1c535fd562fe"
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Samsung Galaxy A15 4G [8GB/128GB] + Free Adaptor 25W Garansi Resmi",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/90/MTA-152150822/brd-44261_samsung-galaxy-a15-8-128gb-lte_full03-5952c46b.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/90/MTA-152150822/brd-44261_samsung-galaxy-a15-8-128gb-lte_full07-a8b431ff.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/90/MTA-152150822/brd-44261_samsung-galaxy-a15-8-128gb-lte_full02-22adb1d5.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/90/MTA-152150822/brd-44261_samsung-galaxy-a15-8-128gb-lte_full04-04cea54e.jpg"
+        ],
+        "merchantName": "HP resmi Official Store",
+        "price": {
+            "originalPrice": 2720000,
+            "discount": 0,
+            "finalPrice": 2706400
+        },
+        "category": "Handphone & Tablet",
+        "sell": 38,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Handphone",
+            "Android"
+        ],
+        "url": "https://blibli.com/p/samsung-galaxy-a15-4g-8gb-128gb-free-adaptor-25w-garansi-resmi/ps--HPR-70002-00323?ds=HPR-70002-00323-00003&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1s5y+7ibfIUGWfNNMYQ/ndc2Xft9P/HWEbApyG2sQR/gVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX5S8zmthDZvuxaMAiMic0Z/VadLzfI1Uug6xRZEdsASicz0Rl8lfc9CnJqjMMx4lFpRiA2nX5MQkJ/wB53voxWG7TpFTM31J8iJEsajgAmGqZIyu1gXyKCeg3W1yjMq1TtHWJ2l6vVUDGMPRV5VPpjl&cnc=false&pickupPointCode=PP-3380461&pid1=HPR-70002-00323",
+        "crawlAt": 1707038789196,
+        "_id": "65bf58781abe1c535fd56300"
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "New SSD SAMSUNG 980 NVMe M.2 500GB PCIe",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-132891680/samsung_new_ssd_samsung_980_nvme_m-2_500gb_pcie_full01_k5o9fq22.jpg"
+        ],
+        "merchantName": "Toko Lontong Ganal",
+        "price": {
+            "originalPrice": 0,
+            "discount": 0,
+            "finalPrice": 918000
+        },
+        "category": "Komputer & Gaming",
+        "sell": 16,
+        "categoryList": [
+            "Komputer & Gaming",
+            "Media Penyimpanan",
+            "SSD"
+        ],
+        "url": "https://blibli.com/p/new-ssd-samsung-980-nvme-m-2-500gb-pcie/ps--TOL-70093-00063?ds=TOL-70093-00063-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1glXvEa/ey9ABMCrC8d7ex2nPW7RQz7j3FAh9bE7SSewV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYP2TBTZ1Ww4se1lsPQ7QJWvuODppJfDf0WtE4M7Xk7tJyQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3205016&pid1=TOL-70093-00063",
+        "crawlAt": 1707038789196,
+        "_id": "65bf58791abe1c535fd56302"
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Samsung SSD 990 PRO Heatsink 2TB For PS5",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/115/MTA-129934969/samsung_ssd_samsung_with_heatsink_for_ps5_-_2tb_heatsink_full02_kb1ebu4.jpg"
+        ],
+        "merchantName": "Supersonic Game Store Official Store",
+        "price": {
+            "originalPrice": 4079000,
+            "discount": 0,
+            "finalPrice": 4078000
+        },
+        "category": "Komputer & Gaming",
+        "sell": 2,
+        "categoryList": [
+            "Komputer & Gaming",
+            "Media Penyimpanan",
+            "SSD"
+        ],
+        "url": "https://blibli.com/p/samsung-ssd-990-pro-heatsink-2tb-for-ps5/ps--SUS-34874-02085?ds=SUS-34874-02085-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gVM1r7pUcMHMSa2GcVlGJ/BnYykYNupZmCIRtiAhl1SV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70MpLMfP88iQTh28yrud9gP8L8fQNr+iQQraBtd3ylN43svJqIi2XqjxFa1WXD2Hq7kJb3XHBYDwr/rpsPgJumBrlN1F9i/nB2vjgt8XlzJDTtPoguQ60b+cHUC/jEQ7TfX2TeETumckatdkLB2bGJ7r&cnc=false&pickupPointCode=PP-3008847&pid1=SUS-34874-02085",
+        "crawlAt": 1707038789196,
+        "_id": "65bf587c1abe1c535fd56304"
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "SAMSUNG TV 43BU8000 Crystal UHD 4K Smart TV 43 Inch 43BU8000",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//111/MTA-44886809/samsung_samsung_tv_43bu8000_crystal_uhd_4k_smart_tv_43_inch_43bu8000_full01_d80be07m.jpg"
+        ],
+        "merchantName": "Memory Elektronik",
+        "price": {
+            "originalPrice": 5200000,
+            "discount": 0,
+            "finalPrice": 5174000
+        },
+        "category": "Peralatan Elektronik",
+        "sell": 1,
+        "categoryList": [
+            "Peralatan Elektronik",
+            "Televisi & Aksesoris",
+            "TV LCD##LED",
+            "Smart TV",
+            "Smart TV 40-49 Inch"
+        ],
+        "url": "https://blibli.com/p/samsung-tv-43bu8000-crystal-uhd-4k-smart-tv-43-inch-43bu8000/ps--MEE-41951-01420?ds=MEE-41951-01420-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1igbwLPbKKMBrsjRhg5GQhtXfzaFFAokto9xPyFNja0ZV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70MpLMfP88iQTh28yrud9gP8L8fQNr+iQQraBtd3ylN43svJqIi2XqjxFa1WXD2Hq7kV31f06PkP/WCWl4/kVoSKEdbBDKpoLSKGlO6Kh7BroyFPb9hwk0Yy4Pm1Fujfc5ZvaepnBCEwNcmjFgpJ960cFnl0eK1KL4Ori2u+G47dTGLXxdQ3ghZT8ep84x9RFxg=&cnc=false&pickupPointCode=PP-3012163&pid1=MEE-41951-01420",
+        "crawlAt": 1707038789196,
+        "_id": "65bf587d1abe1c535fd56306"
     },
     {
         "marketplace": "blibli",
@@ -938,6 +1034,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//113/MTA-89656096/samsung_samsung_galaxy_a14_5g_ram_6-128_garansi_resmi_1tahun_full01_c035ed2a.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//113/MTA-89656096/samsung_samsung_galaxy_a14_5g_ram_6-128_garansi_resmi_1tahun_full02_8a071281.jpg"
         ],
+        "merchantName": "Dunia Gadget Surabaya",
         "price": {
             "originalPrice": 2999000,
             "discount": 11,
@@ -951,7 +1048,8 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-a14-5g-ram-6-128-garansi-resmi-1tahun/ps--DUG-70037-00030?ds=DUG-70037-00030-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1pVDITjfUKvmv1uQuEmlPkAv8CC8Uq6fsk6mxjClCihHVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3394899&pid1=DUG-70037-00030",
-        "crawlAt": 1706956443250
+        "crawlAt": 1707038789196,
+        "_id": "65bf587e1abe1c535fd56308"
     },
     {
         "marketplace": "blibli",
@@ -961,6 +1059,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//96/MTA-70470535/samsung_samsung_wd11t754dbx_mesin_cuci_dryer_front_loading_11_kg_full01_ncw6mtj9.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//96/MTA-70470535/samsung_samsung-wd11t754dbx-mesin-cuci-dryer-front-loading-11-kg_full01.jpg"
         ],
+        "merchantName": "UFO Elektronika Semarang Official Store",
         "price": {
             "originalPrice": 0,
             "discount": 0,
@@ -975,29 +1074,7 @@
             "Mesin Cuci Front Load"
         ],
         "url": "https://blibli.com/p/samsung-wd11t754dbx-mesin-cuci-dryer-front-loading-11-kg/ps--UFG-70003-01255?ds=UFG-70003-01255-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZFFn3DMvZOp+A5Iptxg0mMNV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYN2zTrAbBmhBUv0dwUOiSqKC12wcg/UTP8EaMg90qVnPMo4r2gG9mriAXefsd59z9gMij/4xkwBjbHdnInRru+a&cnc=false&pickupPointCode=PP-3394730&pid1=UFG-70003-01255",
-        "crawlAt": 1706956443250
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Samsung Galaxy S23+ 5G 8GB/512GB",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//100/MTA-92192662/samsung_samsung_galaxy_s23-_smartphone_-8-512_gb-_full02_jvhllh8x.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//100/MTA-92192662/samsung_samsung_galaxy_s23-_smartphone_-8-512_gb-_full01_of5ad4oo.jpg"
-        ],
-        "price": {
-            "originalPrice": 0,
-            "discount": 0,
-            "finalPrice": 17999000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 0,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Handphone",
-            "Android"
-        ],
-        "url": "https://blibli.com/p/samsung-galaxy-s23-5g-8gb-512gb/ps--PLP-60023-00690?ds=PLP-60023-00690-00003&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZElLn0PXFWD6C1R8zkQHo95Vfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3035578&pid1=PLP-60023-00690",
-        "crawlAt": 1706956443250
+        "crawlAt": 1707038789196,
+        "_id": "65bf587f1abe1c535fd5630a"
     }
 ]

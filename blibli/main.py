@@ -31,7 +31,6 @@ def search(product_name: str):
             break
         with open("assets/blibli/response-"+product_name+"-"+str(page)+".json", "w") as f:
             f.write(json.dumps(result, indent=4))
-        # results.extend(result)
         
         print('Page: ', page,' Success!')
         start += 20

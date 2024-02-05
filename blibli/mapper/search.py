@@ -1,5 +1,6 @@
 import json
 from utils import functional as util
+from service import mongo as MongoService
 
 def mapper(data: dict, product_name: str = None, log:bool = False):
     products_result = []
@@ -14,6 +15,7 @@ def mapper(data: dict, product_name: str = None, log:bool = False):
             template["productName"] = item.get('name', 'productName')
             template["brand"] = item.get('brand')
             template["images"] = item.get('images')
+            template["merchantName"] = item.get('merchantName')
             template["price"] = {
                 "originalPrice": util.stringPriceConverter(price.get('strikeThroughPriceDisplay',"0")),
                 "discount": price.get('discount'),
@@ -27,10 +29,10 @@ def mapper(data: dict, product_name: str = None, log:bool = False):
             if log:
               print(template, "\n\n")
             products_result.append(template)
-
-    if product_name:
-        with(open(f'assets/blibli/blibli-{product_name}-mapped.json', 'w')) as f:
-            f.write(json.dumps(products_result, indent=4))
+    MongoService.insert_products(products_result)
+    # if product_name:
+    #     with(open(f'assets/blibli/blibli-{product_name}-mapped.json', 'w')) as f:
+    #         f.write(json.dumps(products_result, indent=4))
     return products_result
 
 

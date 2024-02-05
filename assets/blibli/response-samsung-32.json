@@ -1,35 +1,6 @@
 [
     {
         "marketplace": "blibli",
-        "productName": "Case Samsung Galaxy M33 5G NILLKIN Qin Leather Flip Casing",
-        "brand": "Nillkin",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//89/MTA-48023431/nillkin_case_samsung_galaxy_m33_5g_nillkin_qin_leather_flip_casing_full01_tkug72o6.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//89/MTA-48023431/nillkin_case_samsung_galaxy_m33_5g_nillkin_qin_leather_flip_casing_full02_shbd1wyz.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//89/MTA-48023431/nillkin_case_samsung_galaxy_m33_5g_nillkin_qin_leather_flip_casing_full03_q2nod39l.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//89/MTA-48023431/nillkin_case_samsung_galaxy_m33_5g_nillkin_qin_leather_flip_casing_full04_uxwyh3d5.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//89/MTA-48023431/nillkin_case_samsung_galaxy_m33_5g_nillkin_qin_leather_flip_casing_full05_ik7fk56j.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//89/MTA-48023431/nillkin_case_samsung_galaxy_m33_5g_nillkin_qin_leather_flip_casing_full06_chhvvkh4.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//89/MTA-48023431/nillkin_case_samsung_galaxy_m33_5g_nillkin_qin_leather_flip_casing_full07_g3ydd94j.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//89/MTA-48023431/nillkin_case_samsung_galaxy_m33_5g_nillkin_qin_leather_flip_casing_full08_m8ehqpzx.jpg"
-        ],
-        "price": {
-            "originalPrice": 159000,
-            "discount": 8,
-            "finalPrice": 146000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 5,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Casing"
-        ],
-        "url": "https://blibli.com/p/case-samsung-galaxy-m33-5g-nillkin-qin-leather-flip-casing/ps--ORM-40582-07999?ds=ORM-40582-07999-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1hoohFLFJVwVeGdsDku9ec4MTMsZOfA3FOzbEmHpF4Iu6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86POIUqKO9p5cMvC+z/NFTdpQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-07999",
-        "crawlAt": 1706956564398
-    },
-    {
-        "marketplace": "blibli",
         "productName": "Imak Casing Shockproof Soft Case Samsung Galaxy S21 FE",
         "brand": "Imak",
         "images": [
@@ -41,6 +12,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//94/MTA-20612937/imak_imak_casing_shockproof_soft_case_samsung_galaxy_s21_fe_full08_g8dd9yai.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//94/MTA-20612937/imak_imak_casing_shockproof_soft_case_samsung_galaxy_s21_fe_full06_n743bsi9.jpg"
         ],
+        "merchantName": "Orionlycom",
         "price": {
             "originalPrice": 120000,
             "discount": 8,
@@ -54,7 +26,7 @@
             "Casing"
         ],
         "url": "https://blibli.com/p/imak-casing-shockproof-soft-case-samsung-galaxy-s21-fe/ps--ORM-40582-07484?ds=ORM-40582-07484-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1pGTFXj2OkmKf+AOWXtSxPLvYOLpvxFmLn4Akn9MSdNm6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86POIUqKO9p5cMvC+z/NFTdpQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-07484",
-        "crawlAt": 1706956564398
+        "crawlAt": 1707039840137
     },
     {
         "marketplace": "blibli",
@@ -67,6 +39,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//91/MTA-10587123/nillkin_nillkin_casing_super_frosted_shield_hard_case_samsung_galaxy_s21_plus_full08_ujpcqoxp.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//91/MTA-10587123/nillkin_nillkin_casing_super_frosted_shield_hard_case_samsung_galaxy_s21_plus_full07_rwzhcaay.jpg"
         ],
+        "merchantName": "Orionlycom",
         "price": {
             "originalPrice": 99000,
             "discount": 8,
@@ -80,7 +53,7 @@
             "Casing"
         ],
         "url": "https://blibli.com/p/nillkin-casing-super-frosted-shield-hard-case-samsung-galaxy-s21-plus/ps--ORM-40582-07057?ds=ORM-40582-07057-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1mPLhyhOtMzhHDziRpiGCLt/pxkQhcFMRYoUUSu7QqMu6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86POIUqKO9p5cMvC+z/NFTdpQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-07057",
-        "crawlAt": 1706956564398
+        "crawlAt": 1707039840137
     },
     {
         "marketplace": "blibli",
@@ -93,6 +66,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//92/MTA-3459116/nillkin_nillkin-tempered-glass--amazing-h----samsung-galaxy-a10_full09.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//92/MTA-3459116/nillkin_nillkin-tempered-glass--amazing-h----samsung-galaxy-a10_full10.jpg"
         ],
+        "merchantName": "Orionlycom",
         "price": {
             "originalPrice": 129000,
             "discount": 10,
@@ -106,7 +80,7 @@
             "Screen Protector"
         ],
         "url": "https://blibli.com/p/nillkin-amazing-h-tempered-glass-screen-protector-for-samsung-galaxy-a10/ps--ORM-40582-05333?ds=ORM-40582-05333-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1igbwLPbKKMBrsjRhg5GQhs0HhG7rHz8LqWmNzkGmfXJ6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86PFfGXcHNZE4OgTeEc+SpvkQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-05333",
-        "crawlAt": 1706956564398
+        "crawlAt": 1707039840137
     },
     {
         "marketplace": "blibli",
@@ -118,6 +92,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//87/MTA-2156145/nillkin_nillkin-hard-case--synthetic-fiber----samsung-galaxy-s9---black_full07.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//87/MTA-2156145/nillkin_nillkin-hard-case--synthetic-fiber----samsung-galaxy-s9---black_full08.jpg"
         ],
+        "merchantName": "Orionlycom",
         "price": {
             "originalPrice": 199000,
             "discount": 5,
@@ -131,7 +106,61 @@
             "Casing"
         ],
         "url": "https://blibli.com/p/nillkin-synthetic-fiber-hardcase-casing-for-samsung-galaxy-s9-black/ps--ORM-40582-03848?ds=ORM-40582-03848-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZGFQ7mc86nDuWYfnfLCof5q6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86POIUqKO9p5cMvC+z/NFTdpQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-03848",
-        "crawlAt": 1706956564398
+        "crawlAt": 1707039840137
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Nillkin Whole Pack Screen Protector for Samsung Galaxy M31",
+        "brand": "Nillkin",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//89/MTA-7107702/nillkin_nillkin_screen_protector_-whole_pack-_-_samsung_galaxy_m31_full09_g3hroe0m.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//89/MTA-7107702/nillkin_nillkin_screen_protector_-whole_pack-_-_samsung_galaxy_m31_full13_f16ezjtr.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//89/MTA-7107702/nillkin_nillkin_screen_protector_-whole_pack-_-_samsung_galaxy_m31_full12_ldy0eis5.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//89/MTA-7107702/nillkin_nillkin_screen_protector_-whole_pack-_-_samsung_galaxy_m31_full11_juvmuzis.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//89/MTA-7107702/nillkin_nillkin_screen_protector_-whole_pack-_-_samsung_galaxy_m31_full10_g6nz195r.jpg"
+        ],
+        "merchantName": "Orionlycom",
+        "price": {
+            "originalPrice": 90000,
+            "discount": 16,
+            "finalPrice": 76000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 0,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Screen Protector"
+        ],
+        "url": "https://blibli.com/p/nillkin-whole-pack-screen-protector-for-samsung-galaxy-m31/ps--ORM-40582-06392?ds=ORM-40582-06392-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZHEWhkqXRrSX7k0z6E72mOjBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aO9+IA/O9Alm0sDqZ/gwLsWT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06392",
+        "crawlAt": 1707039840137
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Nillkin Casing Textured Hard Case Samsung Galaxy S21 Plus",
+        "brand": "Nillkin",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-10661948/nillkin_nillkin_casing_textured_hard_case_samsung_galaxy_s21_plus_full01_lilyo891.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-10661948/nillkin_nillkin_casing_textured_hard_case_samsung_galaxy_s21_plus_full05_lkjggzph.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-10661948/nillkin_nillkin_casing_textured_hard_case_samsung_galaxy_s21_plus_full04_qhbfj8e2.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-10661948/nillkin_nillkin_casing_textured_hard_case_samsung_galaxy_s21_plus_full03_jtuwevud.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-10661948/nillkin_nillkin_casing_textured_hard_case_samsung_galaxy_s21_plus_full02_dki4200h.jpg"
+        ],
+        "merchantName": "Orionlycom",
+        "price": {
+            "originalPrice": 159000,
+            "discount": 8,
+            "finalPrice": 146000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 14,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Casing"
+        ],
+        "url": "https://blibli.com/p/nillkin-casing-textured-hard-case-samsung-galaxy-s21-plus/ps--ORM-40582-07067?ds=ORM-40582-07067-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1mPLhyhOtMzhHDziRpiGCLsDPaVvnZXwjtNLIgLLVT88V6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYOPTaJa61ZourzquQtoo/whKUnRDRXZLSSdAODeCXzbQiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-07067",
+        "crawlAt": 1707039840137
     },
     {
         "marketplace": "blibli",
@@ -146,6 +175,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//92/MTA-23721580/spigen_case_samsung_galaxy_buds_2_-pro_-live_spigen_rugged_armor_cover_casing_full05_g9rmthtx.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//92/MTA-23721580/spigen_case_samsung_galaxy_buds_2_-pro_-live_spigen_rugged_armor_cover_casing_full06_olz980wj.jpg"
         ],
+        "merchantName": "Spigen Indonesia Official Store",
         "price": {
             "originalPrice": 0,
             "discount": 0,
@@ -159,33 +189,7 @@
             "Aksesoris Wearable"
         ],
         "url": "https://blibli.com/p/case-samsung-galaxy-buds-2-pro-live-spigen-rugged-armor-cover-casing/ps--SPI-70014-00102?ds=SPI-70014-00102-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1iijDo5VH9ap+SHfZg0a7sDKHpG++EEcYH1Yuf9VobyqV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYOpOoj7VMrTjotH+a8sGedqKkFE337u38UxZG8Q3ZKRnr0pVlrJUs2BiLjl4FmSBL8rvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3259767&pid1=SPI-70014-00102",
-        "crawlAt": 1706956564398
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Nillkin Tempered Glass Amazing H for Samsung Galaxy M30",
-        "brand": "Nillkin",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//94/MTA-3437760/nillkin_nillkin-tempered-glass--amazing-h----samsung-galaxy-m30_full06.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//94/MTA-3437760/nillkin_nillkin-tempered-glass--amazing-h----samsung-galaxy-m30_full07.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//94/MTA-3437760/nillkin_nillkin-tempered-glass--amazing-h----samsung-galaxy-m30_full08.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//94/MTA-3437760/nillkin_nillkin-tempered-glass--amazing-h----samsung-galaxy-m30_full09.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//94/MTA-3437760/nillkin_nillkin-tempered-glass--amazing-h----samsung-galaxy-m30_full10.jpg"
-        ],
-        "price": {
-            "originalPrice": 129000,
-            "discount": 10,
-            "finalPrice": 116000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 0,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Screen Protector"
-        ],
-        "url": "https://blibli.com/p/nillkin-tempered-glass-amazing-h-for-samsung-galaxy-m30/ps--ORM-40582-05306?ds=ORM-40582-05306-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZE0HhG7rHz8LqWmNzkGmfXJ6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86PFfGXcHNZE4OgTeEc+SpvkQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-05306",
-        "crawlAt": 1706956564398
+        "crawlAt": 1707039840137
     },
     {
         "marketplace": "blibli",
@@ -197,6 +201,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//102/MTA-92237664/br-m036969-02885_samsung-a04-ram-4-rom-64gb_full03.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//102/MTA-92237664/br-m036969-02885_samsung-a04-ram-4-rom-64gb_full04.jpg"
         ],
+        "merchantName": "Intanmutiaraofficial",
         "price": {
             "originalPrice": 1599000,
             "discount": 23,
@@ -210,50 +215,24 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-a04-ram-4-rom-64gb/ps--INL-60060-00325?ds=INL-60060-00325-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gVM1r7pUcMHMSa2GcVlGJ/Dfm6zqFHfmhLfOKOC0mgpV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70MpLMfP88iQTh28yrud9gP8L8fQNr+iQQraBtd3ylN43svJqIi2XqjxFa1WXD2Hq7li0nCtQOqY4utJmZa0EvR2PLWjp7XXNx89qDNn9ZrNSX8CG88FJRCeLOsphecMqhL2TeETumckatdkLB2bGJ7r&cnc=false&pickupPointCode=PP-3104799&pid1=INL-60060-00325",
-        "crawlAt": 1706956564398
+        "crawlAt": 1707039840137
     },
     {
         "marketplace": "blibli",
-        "productName": "Ringke Samsung S24 Plus Fusion Matte Clear Softcase Tahan Banting",
-        "brand": "Ringke",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-154029185/ringke_ringke_samsung_s24_plus_fusion_matte_clear_softcase_tahan_banting_full01_bi3fohjo.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/99/MTA-154029185/ringke_ringke_full01.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-154029185/ringke_ringke_samsung_s24_plus_fusion_matte_clear_softcase_tahan_banting_full02_pbbnoa6l.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-154029185/ringke_ringke_samsung_s24_plus_fusion_matte_clear_softcase_tahan_banting_full03_qkuhfvy3.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-154029185/ringke_ringke_samsung_s24_plus_fusion_matte_clear_softcase_tahan_banting_full04_cgian47m.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-154029185/ringke_ringke_samsung_s24_plus_fusion_matte_clear_softcase_tahan_banting_full05_uw4hf7b8.jpg"
-        ],
-        "price": {
-            "originalPrice": 275000,
-            "discount": 19,
-            "finalPrice": 222700
-        },
-        "category": "Handphone & Tablet",
-        "sell": 3,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Casing"
-        ],
-        "url": "https://blibli.com/p/ringke-samsung-s24-plus-fusion-matte-clear-softcase-tahan-banting/ps--RIO-60031-03835?ds=RIO-60031-03835-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1sHt2s+DPNzC/qy+zJlEIX/HoNt0bnbqjyLHdk/4BVxu6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvgDGemfm5SNh5Jq9KPDEXJ5jzCxKTOmEWlperjuKJtK31FBTc87YP8sPvWm7FKE+rYMTLk5pIsoVQJmtwLacJnYvOraDWI0pCKeuYXD6zKYCpT14wSobMnF05qab41SltUq6VBV00TSMvh5kbZwrs+u&cnc=false&pickupPointCode=PP-3042228&pid1=RIO-60031-03835&tag=new",
-        "crawlAt": 1706956564398
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Nillkin Tempered Glass (Amazing H+ Pro) - Samsung Galaxy M51",
+        "productName": "Nillkin Tempered Glass Amazing H for Samsung Galaxy M30",
         "brand": "Nillkin",
         "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-9409211/nillkin_nillkin_tempered_glass_-amazing_h-_pro-_-_samsung_galaxy_m51_full01_jqs2kmji.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-9409211/nillkin_nillkin_tempered_glass_-amazing_h-_pro-_-_samsung_galaxy_m51_full05_p0sddhc7.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-9409211/nillkin_nillkin_tempered_glass_-amazing_h-_pro-_-_samsung_galaxy_m51_full04_kr5449gn.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-9409211/nillkin_nillkin_tempered_glass_-amazing_h-_pro-_-_samsung_galaxy_m51_full03_dju96w0f.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-9409211/nillkin_nillkin_tempered_glass_-amazing_h-_pro-_-_samsung_galaxy_m51_full02_hgpwtvos.jpg"
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//94/MTA-3437760/nillkin_nillkin-tempered-glass--amazing-h----samsung-galaxy-m30_full06.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//94/MTA-3437760/nillkin_nillkin-tempered-glass--amazing-h----samsung-galaxy-m30_full07.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//94/MTA-3437760/nillkin_nillkin-tempered-glass--amazing-h----samsung-galaxy-m30_full08.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//94/MTA-3437760/nillkin_nillkin-tempered-glass--amazing-h----samsung-galaxy-m30_full09.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//94/MTA-3437760/nillkin_nillkin-tempered-glass--amazing-h----samsung-galaxy-m30_full10.jpg"
         ],
+        "merchantName": "Orionlycom",
         "price": {
-            "originalPrice": 149000,
-            "discount": 5,
-            "finalPrice": 141000
+            "originalPrice": 129000,
+            "discount": 10,
+            "finalPrice": 116000
         },
         "category": "Handphone & Tablet",
         "sell": 0,
@@ -262,8 +241,8 @@
             "Aksesoris Handphone & Tablet",
             "Screen Protector"
         ],
-        "url": "https://blibli.com/p/nillkin-tempered-glass-amazing-h-pro-samsung-galaxy-m51/ps--ORM-40582-06896?ds=ORM-40582-06896-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZH9VlseAwtvhOGOLlL7NcYf6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86PFfGXcHNZE4OgTeEc+SpvkQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06896",
-        "crawlAt": 1706956564398
+        "url": "https://blibli.com/p/nillkin-tempered-glass-amazing-h-for-samsung-galaxy-m30/ps--ORM-40582-05306?ds=ORM-40582-05306-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZE0HhG7rHz8LqWmNzkGmfXJ6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86PFfGXcHNZE4OgTeEc+SpvkQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-05306",
+        "crawlAt": 1707039840137
     },
     {
         "marketplace": "blibli",
@@ -272,6 +251,7 @@
         "images": [
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-45495771/samsung_samsung_galaxy_a13_smartphone_a13_4-128__full01_h23rgz1i.jpg"
         ],
+        "merchantName": "Cambodia Cell Official Store",
         "price": {
             "originalPrice": 2499000,
             "discount": 12,
@@ -285,34 +265,86 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-a13-4-128gb/ps--CAC-60042-00052?ds=CAC-60042-00052-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1jWe8vjsQ8HR5laZ6w/olz84YYAtFlttm3bN9cGA7ZfZssFoHe0ux6oJFT/XRXpCLib/SBy6IB1M3IaqMuoteMwULt2y/e/6/ySmsLVfoFbUduDLXl0TQnuCON1cZnD5z9mb5z4CQ2EemV55RRhtG48Ky39fi3Va6xY0tttu7XwbdCIjEVS4NKc4mYAdHVV7x291KO7Dj9/1o5ZdZy0k0Ds/RD55r8MN6K/oKaplDyYP&cnc=false&pickupPointCode=PP-3042560&pid1=CAC-60042-00052",
-        "crawlAt": 1706956564398
+        "crawlAt": 1707039840137
     },
     {
         "marketplace": "blibli",
-        "productName": "Case Samsung Galaxy S21 FE IMAK UC-2 Frosting Casing",
-        "brand": "Imak",
+        "productName": "Nillkin Tempered Glass (Amazing H+ Pro) - Samsung Galaxy M51",
+        "brand": "Nillkin",
         "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//104/MTA-37179644/imak_case_samsung_galaxy_s21_fe_imak_uc-2_frosting_casing_full01_ujba2v9d.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//104/MTA-37179644/imak_case_samsung_galaxy_s21_fe_imak_uc-2_frosting_casing_full01_o0vp89px.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//104/MTA-37179644/imak_case_samsung_galaxy_s21_fe_imak_uc-2_frosting_casing_full02_iwv17qmu.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//104/MTA-37179644/imak_case_samsung_galaxy_s21_fe_imak_uc-2_frosting_casing_full03_lktdq9kv.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//104/MTA-37179644/imak_case_samsung_galaxy_s21_fe_imak_uc-2_frosting_casing_full04_izjbyzdn.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//104/MTA-37179644/imak_case_samsung_galaxy_s21_fe_imak_uc-2_frosting_casing_full05_o8rs5caf.jpg"
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-9409211/nillkin_nillkin_tempered_glass_-amazing_h-_pro-_-_samsung_galaxy_m51_full01_jqs2kmji.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-9409211/nillkin_nillkin_tempered_glass_-amazing_h-_pro-_-_samsung_galaxy_m51_full05_p0sddhc7.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-9409211/nillkin_nillkin_tempered_glass_-amazing_h-_pro-_-_samsung_galaxy_m51_full04_kr5449gn.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-9409211/nillkin_nillkin_tempered_glass_-amazing_h-_pro-_-_samsung_galaxy_m51_full03_dju96w0f.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-9409211/nillkin_nillkin_tempered_glass_-amazing_h-_pro-_-_samsung_galaxy_m51_full02_hgpwtvos.jpg"
         ],
+        "merchantName": "Orionlycom",
         "price": {
-            "originalPrice": 105000,
-            "discount": 18,
-            "finalPrice": 86000
+            "originalPrice": 149000,
+            "discount": 5,
+            "finalPrice": 141000
         },
         "category": "Handphone & Tablet",
-        "sell": 7,
+        "sell": 0,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Screen Protector"
+        ],
+        "url": "https://blibli.com/p/nillkin-tempered-glass-amazing-h-pro-samsung-galaxy-m51/ps--ORM-40582-06896?ds=ORM-40582-06896-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZH9VlseAwtvhOGOLlL7NcYf6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86PFfGXcHNZE4OgTeEc+SpvkQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06896",
+        "crawlAt": 1707039840137
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Ringke Samsung S24 Plus Fusion Matte Clear Softcase Tahan Banting",
+        "brand": "Ringke",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-154029185/ringke_ringke_samsung_s24_plus_fusion_matte_clear_softcase_tahan_banting_full01_bi3fohjo.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/99/MTA-154029185/ringke_ringke_full01.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-154029185/ringke_ringke_samsung_s24_plus_fusion_matte_clear_softcase_tahan_banting_full02_pbbnoa6l.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-154029185/ringke_ringke_samsung_s24_plus_fusion_matte_clear_softcase_tahan_banting_full03_qkuhfvy3.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-154029185/ringke_ringke_samsung_s24_plus_fusion_matte_clear_softcase_tahan_banting_full04_cgian47m.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-154029185/ringke_ringke_samsung_s24_plus_fusion_matte_clear_softcase_tahan_banting_full05_uw4hf7b8.jpg"
+        ],
+        "merchantName": "Official Store Ringke",
+        "price": {
+            "originalPrice": 275000,
+            "discount": 19,
+            "finalPrice": 222700
+        },
+        "category": "Handphone & Tablet",
+        "sell": 3,
         "categoryList": [
             "Handphone & Tablet",
             "Aksesoris Handphone & Tablet",
             "Casing"
         ],
-        "url": "https://blibli.com/p/case-samsung-galaxy-s21-fe-imak-uc-2-frosting-casing/ps--ORM-40582-07839?ds=ORM-40582-07839-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1n2w4hyoSe9OWrWTVrMg3TbyRRQCHfL7Kalxi8eaR7vHBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aZyNa4lr5t5nmCNGGkFUiPmT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-07839",
-        "crawlAt": 1706956564398
+        "url": "https://blibli.com/p/ringke-samsung-s24-plus-fusion-matte-clear-softcase-tahan-banting/ps--RIO-60031-03835?ds=RIO-60031-03835-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1sHt2s+DPNzC/qy+zJlEIX/HoNt0bnbqjyLHdk/4BVxu6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvgDGemfm5SNh5Jq9KPDEXJ5jzCxKTOmEWlperjuKJtK31FBTc87YP8sPvWm7FKE+rYMTLk5pIsoVQJmtwLacJnYvOraDWI0pCKeuYXD6zKYCpT14wSobMnF05qab41SltUq6VBV00TSMvh5kbZwrs+u&cnc=false&pickupPointCode=PP-3042228&pid1=RIO-60031-03835&tag=new",
+        "crawlAt": 1707039840137
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Samsung Galaxy S22 Ultra 5G Smartphone [8/128GB/N]",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//102/MTA-39783700/samsung_samsung_galaxy_s22_ultra_5g_smartphone_-8-128gb-n-_full01_e67zrt6d.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//102/MTA-39783700/samsung_samsung_galaxy_s22_ultra_5g_smartphone_-8-128gb-n-_full03_pghcicpz.jpg"
+        ],
+        "merchantName": "Jual Hape Official Store",
+        "price": {
+            "originalPrice": 17999000,
+            "discount": 14,
+            "finalPrice": 15480000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 19,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Handphone",
+            "Android"
+        ],
+        "url": "https://blibli.com/p/samsung-galaxy-s22-ultra-5g-smartphone-8-128gb-n/ps--INL-60035-00969?ds=INL-60035-00969-00003&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1jEXDEZ95tCeex4Innf4ihWaDgG1NForeODre0PKhr0elsogVVfmUpV8Tbz8/WvDB0/Qd+PE2R+BYcbkg24R21veGaGYGFGYf25z1CaNjawdBgtRiqs/MAUme7ocrJ5UAquVtw0c/bnyKkeJ3r2OgtA0T0T2y5SVcq7DCnwmLMya5GtthzJzuC9/poT4qkNt9vp//9wnF99rtVaFwv1ETfeO88fyzvy/mZdUpEwHtXWE&cnc=false&pickupPointCode=PP-3046516&pid1=INL-60035-00969",
+        "crawlAt": 1707039840137
     },
     {
         "marketplace": "blibli",
@@ -327,6 +359,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//103/MTA-11559874/nillkin_nillkin_pelindung_kamera_invisifilm_lens_camera_protector_samsung_galaxy_s21_ultra_full06_dbu7j6an.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//103/MTA-11559874/nillkin_nillkin_pelindung_kamera_invisifilm_lens_camera_protector_samsung_galaxy_s21_ultra_full07_e7iji30n.jpg"
         ],
+        "merchantName": "Orionlycom",
         "price": {
             "originalPrice": 140000,
             "discount": 6,
@@ -340,7 +373,7 @@
             "Screen Protector"
         ],
         "url": "https://blibli.com/p/nillkin-pelindung-kamera-invisifilm-lens-camera-protector-samsung-galaxy-s21-ultra/ps--ORM-40582-07182?ds=ORM-40582-07182-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZGApprKAYIjIw+WsvQWZ/m46Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86PFfGXcHNZE4OgTeEc+SpvkQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-07182",
-        "crawlAt": 1706956564398
+        "crawlAt": 1707039840137
     },
     {
         "marketplace": "blibli",
@@ -355,6 +388,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-11560247/nillkin_nillkin_pelindung_kamera_invisifilm_lens_camera_protector_samsung_galaxy_s21_plus_full03_dnxj7fzy.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-11560247/nillkin_nillkin_pelindung_kamera_invisifilm_lens_camera_protector_samsung_galaxy_s21_plus_full02_fos9gyqa.jpg"
         ],
+        "merchantName": "Orionlycom",
         "price": {
             "originalPrice": 140000,
             "discount": 6,
@@ -368,7 +402,199 @@
             "Screen Protector"
         ],
         "url": "https://blibli.com/p/nillkin-pelindung-kamera-invisifilm-lens-camera-protector-samsung-galaxy-s21-plus/ps--ORM-40582-07183?ds=ORM-40582-07183-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZGApprKAYIjIw+WsvQWZ/m46Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86PFfGXcHNZE4OgTeEc+SpvkQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-07183",
-        "crawlAt": 1706956564398
+        "crawlAt": 1707039840137
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Case Samsung Galaxy S21 FE IMAK UC-2 Frosting Casing",
+        "brand": "Imak",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//104/MTA-37179644/imak_case_samsung_galaxy_s21_fe_imak_uc-2_frosting_casing_full01_ujba2v9d.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//104/MTA-37179644/imak_case_samsung_galaxy_s21_fe_imak_uc-2_frosting_casing_full01_o0vp89px.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//104/MTA-37179644/imak_case_samsung_galaxy_s21_fe_imak_uc-2_frosting_casing_full02_iwv17qmu.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//104/MTA-37179644/imak_case_samsung_galaxy_s21_fe_imak_uc-2_frosting_casing_full03_lktdq9kv.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//104/MTA-37179644/imak_case_samsung_galaxy_s21_fe_imak_uc-2_frosting_casing_full04_izjbyzdn.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//104/MTA-37179644/imak_case_samsung_galaxy_s21_fe_imak_uc-2_frosting_casing_full05_o8rs5caf.jpg"
+        ],
+        "merchantName": "Orionlycom",
+        "price": {
+            "originalPrice": 105000,
+            "discount": 18,
+            "finalPrice": 86000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 7,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Casing"
+        ],
+        "url": "https://blibli.com/p/case-samsung-galaxy-s21-fe-imak-uc-2-frosting-casing/ps--ORM-40582-07839?ds=ORM-40582-07839-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1n2w4hyoSe9OWrWTVrMg3TbyRRQCHfL7Kalxi8eaR7vHBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aZyNa4lr5t5nmCNGGkFUiPmT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-07839",
+        "crawlAt": 1707039840137
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Nillkin Sparkle Leather Flip Cover Casing for Samsung Galaxy A30",
+        "brand": "Nillkin",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//93/MTA-3451566/nillkin_nillkin-flip-case--sparkle-leather-case----samsung-galaxy-a30_full12.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//93/MTA-3451566/nillkin_nillkin-flip-case--sparkle-leather-case----samsung-galaxy-a30_full13.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//93/MTA-3451566/nillkin_nillkin-flip-case--sparkle-leather-case----samsung-galaxy-a30_full14.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//93/MTA-3451566/nillkin_nillkin-flip-case--sparkle-leather-case----samsung-galaxy-a30_full15.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//93/MTA-3451566/nillkin_nillkin-flip-case--sparkle-leather-case----samsung-galaxy-a30_full16.jpg"
+        ],
+        "merchantName": "Orionlycom",
+        "price": {
+            "originalPrice": 139000,
+            "discount": 20,
+            "finalPrice": 111000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 0,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Casing"
+        ],
+        "url": "https://blibli.com/p/nillkin-sparkle-leather-flip-cover-casing-for-samsung-galaxy-a30/ps--ORM-40582-05324?ds=ORM-40582-05324-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZHvYOLpvxFmLn4Akn9MSdNm6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86POIUqKO9p5cMvC+z/NFTdpQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-05324",
+        "crawlAt": 1707039840137
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Nillkin Simple Pack Screen Protector for Samsung Galaxy J4 2018",
+        "brand": "Nillkin",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//87/MTA-2580314/nillkin_nillkin-simple-pack-screen-protector-for-samsung-galaxy-j4-2018_full11.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//87/MTA-2580314/nillkin_nillkin-simple-pack-screen-protector-for-samsung-galaxy-j4-2018_full12.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//87/MTA-2580314/nillkin_nillkin-simple-pack-screen-protector-for-samsung-galaxy-j4-2018_full13.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//87/MTA-2580314/nillkin_nillkin-simple-pack-screen-protector-for-samsung-galaxy-j4-2018_full14.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//87/MTA-2580314/nillkin_nillkin-simple-pack-screen-protector-for-samsung-galaxy-j4-2018_full15.jpg"
+        ],
+        "merchantName": "Orionlycom",
+        "price": {
+            "originalPrice": 65000,
+            "discount": 6,
+            "finalPrice": 61000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 1,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Screen Protector"
+        ],
+        "url": "https://blibli.com/p/nillkin-simple-pack-screen-protector-for-samsung-galaxy-j4-2018/ps--ORM-40582-04485?ds=ORM-40582-04485-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1igbwLPbKKMBrsjRhg5GQhuFag/PwQSOdDt/5kcafqUGBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aO9+IA/O9Alm0sDqZ/gwLsWT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-04485",
+        "crawlAt": 1707039840137
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Nillkin Casing Super Frosted Shield Hard Case Samsung Galaxy A12",
+        "brand": "Nillkin",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//101/MTA-10735966/nillkin_nillkin_casing_super_frosted_shield_hard_case_samsung_galaxy_a12_full01_smcge3ci.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//101/MTA-10735966/nillkin_nillkin_casing_super_frosted_shield_hard_case_samsung_galaxy_a12_full05_m72q6mew.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//101/MTA-10735966/nillkin_nillkin_casing_super_frosted_shield_hard_case_samsung_galaxy_a12_full04_em17grxp.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//101/MTA-10735966/nillkin_nillkin_casing_super_frosted_shield_hard_case_samsung_galaxy_a12_full03_l60mo7fi.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//101/MTA-10735966/nillkin_nillkin_casing_super_frosted_shield_hard_case_samsung_galaxy_a12_full02_sjc08t2o.jpg"
+        ],
+        "merchantName": "Orionlycom",
+        "price": {
+            "originalPrice": 99000,
+            "discount": 8,
+            "finalPrice": 91000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 0,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Casing"
+        ],
+        "url": "https://blibli.com/p/nillkin-casing-super-frosted-shield-hard-case-samsung-galaxy-a12/ps--ORM-40582-07084?ds=ORM-40582-07084-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZHX8O0QW+udg7MM3z+xpPNnBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aZyNa4lr5t5nmCNGGkFUiPmT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-07084",
+        "crawlAt": 1707039840137
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Nillkin Frosted Shield Casing for Samsung Galaxy S8 - Hitam",
+        "brand": "Nillkin",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//1302/nillkin_nillkin-frosted-shield-casing-for-samsung-galaxy-s8---hitam_full05.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//1303/nillkin_nillkin-frosted-shield-casing-for-samsung-galaxy-s8---hitam_full06.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//1304/nillkin_nillkin-frosted-shield-casing-for-samsung-galaxy-s8---hitam_full07.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//1305/nillkin_nillkin-frosted-shield-casing-for-samsung-galaxy-s8---hitam_full08.jpg"
+        ],
+        "merchantName": "Orionlycom",
+        "price": {
+            "originalPrice": 99000,
+            "discount": 8,
+            "finalPrice": 91000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 0,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Casing"
+        ],
+        "url": "https://blibli.com/p/nillkin-frosted-shield-casing-for-samsung-galaxy-s8-hitam/ps--ORM-40582-00714?ds=ORM-40582-00714-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZHX8O0QW+udg7MM3z+xpPNnBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aZyNa4lr5t5nmCNGGkFUiPmT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-00714",
+        "crawlAt": 1707039840137
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Nillkin Casing Textured Hard Case Samsung Galaxy A32 5G",
+        "brand": "Nillkin",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//81/MTA-12335112/nillkin_nillkin_casing_textured_hard_case_samsung_galaxy_a32_5g_full01_t0u58x3y.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//81/MTA-12335112/nillkin_nillkin_casing_textured_hard_case_samsung_galaxy_a32_5g_full06_j5jimpc1.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//81/MTA-12335112/nillkin_nillkin_casing_textured_hard_case_samsung_galaxy_a32_5g_full05_rf2ah5uj.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//81/MTA-12335112/nillkin_nillkin_casing_textured_hard_case_samsung_galaxy_a32_5g_full04_jtlqfkzb.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//81/MTA-12335112/nillkin_nillkin_casing_textured_hard_case_samsung_galaxy_a32_5g_full03_fzs62c3v.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//81/MTA-12335112/nillkin_nillkin_casing_textured_hard_case_samsung_galaxy_a32_5g_full02_kae75w1k.jpg"
+        ],
+        "merchantName": "Orionlycom",
+        "price": {
+            "originalPrice": 159000,
+            "discount": 8,
+            "finalPrice": 146000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 4,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Casing"
+        ],
+        "url": "https://blibli.com/p/nillkin-casing-textured-hard-case-samsung-galaxy-a32-5g/ps--ORM-40582-07233?ds=ORM-40582-07233-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1jivGClVoqEpHhqjcdJgG3IMTMsZOfA3FOzbEmHpF4Iu6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86POIUqKO9p5cMvC+z/NFTdpQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-07233",
+        "crawlAt": 1707039840137,
+        "_id": "65bf5c911abe1c535fd565c0"
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Nillkin Hard Case (Super Frosted Shield) - Samsung Galaxy S10 Lite",
+        "brand": "Nillkin",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-6735245/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_s10_lite_full15_ocrie4y8.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-6735245/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_s10_lite_full16_d1qhptl3.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-6735245/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_s10_lite_full17_ltvriuap.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-6735245/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_s10_lite_full18_nuvvt3wt.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-6735245/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_s10_lite_full19_qfhf6x6d.jpg"
+        ],
+        "merchantName": "Orionlycom",
+        "price": {
+            "originalPrice": 99000,
+            "discount": 8,
+            "finalPrice": 91000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 0,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Casing"
+        ],
+        "url": "https://blibli.com/p/nillkin-hard-case-super-frosted-shield-samsung-galaxy-s10-lite/ps--ORM-40582-06331?ds=ORM-40582-06331-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZHX8O0QW+udg7MM3z+xpPNnBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aZyNa4lr5t5nmCNGGkFUiPmT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06331",
+        "crawlAt": 1707039840137,
+        "_id": "65bf5c921abe1c535fd565c2"
     },
     {
         "marketplace": "blibli",
@@ -384,6 +610,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//109/MTA-30893886/nillkin_case_samsung_galaxy_m52_5g_nillkin_frosted_shield_casing_full07_slfko1ie.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//109/MTA-30893886/nillkin_case_samsung_galaxy_m52_5g_nillkin_frosted_shield_casing_full08_baax78x3.jpg"
         ],
+        "merchantName": "Orionlycom",
         "price": {
             "originalPrice": 99000,
             "discount": 8,
@@ -397,7 +624,8 @@
             "Casing"
         ],
         "url": "https://blibli.com/p/case-samsung-galaxy-m52-5g-nillkin-frosted-shield-casing/ps--ORM-40582-07774?ds=ORM-40582-07774-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1seDbPZsUpQD1+5czNmjba9/pxkQhcFMRYoUUSu7QqMu6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86POIUqKO9p5cMvC+z/NFTdpQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-07774",
-        "crawlAt": 1706956564398
+        "crawlAt": 1707039840137,
+        "_id": "65bf5c941abe1c535fd565c4"
     },
     {
         "marketplace": "blibli",
@@ -413,6 +641,63 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-41526414/nillkin_case_samsung_galaxy_a33_5g_nillkin_textured_fiber_casing_full07_k3y1f4wl.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-41526414/nillkin_case_samsung_galaxy_a33_5g_nillkin_textured_fiber_casing_full08_imnqqctn.jpg"
         ],
+        "merchantName": "Orionlycom",
+        "price": {
+            "originalPrice": 159000,
+            "discount": 8,
+            "finalPrice": 146000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 11,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Casing"
+        ],
+        "url": "https://blibli.com/p/case-samsung-galaxy-a33-5g-nillkin-textured-fiber-casing/ps--ORM-40582-07902?ds=ORM-40582-07902-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1joJrWzzBGuPpfXA73vr50cDPaVvnZXwjtNLIgLLVT88V6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYOPTaJa61ZourzquQtoo/whKUnRDRXZLSSdAODeCXzbQiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-07902",
+        "crawlAt": 1707039840137,
+        "_id": "65bf5c971abe1c535fd565c6"
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Nillkin Casing Super Frosted Shield Hard Case Samsung Galaxy S21",
+        "brand": "Nillkin",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//98/MTA-10395817/nillkin_nillkin_casing_super_frosted_shield_hard_case_samsung_galaxy_s21_full10_kvv73ok3.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//98/MTA-10395817/nillkin_nillkin_casing_super_frosted_shield_hard_case_samsung_galaxy_s21_full05_lbyt37x2.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//98/MTA-10395817/nillkin_nillkin_casing_super_frosted_shield_hard_case_samsung_galaxy_s21_full04_em6akjea.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//98/MTA-10395817/nillkin_nillkin_casing_super_frosted_shield_hard_case_samsung_galaxy_s21_full12_upmhv68h.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//98/MTA-10395817/nillkin_nillkin_casing_super_frosted_shield_hard_case_samsung_galaxy_s21_full11_p10734o7.jpg"
+        ],
+        "merchantName": "Orionlycom",
+        "price": {
+            "originalPrice": 99000,
+            "discount": 8,
+            "finalPrice": 91000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 0,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Casing"
+        ],
+        "url": "https://blibli.com/p/nillkin-casing-super-frosted-shield-hard-case-samsung-galaxy-s21/ps--ORM-40582-07041?ds=ORM-40582-07041-00003&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZHX8O0QW+udg7MM3z+xpPNnBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aZyNa4lr5t5nmCNGGkFUiPmT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-07041",
+        "crawlAt": 1707039840137,
+        "_id": "65bf5c971abe1c535fd565c8"
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Nillkin Qin Leather Flip Casing for Samsung Galaxy J6 2018",
+        "brand": "Nillkin",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//78/MTA-2410313/nillkin_nillkin-flip-case--qin-leather-case----samsung-galaxy-j6--2018-_full25.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//78/MTA-2410313/nillkin_nillkin-flip-case--qin-leather-case----samsung-galaxy-j6--2018-_full26.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//78/MTA-2410313/nillkin_nillkin-flip-case--qin-leather-case----samsung-galaxy-j6--2018-_full27.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//78/MTA-2410313/nillkin_nillkin-flip-case--qin-leather-case----samsung-galaxy-j6--2018-_full28.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//78/MTA-2410313/nillkin_nillkin-flip-case--qin-leather-case----samsung-galaxy-j6--2018-_full29.jpg"
+        ],
+        "merchantName": "Orionlycom",
         "price": {
             "originalPrice": 159000,
             "discount": 8,
@@ -425,111 +710,9 @@
             "Aksesoris Handphone & Tablet",
             "Casing"
         ],
-        "url": "https://blibli.com/p/case-samsung-galaxy-a33-5g-nillkin-textured-fiber-casing/ps--ORM-40582-07902?ds=ORM-40582-07902-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZEMTMsZOfA3FOzbEmHpF4Iu6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86POIUqKO9p5cMvC+z/NFTdpQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-07902",
-        "crawlAt": 1706956564398
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Nillkin Simple Pack Screen Protector for Samsung Galaxy J4 2018",
-        "brand": "Nillkin",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//87/MTA-2580314/nillkin_nillkin-simple-pack-screen-protector-for-samsung-galaxy-j4-2018_full11.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//87/MTA-2580314/nillkin_nillkin-simple-pack-screen-protector-for-samsung-galaxy-j4-2018_full12.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//87/MTA-2580314/nillkin_nillkin-simple-pack-screen-protector-for-samsung-galaxy-j4-2018_full13.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//87/MTA-2580314/nillkin_nillkin-simple-pack-screen-protector-for-samsung-galaxy-j4-2018_full14.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//87/MTA-2580314/nillkin_nillkin-simple-pack-screen-protector-for-samsung-galaxy-j4-2018_full15.jpg"
-        ],
-        "price": {
-            "originalPrice": 65000,
-            "discount": 6,
-            "finalPrice": 61000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 1,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Screen Protector"
-        ],
-        "url": "https://blibli.com/p/nillkin-simple-pack-screen-protector-for-samsung-galaxy-j4-2018/ps--ORM-40582-04485?ds=ORM-40582-04485-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1igbwLPbKKMBrsjRhg5GQhuFag/PwQSOdDt/5kcafqUGBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aO9+IA/O9Alm0sDqZ/gwLsWT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-04485",
-        "crawlAt": 1706956564398
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Nillkin Casing Super Frosted Shield Hard Case Samsung Galaxy A12",
-        "brand": "Nillkin",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//101/MTA-10735966/nillkin_nillkin_casing_super_frosted_shield_hard_case_samsung_galaxy_a12_full01_smcge3ci.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//101/MTA-10735966/nillkin_nillkin_casing_super_frosted_shield_hard_case_samsung_galaxy_a12_full05_m72q6mew.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//101/MTA-10735966/nillkin_nillkin_casing_super_frosted_shield_hard_case_samsung_galaxy_a12_full04_em17grxp.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//101/MTA-10735966/nillkin_nillkin_casing_super_frosted_shield_hard_case_samsung_galaxy_a12_full03_l60mo7fi.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//101/MTA-10735966/nillkin_nillkin_casing_super_frosted_shield_hard_case_samsung_galaxy_a12_full02_sjc08t2o.jpg"
-        ],
-        "price": {
-            "originalPrice": 99000,
-            "discount": 8,
-            "finalPrice": 91000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 0,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Casing"
-        ],
-        "url": "https://blibli.com/p/nillkin-casing-super-frosted-shield-hard-case-samsung-galaxy-a12/ps--ORM-40582-07084?ds=ORM-40582-07084-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZHX8O0QW+udg7MM3z+xpPNnBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aZyNa4lr5t5nmCNGGkFUiPmT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-07084",
-        "crawlAt": 1706956564398
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Nillkin Frosted Shield Casing for Samsung Galaxy S8 - Hitam",
-        "brand": "Nillkin",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//1302/nillkin_nillkin-frosted-shield-casing-for-samsung-galaxy-s8---hitam_full05.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//1303/nillkin_nillkin-frosted-shield-casing-for-samsung-galaxy-s8---hitam_full06.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//1304/nillkin_nillkin-frosted-shield-casing-for-samsung-galaxy-s8---hitam_full07.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//1305/nillkin_nillkin-frosted-shield-casing-for-samsung-galaxy-s8---hitam_full08.jpg"
-        ],
-        "price": {
-            "originalPrice": 99000,
-            "discount": 8,
-            "finalPrice": 91000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 0,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Casing"
-        ],
-        "url": "https://blibli.com/p/nillkin-frosted-shield-casing-for-samsung-galaxy-s8-hitam/ps--ORM-40582-00714?ds=ORM-40582-00714-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZHX8O0QW+udg7MM3z+xpPNnBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aZyNa4lr5t5nmCNGGkFUiPmT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-00714",
-        "crawlAt": 1706956564398
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Nillkin Sparkle Leather Flip Cover Casing for Samsung Galaxy A30",
-        "brand": "Nillkin",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//93/MTA-3451566/nillkin_nillkin-flip-case--sparkle-leather-case----samsung-galaxy-a30_full12.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//93/MTA-3451566/nillkin_nillkin-flip-case--sparkle-leather-case----samsung-galaxy-a30_full13.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//93/MTA-3451566/nillkin_nillkin-flip-case--sparkle-leather-case----samsung-galaxy-a30_full14.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//93/MTA-3451566/nillkin_nillkin-flip-case--sparkle-leather-case----samsung-galaxy-a30_full15.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//93/MTA-3451566/nillkin_nillkin-flip-case--sparkle-leather-case----samsung-galaxy-a30_full16.jpg"
-        ],
-        "price": {
-            "originalPrice": 139000,
-            "discount": 20,
-            "finalPrice": 111000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 0,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Casing"
-        ],
-        "url": "https://blibli.com/p/nillkin-sparkle-leather-flip-cover-casing-for-samsung-galaxy-a30/ps--ORM-40582-05324?ds=ORM-40582-05324-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZHvYOLpvxFmLn4Akn9MSdNm6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86POIUqKO9p5cMvC+z/NFTdpQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-05324",
-        "crawlAt": 1706956564398
+        "url": "https://blibli.com/p/nillkin-qin-leather-flip-casing-for-samsung-galaxy-j6-2018/ps--ORM-40582-04112?ds=ORM-40582-04112-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZEMTMsZOfA3FOzbEmHpF4Iu6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86POIUqKO9p5cMvC+z/NFTdpQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-04112",
+        "crawlAt": 1707039840137,
+        "_id": "65bf5c991abe1c535fd565ca"
     },
     {
         "marketplace": "blibli",
@@ -544,6 +727,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//97/MTA-23766036/spigen_case_samsung_galaxy_note_20-ultra_spigen_rugged_armor_silicone_casing_full06_k18l92nn.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//97/MTA-23766036/spigen_case_samsung_galaxy_note_20-ultra_spigen_rugged_armor_silicone_casing_full07_ueuf2u9v.jpg"
         ],
+        "merchantName": "Spigen Indonesia Official Store",
         "price": {
             "originalPrice": 0,
             "discount": 0,
@@ -557,164 +741,8 @@
             "Casing"
         ],
         "url": "https://blibli.com/p/case-samsung-galaxy-note-20-ultra-spigen-rugged-armor-silicone-casing/ps--SPI-70014-00129?ds=SPI-70014-00129-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1pGTFXj2OkmKf+AOWXtSxPJp7oWiEGRM5KcnQeIACJJm6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86POIUqKO9p5cMvC+z/NFTdpQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3259767&pid1=SPI-70014-00129",
-        "crawlAt": 1706956564398
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Nillkin Hard Case (Super Frosted Shield) - Samsung Galaxy S10 Lite",
-        "brand": "Nillkin",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-6735245/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_s10_lite_full15_ocrie4y8.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-6735245/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_s10_lite_full16_d1qhptl3.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-6735245/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_s10_lite_full17_ltvriuap.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-6735245/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_s10_lite_full18_nuvvt3wt.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-6735245/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_s10_lite_full19_qfhf6x6d.jpg"
-        ],
-        "price": {
-            "originalPrice": 99000,
-            "discount": 8,
-            "finalPrice": 91000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 0,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Casing"
-        ],
-        "url": "https://blibli.com/p/nillkin-hard-case-super-frosted-shield-samsung-galaxy-s10-lite/ps--ORM-40582-06331?ds=ORM-40582-06331-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZHX8O0QW+udg7MM3z+xpPNnBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aZyNa4lr5t5nmCNGGkFUiPmT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06331",
-        "crawlAt": 1706956564398
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Case Samsung Galaxy Note 9 Spigen Liquid Air TPU Softcase Casing",
-        "brand": "Spigen",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-47222159/br-m036969-03078_case-samsung-galaxy-note-9-spigen-liquid-air-tpu-softcase-casing_full01.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-47222159/spigen_case_samsung_galaxy_note_9_spigen_liquid_air_tpu_softcase_casing_full01_knlmx69c.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-47222159/spigen_case_samsung_galaxy_note_9_spigen_liquid_air_tpu_softcase_casing_full02_p3l8k9fv.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-47222159/spigen_case_samsung_galaxy_note_9_spigen_liquid_air_tpu_softcase_casing_full03_h173oqzb.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-47222159/spigen_case_samsung_galaxy_note_9_spigen_liquid_air_tpu_softcase_casing_full04_k0dkpnt3.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-47222159/spigen_case_samsung_galaxy_note_9_spigen_liquid_air_tpu_softcase_casing_full05_jx3jxtpq.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-47222159/spigen_case_samsung_galaxy_note_9_spigen_liquid_air_tpu_softcase_casing_full06_ozyt4q6h.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-47222159/spigen_case_samsung_galaxy_note_9_spigen_liquid_air_tpu_softcase_casing_full07_jbsxf11h.jpg"
-        ],
-        "price": {
-            "originalPrice": 0,
-            "discount": 0,
-            "finalPrice": 225000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 8,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Casing"
-        ],
-        "url": "https://blibli.com/p/case-samsung-galaxy-note-9-spigen-liquid-air-tpu-softcase-casing/ps--SPI-70014-00693?ds=SPI-70014-00693-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1pGTFXj2OkmKf+AOWXtSxPJp7oWiEGRM5KcnQeIACJJm6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86POIUqKO9p5cMvC+z/NFTdpQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3259767&pid1=SPI-70014-00693",
-        "crawlAt": 1706956564398
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Nillkin Casing Textured Hard Case Samsung Galaxy A32 5G",
-        "brand": "Nillkin",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//81/MTA-12335112/nillkin_nillkin_casing_textured_hard_case_samsung_galaxy_a32_5g_full01_t0u58x3y.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//81/MTA-12335112/nillkin_nillkin_casing_textured_hard_case_samsung_galaxy_a32_5g_full06_j5jimpc1.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//81/MTA-12335112/nillkin_nillkin_casing_textured_hard_case_samsung_galaxy_a32_5g_full05_rf2ah5uj.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//81/MTA-12335112/nillkin_nillkin_casing_textured_hard_case_samsung_galaxy_a32_5g_full04_jtlqfkzb.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//81/MTA-12335112/nillkin_nillkin_casing_textured_hard_case_samsung_galaxy_a32_5g_full03_fzs62c3v.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//81/MTA-12335112/nillkin_nillkin_casing_textured_hard_case_samsung_galaxy_a32_5g_full02_kae75w1k.jpg"
-        ],
-        "price": {
-            "originalPrice": 159000,
-            "discount": 8,
-            "finalPrice": 146000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 4,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Casing"
-        ],
-        "url": "https://blibli.com/p/nillkin-casing-textured-hard-case-samsung-galaxy-a32-5g/ps--ORM-40582-07233?ds=ORM-40582-07233-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1jivGClVoqEpHhqjcdJgG3IMTMsZOfA3FOzbEmHpF4Iu6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86POIUqKO9p5cMvC+z/NFTdpQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-07233",
-        "crawlAt": 1706956564398
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Samsung Galaxy S22 Ultra 5G Smartphone [8/128GB/N]",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//102/MTA-39783700/samsung_samsung_galaxy_s22_ultra_5g_smartphone_-8-128gb-n-_full01_e67zrt6d.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//102/MTA-39783700/samsung_samsung_galaxy_s22_ultra_5g_smartphone_-8-128gb-n-_full03_pghcicpz.jpg"
-        ],
-        "price": {
-            "originalPrice": 17999000,
-            "discount": 14,
-            "finalPrice": 15480000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 19,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Handphone",
-            "Android"
-        ],
-        "url": "https://blibli.com/p/samsung-galaxy-s22-ultra-5g-smartphone-8-128gb-n/ps--INL-60035-00969?ds=INL-60035-00969-00003&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1jEXDEZ95tCeex4Innf4ihWaDgG1NForeODre0PKhr0elsogVVfmUpV8Tbz8/WvDB0/Qd+PE2R+BYcbkg24R21veGaGYGFGYf25z1CaNjawdBgtRiqs/MAUme7ocrJ5UAquVtw0c/bnyKkeJ3r2OgtA0T0T2y5SVcq7DCnwmLMya5GtthzJzuC9/poT4qkNt9vp//9wnF99rtVaFwv1ETfeO88fyzvy/mZdUpEwHtXWE&cnc=false&pickupPointCode=PP-3046516&pid1=INL-60035-00969",
-        "crawlAt": 1706956564398
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Nillkin Casing Super Frosted Shield Hard Case Samsung Galaxy S21",
-        "brand": "Nillkin",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//98/MTA-10395817/nillkin_nillkin_casing_super_frosted_shield_hard_case_samsung_galaxy_s21_full10_kvv73ok3.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//98/MTA-10395817/nillkin_nillkin_casing_super_frosted_shield_hard_case_samsung_galaxy_s21_full05_lbyt37x2.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//98/MTA-10395817/nillkin_nillkin_casing_super_frosted_shield_hard_case_samsung_galaxy_s21_full04_em6akjea.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//98/MTA-10395817/nillkin_nillkin_casing_super_frosted_shield_hard_case_samsung_galaxy_s21_full12_upmhv68h.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//98/MTA-10395817/nillkin_nillkin_casing_super_frosted_shield_hard_case_samsung_galaxy_s21_full11_p10734o7.jpg"
-        ],
-        "price": {
-            "originalPrice": 99000,
-            "discount": 8,
-            "finalPrice": 91000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 0,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Casing"
-        ],
-        "url": "https://blibli.com/p/nillkin-casing-super-frosted-shield-hard-case-samsung-galaxy-s21/ps--ORM-40582-07041?ds=ORM-40582-07041-00003&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZHX8O0QW+udg7MM3z+xpPNnBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aZyNa4lr5t5nmCNGGkFUiPmT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-07041",
-        "crawlAt": 1706956564398
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Nillkin Qin Leather Flip Casing for Samsung Galaxy J6 2018",
-        "brand": "Nillkin",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//78/MTA-2410313/nillkin_nillkin-flip-case--qin-leather-case----samsung-galaxy-j6--2018-_full25.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//78/MTA-2410313/nillkin_nillkin-flip-case--qin-leather-case----samsung-galaxy-j6--2018-_full26.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//78/MTA-2410313/nillkin_nillkin-flip-case--qin-leather-case----samsung-galaxy-j6--2018-_full27.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//78/MTA-2410313/nillkin_nillkin-flip-case--qin-leather-case----samsung-galaxy-j6--2018-_full28.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//78/MTA-2410313/nillkin_nillkin-flip-case--qin-leather-case----samsung-galaxy-j6--2018-_full29.jpg"
-        ],
-        "price": {
-            "originalPrice": 159000,
-            "discount": 8,
-            "finalPrice": 146000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 0,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Casing"
-        ],
-        "url": "https://blibli.com/p/nillkin-qin-leather-flip-casing-for-samsung-galaxy-j6-2018/ps--ORM-40582-04112?ds=ORM-40582-04112-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZEMTMsZOfA3FOzbEmHpF4Iu6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86POIUqKO9p5cMvC+z/NFTdpQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-04112",
-        "crawlAt": 1706956564398
+        "crawlAt": 1707039840137,
+        "_id": "65bf5c991abe1c535fd565cc"
     },
     {
         "marketplace": "blibli",
@@ -730,6 +758,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/103/MTA-142178269/br-m036969-03078_case-samsung-galaxy-tab-s9-ultra-plus-spigen-thin-fit-pro-flip-cover_full08-2a5a2eda.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/103/MTA-142178269/br-m036969-03078_case-samsung-galaxy-tab-s9-ultra-plus-spigen-thin-fit-pro-flip-cover_full01-4b146d46.jpg"
         ],
+        "merchantName": "Spigen Indonesia Official Store",
         "price": {
             "originalPrice": 1100000,
             "discount": 0,
@@ -743,7 +772,39 @@
             "Casing"
         ],
         "url": "https://blibli.com/p/case-samsung-galaxy-tab-s9-ultra-plus-spigen-thin-fit-pro-flip-cover/ps--SPI-70014-00889?ds=SPI-70014-00889-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1igbwLPbKKMBrsjRhg5GQhuQ5fQAOOVNQQ/rtB2Xh+OUV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYOPTaJa61ZourzquQtoo/whKUnRDRXZLSSdAODeCXzbQiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3259767&pid1=SPI-70014-00889",
-        "crawlAt": 1706956564398
+        "crawlAt": 1707039840137,
+        "_id": "65bf5c9a1abe1c535fd565ce"
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Case Samsung Galaxy Note 9 Spigen Liquid Air TPU Softcase Casing",
+        "brand": "Spigen",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-47222159/br-m036969-03078_case-samsung-galaxy-note-9-spigen-liquid-air-tpu-softcase-casing_full01.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-47222159/spigen_case_samsung_galaxy_note_9_spigen_liquid_air_tpu_softcase_casing_full01_knlmx69c.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-47222159/spigen_case_samsung_galaxy_note_9_spigen_liquid_air_tpu_softcase_casing_full02_p3l8k9fv.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-47222159/spigen_case_samsung_galaxy_note_9_spigen_liquid_air_tpu_softcase_casing_full03_h173oqzb.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-47222159/spigen_case_samsung_galaxy_note_9_spigen_liquid_air_tpu_softcase_casing_full04_k0dkpnt3.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-47222159/spigen_case_samsung_galaxy_note_9_spigen_liquid_air_tpu_softcase_casing_full05_jx3jxtpq.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-47222159/spigen_case_samsung_galaxy_note_9_spigen_liquid_air_tpu_softcase_casing_full06_ozyt4q6h.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-47222159/spigen_case_samsung_galaxy_note_9_spigen_liquid_air_tpu_softcase_casing_full07_jbsxf11h.jpg"
+        ],
+        "merchantName": "Spigen Indonesia Official Store",
+        "price": {
+            "originalPrice": 0,
+            "discount": 0,
+            "finalPrice": 225000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 8,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Casing"
+        ],
+        "url": "https://blibli.com/p/case-samsung-galaxy-note-9-spigen-liquid-air-tpu-softcase-casing/ps--SPI-70014-00693?ds=SPI-70014-00693-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1pGTFXj2OkmKf+AOWXtSxPJp7oWiEGRM5KcnQeIACJJm6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86POIUqKO9p5cMvC+z/NFTdpQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3259767&pid1=SPI-70014-00693",
+        "crawlAt": 1707039840137,
+        "_id": "65bf5c9b1abe1c535fd565d0"
     },
     {
         "marketplace": "blibli",
@@ -765,6 +826,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/97/MTA-103482924/nillkin_case_samsung_galaxy_a24_4g_nillkin_frosted_shield_casing_full13_hbecjcec.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/97/MTA-103482924/nillkin_case_samsung_galaxy_a24_4g_nillkin_frosted_shield_casing_full14_sjuokfuu.jpg"
         ],
+        "merchantName": "Orionlycom",
         "price": {
             "originalPrice": 0,
             "discount": 0,
@@ -778,7 +840,8 @@
             "Casing"
         ],
         "url": "https://blibli.com/p/case-samsung-galaxy-a24-4g-nillkin-frosted-shield-casing/ps--ORM-40582-08532?ds=ORM-40582-08532-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZHX8O0QW+udg7MM3z+xpPNnBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aZyNa4lr5t5nmCNGGkFUiPmT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-08532",
-        "crawlAt": 1706956564398
+        "crawlAt": 1707039840137,
+        "_id": "65bf5c9d1abe1c535fd565d2"
     },
     {
         "marketplace": "blibli",
@@ -791,6 +854,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//88/MTA-10338071/nillkin_nillkin_casing_camshield_hard_case_samsung_galaxy_a42_5g_full04_cfsoe68s.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//88/MTA-10338071/nillkin_nillkin_casing_camshield_hard_case_samsung_galaxy_a42_5g_full05_dxjh00eq.jpg"
         ],
+        "merchantName": "Orionlycom",
         "price": {
             "originalPrice": 159000,
             "discount": 14,
@@ -804,33 +868,33 @@
             "Casing"
         ],
         "url": "https://blibli.com/p/nillkin-casing-camshield-hard-case-samsung-galaxy-a42-5g/ps--ORM-40582-07037?ds=ORM-40582-07037-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1igbwLPbKKMBrsjRhg5GQhuua+ZmexHtA47vqnlTCI2i6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86POIUqKO9p5cMvC+z/NFTdpQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-07037",
-        "crawlAt": 1706956564398
+        "crawlAt": 1707039840137,
+        "_id": "65bf5c9d1abe1c535fd565d4"
     },
     {
         "marketplace": "blibli",
-        "productName": "Nillkin Hard Case (Super Frosted Shield) - Samsung Galaxy A10s",
-        "brand": "Nillkin",
+        "productName": "Samsung Galaxy M14 5G 4/64GB",
+        "brand": "Samsung",
         "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-4377393/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_a10s_full15_p8al82zy.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-4377393/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_a10s_full16_sihfr8op.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-4377393/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_a10s_full17_m7pyooc2.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-4377393/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_a10s_full18_d4eaddu6.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-4377393/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_a10s_full19_sz6168g6.jpg"
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/109/MTA-98673247/samsung_samsung_galaxy_m14_5g_4-64gb_full01_q85lax3t.jpeg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/109/MTA-98673247/samsung_samsung_galaxy_m14_5g_4-64gb_full03_srptob2n.jpeg"
         ],
+        "merchantName": "Jikalaku",
         "price": {
-            "originalPrice": 99000,
-            "discount": 8,
-            "finalPrice": 91000
+            "originalPrice": 0,
+            "discount": 0,
+            "finalPrice": 1779000
         },
         "category": "Handphone & Tablet",
-        "sell": 3,
+        "sell": 60,
         "categoryList": [
             "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Casing"
+            "Handphone",
+            "Android"
         ],
-        "url": "https://blibli.com/p/nillkin-hard-case-super-frosted-shield-samsung-galaxy-a10s/ps--ORM-40582-05796?ds=ORM-40582-05796-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1sHt2s+DPNzC/qy+zJlEIX/X8O0QW+udg7MM3z+xpPNnBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aZyNa4lr5t5nmCNGGkFUiPmT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-05796",
-        "crawlAt": 1706956564398
+        "url": "https://blibli.com/p/samsung-galaxy-m14-5g-4-64gb/ps--SIA-60028-01752?ds=SIA-60028-01752-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1mLQKq/Hui5E5YBveNALnY5b8TL8jx9mxr2IJr3TZBC0Vfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3034298&pid1=SIA-60028-01752",
+        "crawlAt": 1707039840137,
+        "_id": "65bf5c9f1abe1c535fd565d6"
     },
     {
         "marketplace": "blibli",
@@ -842,6 +906,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//96/MTA-2849433/nillkin_nillkin-screen-protector--simple-pack----samsung-galaxy-a7-2018_full13.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//96/MTA-2849433/nillkin_nillkin-screen-protector--simple-pack----samsung-galaxy-a7-2018_full14.jpg"
         ],
+        "merchantName": "Orionlycom",
         "price": {
             "originalPrice": 65000,
             "discount": 6,
@@ -855,7 +920,36 @@
             "Screen Protector"
         ],
         "url": "https://blibli.com/p/nillkin-screen-protector-for-samsung-galaxy-a7-2018-simple-pack/ps--ORM-40582-04867?ds=ORM-40582-04867-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1mcVsjhcdgPp+qTVepsj2RSFag/PwQSOdDt/5kcafqUGBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aO9+IA/O9Alm0sDqZ/gwLsWT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-04867",
-        "crawlAt": 1706956564398
+        "crawlAt": 1707039840137,
+        "_id": "65bf5ca81abe1c535fd565d8"
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Nillkin Hard Case (Super Frosted Shield) - Samsung Galaxy A10s",
+        "brand": "Nillkin",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-4377393/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_a10s_full15_p8al82zy.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-4377393/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_a10s_full16_sihfr8op.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-4377393/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_a10s_full17_m7pyooc2.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-4377393/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_a10s_full18_d4eaddu6.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-4377393/nillkin_nillkin_hard_case_-super_frosted_shield-_-_samsung_galaxy_a10s_full19_sz6168g6.jpg"
+        ],
+        "merchantName": "Orionlycom",
+        "price": {
+            "originalPrice": 99000,
+            "discount": 8,
+            "finalPrice": 91000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 3,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Casing"
+        ],
+        "url": "https://blibli.com/p/nillkin-hard-case-super-frosted-shield-samsung-galaxy-a10s/ps--ORM-40582-05796?ds=ORM-40582-05796-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1sHt2s+DPNzC/qy+zJlEIX/X8O0QW+udg7MM3z+xpPNnBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aZyNa4lr5t5nmCNGGkFUiPmT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-05796",
+        "crawlAt": 1707039840137,
+        "_id": "65bf5ca91abe1c535fd565da"
     },
     {
         "marketplace": "blibli",
@@ -868,6 +962,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/95/MTA-101449219/ringke_ringke-apple-pencil-stylus-samsung-s-pen-sleeve-ipad-galaxy-tab-gray_full04.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/95/MTA-101449219/ringke_ringke-apple-pencil-stylus-samsung-s-pen-sleeve-ipad-galaxy-tab-gray_full05.jpg"
         ],
+        "merchantName": "Official Store Ringke",
         "price": {
             "originalPrice": 228000,
             "discount": 55,
@@ -881,59 +976,8 @@
             "Aksesoris Handphone & Tablet Lainnya"
         ],
         "url": "https://blibli.com/p/ringke-apple-pencil-stylus-samsung-s-pen-sleeve-ipad-galaxy-tab-gray/ps--RIO-60031-02118?ds=RIO-60031-02118-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1jivGClVoqEpHhqjcdJgG3KNbSeMinw4PBmBPhS6MDVC6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvgDGemfm5SNh5Jq9KPDEXJ5jzCxKTOmEWlperjuKJtK31FBTc87YP8sPvWm7FKE+rYMTLk5pIsoVQJmtwLacJnYvOraDWI0pCKeuYXD6zKYCo6VDwUUPcKZk+j9p84RlPkq6VBV00TSMvh5kbZwrs+u&cnc=false&pickupPointCode=PP-3042228&pid1=RIO-60031-02118",
-        "crawlAt": 1706956564398
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Nillkin Screen Protector for Samsung Galaxy S10E [Simple Pack]",
-        "brand": "Nillkin",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-4188230/nillkin_nillkin_screen_protector_-simple_pack-_-_samsung_galaxy_s10e_full14.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-4188230/nillkin_nillkin_screen_protector_-simple_pack-_-_samsung_galaxy_s10e_full15.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-4188230/nillkin_nillkin_screen_protector_-simple_pack-_-_samsung_galaxy_s10e_full16.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-4188230/nillkin_nillkin_screen_protector_-simple_pack-_-_samsung_galaxy_s10e_full17.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-4188230/nillkin_nillkin_screen_protector_-simple_pack-_-_samsung_galaxy_s10e_full18.jpg"
-        ],
-        "price": {
-            "originalPrice": 65000,
-            "discount": 6,
-            "finalPrice": 61000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 4,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Screen Protector"
-        ],
-        "url": "https://blibli.com/p/nillkin-screen-protector-for-samsung-galaxy-s10e-simple-pack/ps--ORM-40582-05712?ds=ORM-40582-05712-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1jivGClVoqEpHhqjcdJgG3KFag/PwQSOdDt/5kcafqUGBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aO9+IA/O9Alm0sDqZ/gwLsWT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-05712",
-        "crawlAt": 1706956564398
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Nillkin Flip Case (Qin Leather Case) - Samsung Galaxy S10 Lite",
-        "brand": "Nillkin",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//101/MTA-6786344/nillkin_nillkin_flip_case_-qin_leather_case-_-_samsung_galaxy_s10_lite_full01_mvvgpcn.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//101/MTA-6786344/nillkin_nillkin_flip_case_-qin_leather_case-_-_samsung_galaxy_s10_lite_full05_r7somiv8.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//101/MTA-6786344/nillkin_nillkin_flip_case_-qin_leather_case-_-_samsung_galaxy_s10_lite_full04_opicalxw.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//101/MTA-6786344/nillkin_nillkin_flip_case_-qin_leather_case-_-_samsung_galaxy_s10_lite_full03_jzn3d00w.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//101/MTA-6786344/nillkin_nillkin_flip_case_-qin_leather_case-_-_samsung_galaxy_s10_lite_full02_mrwdfsxh.jpg"
-        ],
-        "price": {
-            "originalPrice": 159000,
-            "discount": 8,
-            "finalPrice": 146000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 2,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Casing"
-        ],
-        "url": "https://blibli.com/p/nillkin-flip-case-qin-leather-case-samsung-galaxy-s10-lite/ps--ORM-40582-06344?ds=ORM-40582-06344-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gVM1r7pUcMHMSa2GcVlGJ8MTMsZOfA3FOzbEmHpF4Iu6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86POIUqKO9p5cMvC+z/NFTdpQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06344",
-        "crawlAt": 1706956564398
+        "crawlAt": 1707039840137,
+        "_id": "65bf5caa1abe1c535fd565dc"
     },
     {
         "marketplace": "blibli",
@@ -947,6 +991,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//111/MTA-3789858/imak_imak-hard-case--crystal-case-ii-pro----samsung-galaxy-a9-2018---samsung-galaxy-a9-star-pro---samsung-galaxy-a9s---clear_full10.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//111/MTA-3789858/imak_imak-hard-case--crystal-case-ii-pro----samsung-galaxy-a9-2018---samsung-galaxy-a9-star-pro---samsung-galaxy-a9s---clear_full11.jpg"
         ],
+        "merchantName": "Orionlycom",
         "price": {
             "originalPrice": 110000,
             "discount": 13,
@@ -960,57 +1005,36 @@
             "Casing"
         ],
         "url": "https://blibli.com/p/imak-crystal-case-ii-pro-hardcase-casing-for-samsung-galaxy-a9-2018-samsung-galaxy-a9-star-pro-samsung-galaxy-a9s-clear/ps--ORM-40582-05552?ds=ORM-40582-05552-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1pGTFXj2OkmKf+AOWXtSxPK4tu6bXgUyeV8YtIbtsc3oBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aZyNa4lr5t5nmCNGGkFUiPmT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-05552",
-        "crawlAt": 1706956564398
+        "crawlAt": 1707039840137,
+        "_id": "65bf5cab1abe1c535fd565de"
     },
     {
         "marketplace": "blibli",
-        "productName": "Nillkin Super Frosted Shield Hardcase Casing for Samsung Galaxy M20",
+        "productName": "Nillkin Flip Case (Qin Leather Case) - Samsung Galaxy S10 Lite",
         "brand": "Nillkin",
         "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//93/MTA-3219591/nillkin_nillkin-super-frosted-shield-hardcase-casing-for-samsung-galaxy-m20_full30.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//93/MTA-3219591/nillkin_nillkin-super-frosted-shield-hardcase-casing-for-samsung-galaxy-m20_full31.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//93/MTA-3219591/nillkin_nillkin-super-frosted-shield-hardcase-casing-for-samsung-galaxy-m20_full32.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//93/MTA-3219591/nillkin_nillkin-super-frosted-shield-hardcase-casing-for-samsung-galaxy-m20_full33.jpg"
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//101/MTA-6786344/nillkin_nillkin_flip_case_-qin_leather_case-_-_samsung_galaxy_s10_lite_full01_mvvgpcn.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//101/MTA-6786344/nillkin_nillkin_flip_case_-qin_leather_case-_-_samsung_galaxy_s10_lite_full05_r7somiv8.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//101/MTA-6786344/nillkin_nillkin_flip_case_-qin_leather_case-_-_samsung_galaxy_s10_lite_full04_opicalxw.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//101/MTA-6786344/nillkin_nillkin_flip_case_-qin_leather_case-_-_samsung_galaxy_s10_lite_full03_jzn3d00w.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//101/MTA-6786344/nillkin_nillkin_flip_case_-qin_leather_case-_-_samsung_galaxy_s10_lite_full02_mrwdfsxh.jpg"
         ],
+        "merchantName": "Orionlycom",
         "price": {
-            "originalPrice": 99000,
+            "originalPrice": 159000,
             "discount": 8,
-            "finalPrice": 91000
+            "finalPrice": 146000
         },
         "category": "Handphone & Tablet",
-        "sell": 3,
+        "sell": 2,
         "categoryList": [
             "Handphone & Tablet",
             "Aksesoris Handphone & Tablet",
             "Casing"
         ],
-        "url": "https://blibli.com/p/nillkin-super-frosted-shield-hardcase-casing-for-samsung-galaxy-m20/ps--ORM-40582-05236?ds=ORM-40582-05236-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1sHt2s+DPNzC/qy+zJlEIX/X8O0QW+udg7MM3z+xpPNnBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aZyNa4lr5t5nmCNGGkFUiPmT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-05236",
-        "crawlAt": 1706956564398
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Nillkin Sparkle Leather Flip Casing for Samsung Galaxy A7 2018",
-        "brand": "Nillkin",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//91/MTA-2942370/nillkin_nillkin-sparkle-leather-flip-casing-for-samsung-galaxy-a7-2018_full14.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//91/MTA-2942370/nillkin_nillkin-sparkle-leather-flip-casing-for-samsung-galaxy-a7-2018_full15.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//91/MTA-2942370/nillkin_nillkin-sparkle-leather-flip-casing-for-samsung-galaxy-a7-2018_full16.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//91/MTA-2942370/nillkin_nillkin-sparkle-leather-flip-casing-for-samsung-galaxy-a7-2018_full17.jpg"
-        ],
-        "price": {
-            "originalPrice": 139000,
-            "discount": 20,
-            "finalPrice": 111000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 4,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Casing"
-        ],
-        "url": "https://blibli.com/p/nillkin-sparkle-leather-flip-casing-for-samsung-galaxy-a7-2018/ps--ORM-40582-04988?ds=ORM-40582-04988-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1jivGClVoqEpHhqjcdJgG3LvYOLpvxFmLn4Akn9MSdNm6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86POIUqKO9p5cMvC+z/NFTdpQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-04988",
-        "crawlAt": 1706956564398
+        "url": "https://blibli.com/p/nillkin-flip-case-qin-leather-case-samsung-galaxy-s10-lite/ps--ORM-40582-06344?ds=ORM-40582-06344-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gVM1r7pUcMHMSa2GcVlGJ8MTMsZOfA3FOzbEmHpF4Iu6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86POIUqKO9p5cMvC+z/NFTdpQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-06344",
+        "crawlAt": 1707039840137,
+        "_id": "65bf5cad1abe1c535fd565e0"
     },
     {
         "marketplace": "blibli",
@@ -1024,6 +1048,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//100/MTA-28933470/imak_case_samsung_galaxy_z_flip_3_5g_imak_ux-6_tpu_casing_full05_ql5h8a8c.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//100/MTA-28933470/imak_case_samsung_galaxy_z_flip_3_5g_imak_ux-6_tpu_casing_full06_c66jw1g6.jpg"
         ],
+        "merchantName": "Orionlycom",
         "price": {
             "originalPrice": 99000,
             "discount": 13,
@@ -1037,7 +1062,8 @@
             "Casing"
         ],
         "url": "https://blibli.com/p/case-samsung-galaxy-z-flip-3-5g-imak-ux-6-tpu-casing/ps--ORM-40582-07750?ds=ORM-40582-07750-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1hoohFLFJVwVeGdsDku9ec7yRRQCHfL7Kalxi8eaR7vHBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aZyNa4lr5t5nmCNGGkFUiPmT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-07750",
-        "crawlAt": 1706956564398
+        "crawlAt": 1707039840137,
+        "_id": "65bf5cae1abe1c535fd565e2"
     },
     {
         "marketplace": "blibli",
@@ -1050,6 +1076,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//101/MTA-4705786/nillkin_nillkin_tempered_glass_screen_protector_amazing_h_for_samsung_galaxy_a20s_full09_pk2ajlgu.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//101/MTA-4705786/nillkin_nillkin_tempered_glass_screen_protector_amazing_h_for_samsung_galaxy_a20s_full10_q39ioi2b.jpg"
         ],
+        "merchantName": "Orionlycom",
         "price": {
             "originalPrice": 129000,
             "discount": 10,
@@ -1063,6 +1090,41 @@
             "Screen Protector"
         ],
         "url": "https://blibli.com/p/nillkin-tempered-glass-screen-protector-amazing-h-for-samsung-galaxy-a20s/ps--ORM-40582-05969?ds=ORM-40582-05969-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZE0HhG7rHz8LqWmNzkGmfXJ6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86PFfGXcHNZE4OgTeEc+SpvkQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-05969",
-        "crawlAt": 1706956564398
+        "crawlAt": 1707039840137,
+        "_id": "65bf5caf1abe1c535fd565e4"
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Case Samsung Galaxy A04e IMAK UC-3 Frosting Casing",
+        "brand": "Imak",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-91624442/imak_case_samsung_galaxy_a04e_imak_uc-3_frosting_casing_full06_frq7j3st.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-91624442/imak_case_samsung_galaxy_a04e_imak_uc-3_frosting_casing_full01_ktb3oa5n.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-91624442/imak_case_samsung_galaxy_a04e_imak_uc-3_frosting_casing_full02_hvprrgtd.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-91624442/imak_case_samsung_galaxy_a04e_imak_uc-3_frosting_casing_full03_s5wiakdp.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-91624442/imak_case_samsung_galaxy_a04e_imak_uc-3_frosting_casing_full04_u9xpu6yw.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-91624442/imak_case_samsung_galaxy_a04e_imak_uc-3_frosting_casing_full05_so9rlgjx.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-91624442/imak_case_samsung_galaxy_a04e_imak_uc-3_frosting_casing_full07_c4uctq9w.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-91624442/imak_case_samsung_galaxy_a04e_imak_uc-3_frosting_casing_full08_rl89kiz7.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-91624442/imak_case_samsung_galaxy_a04e_imak_uc-3_frosting_casing_full09_dc49bo5e.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-91624442/imak_case_samsung_galaxy_a04e_imak_uc-3_frosting_casing_full10_bpqd3zil.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-91624442/imak_case_samsung_galaxy_a04e_imak_uc-3_frosting_casing_full11_qcgiemkm.jpg"
+        ],
+        "merchantName": "Orionlycom",
+        "price": {
+            "originalPrice": 0,
+            "discount": 0,
+            "finalPrice": 86000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 1,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Casing"
+        ],
+        "url": "https://blibli.com/p/case-samsung-galaxy-a04e-imak-uc-3-frosting-casing/ps--ORM-40582-08403?ds=ORM-40582-08403-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1igbwLPbKKMBrsjRhg5GQhvyRRQCHfL7Kalxi8eaR7vHBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aZyNa4lr5t5nmCNGGkFUiPmT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3011893&pid1=ORM-40582-08403",
+        "crawlAt": 1707039840137,
+        "_id": "65bf5cb01abe1c535fd565e6"
     }
 ]

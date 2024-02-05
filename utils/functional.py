@@ -46,3 +46,20 @@ def soldConverter(sold_string: str):
     if "," in sold_string:
         int_sold = int_sold / 10
     return int(int_sold)
+
+def tokpedSellMapper(sale: str):
+    """
+    Maps the sale data to extract the number from the 'title' when the 'position' is 'integrity'.
+
+    Args:
+        sale (str): The sale data to be mapped.
+
+    Returns:
+        int: The extracted number from the 'title' when the 'position' is 'integrity'.
+    """
+    for data in sale:
+        if data["position"] == "integrity":
+            title = data["title"]
+            number = re.sub(r'\D', '', title)
+            return int(number)
+    return 0

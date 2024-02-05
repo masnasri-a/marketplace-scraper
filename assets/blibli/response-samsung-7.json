@@ -1,6 +1,110 @@
 [
     {
         "marketplace": "blibli",
+        "productName": "Samsung Galaxy A54 5G 8/256 GB",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/105/MTA-99471506/samsung_samsung-galaxy-a54-5g-8-256-gb_full00_2AD218CC-84CC-4983-A5A3-23BCCD04666B.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/105/MTA-99471506/samsung_samsung-galaxy-a54-5g-8-256-gb_full06_E46A6FB5-D0B6-438C-9115-3F7BA6E9FAB3.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/105/MTA-99471506/samsung_samsung-galaxy-a54-5g-8-256-gb_full01_4ACB892D-F404-46A1-9BAB-42B222BF903B.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/105/MTA-99471506/samsung_samsung-galaxy-a54-5g-8-256-gb_full02_F5C05A32-40E6-42CB-90C3-356FE047F3CF.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/105/MTA-99471506/samsung_samsung-galaxy-a54-5g-8-256-gb_full03_933BCCBE-4100-45EA-B474-1A1A5E9CA15A.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/105/MTA-99471506/samsung_samsung-galaxy-a54-5g-8-256-gb_full04_0169827E-3F4A-472D-8EB7-65F43074D595.jpg"
+        ],
+        "merchantName": "Arzaq Cell",
+        "price": {
+            "originalPrice": 0,
+            "discount": 0,
+            "finalPrice": 5950000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 0,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Handphone",
+            "Android"
+        ],
+        "url": "https://blibli.com/p/samsung-galaxy-a54-5g-8-256-gb/ps--ARC-60063-00078?ds=ARC-60063-00078-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZGstD7b/s8mYVd2UQvjbbXeV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3078628&pid1=ARC-60063-00078",
+        "crawlAt": 1707037657059
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Samsung Galaxy Tab S9 FE Plus FE+ 5G Wifi RAM 6GB 8GB 12GB ROM 128GB 256GB Tablet S9FE Android",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-139696102/samsung_samsung_galaxy_tab_s9_fe_plus_fe-_5g_wifi_ram_6gb_8gb_12gb_rom_128gb_256gb_tablet_s9fe_android_full01_eiaseang.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-139696102/samsung_samsung_galaxy_tab_s9_fe_plus_fe-_5g_wifi_ram_6gb_8gb_12gb_rom_128gb_256gb_tablet_s9fe_android_full02_j4u0ay3f.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-139696102/samsung_samsung_galaxy_tab_s9_fe_plus_fe-_5g_wifi_ram_6gb_8gb_12gb_rom_128gb_256gb_tablet_s9fe_android_full03_cuckqgn7.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-139696102/samsung_samsung_galaxy_tab_s9_fe_plus_fe-_5g_wifi_ram_6gb_8gb_12gb_rom_128gb_256gb_tablet_s9fe_android_full04_e7qt2y96.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-139696102/samsung_samsung_galaxy_tab_s9_fe_plus_fe-_5g_wifi_ram_6gb_8gb_12gb_rom_128gb_256gb_tablet_s9fe_android_full05_pfsby4tp.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-139696102/samsung_samsung_galaxy_tab_s9_fe_plus_fe-_5g_wifi_ram_6gb_8gb_12gb_rom_128gb_256gb_tablet_s9fe_android_full06_sqph2o1j.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-139696102/samsung_samsung_galaxy_tab_s9_fe_plus_fe-_5g_wifi_ram_6gb_8gb_12gb_rom_128gb_256gb_tablet_s9fe_android_full07_oi0ucuww.jpg"
+        ],
+        "merchantName": "Gallery Gadget ",
+        "price": {
+            "originalPrice": 6499000,
+            "discount": 8,
+            "finalPrice": 5949000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 3,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Tablet",
+            "Tablet Android"
+        ],
+        "url": "https://blibli.com/p/samsung-galaxy-tab-s9-fe-plus-fe-5g-wifi-ram-6gb-8gb-12gb-rom-128gb-256gb-tablet-s9fe-android/ps--AKI-70009-01059?ds=AKI-70009-01059-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1sHt2s+DPNzC/qy+zJlEIX/P9SVhhHarB/+LvMLBtl05V6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70MpLMfP88iQTh28yrud9gP8L8fQNr+iQQraBtd3ylN43svJqIi2XqjxFa1WXD2Hq7li0nCtQOqY4utJmZa0EvR2ZzpOOMdOk17yww/hFY7T1CC5SLDDkk/NXp4m5tkHYA32TeETumckatdkLB2bGJ7r&cnc=false&pickupPointCode=PP-3197047&pid1=AKI-70009-01059",
+        "crawlAt": 1707037657059
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Baseus Cable Data Fast Charging 3 in 1 - Micro + Lightning + Type C 5A 1.2m",
+        "brand": "Baseus",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//93/MTA-13342854/baseus_baseus_cable_data_fast_charging_3_in_1_-_micro_-_lightning_-_type_c_5a_1-2m_full01_jj5k34jp.jpg"
+        ],
+        "merchantName": "Executive_Shop7 Official Store",
+        "price": {
+            "originalPrice": 134000,
+            "discount": 7,
+            "finalPrice": 124000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 8,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Kabel Data"
+        ],
+        "url": "https://blibli.com/p/baseus-cable-data-fast-charging-3-in-1-micro-lightning-type-c-5a-1-2m/ps--EX7-60022-00488?ds=EX7-60022-00488-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1pGTFXj2OkmKf+AOWXtSxPKuc9Zhe6A9J3lCmSF22k6t6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86PM/p4wltQSwjhFckeThcgjyWKJw/9B4YTOVyT8RIg3uU=&cnc=false&pickupPointCode=PP-3125292&pid1=EX7-60022-00488",
+        "crawlAt": 1707037657059
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "SAMSUNG S21 FE 8/256GB",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/99/MTA-134786402/samsung_samsung_s21_fe_8-256gb_full06_ija7dst3.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/99/MTA-134786402/samsung_samsung_s21_fe_8-256gb_full04_c1b0804c.jpg"
+        ],
+        "merchantName": "SMS SHOP ONLINE Official Store",
+        "price": {
+            "originalPrice": 0,
+            "discount": 0,
+            "finalPrice": 7999000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 0,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Phone Grip"
+        ],
+        "url": "https://blibli.com/p/samsung-s21-fe-8-256gb/ps--SMS-53926-01661?ds=SMS-53926-01661-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZE4zUEKH5GbImeOLG1y3hpWV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYOPTaJa61ZourzquQtoo/wh59JGLHrrb9yJfUUjPytouI5+RurTFFGVygqgYO6i0o8rvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3017991&pid1=SMS-53926-01661",
+        "crawlAt": 1707037657059
+    },
+    {
+        "marketplace": "blibli",
         "productName": "Samsung Galaxy A05s Smartphone [6GB/128GB]",
         "brand": "Samsung",
         "images": [
@@ -8,6 +112,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/100/MTA-139046724/samsung_samsung_galaxy_a05s_smartphone_-6gb-128gb-_full02_sh4q2pbe.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/100/MTA-139046724/samsung_samsung_galaxy_a05s_smartphone_-6gb-128gb-_full03_l6c75ual.jpg"
         ],
+        "merchantName": "INTIKOM ",
         "price": {
             "originalPrice": 2299000,
             "discount": 0,
@@ -21,7 +126,7 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-a05s-smartphone-6gb-128gb/ps--INM-60022-04087?ds=INM-60022-04087-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gZ8J1VFoyElv4DrlI8ytUyxvXDXIg1FQZVvOE4bBqYRVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX5S8zmthDZvuxaMAiMic0Z/VadLzfI1Uug6xRZEdsASicz0Rl8lfc9CnJqjMMx4lFpRiA2nX5MQkJ/wB53voxWG7TpFTM31J8iJEsajgAmGqZIyu1gXyKCeg3W1yjMq1TtHWJ2l6vVUDGMPRV5VPpjl&cnc=false&pickupPointCode=PP-3022918&pid1=INM-60022-04087",
-        "crawlAt": 1706956307660
+        "crawlAt": 1707037657059
     },
     {
         "marketplace": "blibli",
@@ -31,6 +136,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//102/MTA-9381756/wallet_flip_wallet_leather_dompet_kulit_cover_case_samsung_s20_plus_full01_g45j7gj2.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//102/MTA-9381756/wallet_flip_wallet_leather_dompet_kulit_cover_case_samsung_s20_plus_full02_cbcpexcz.jpg"
         ],
+        "merchantName": "Bunso Indonesia",
         "price": {
             "originalPrice": 100000,
             "discount": 60,
@@ -44,17 +150,18 @@
             "Casing"
         ],
         "url": "https://blibli.com/p/flip-wallet-leather-dompet-kulit-cover-case-samsung-s20-plus/ps--BUI-60033-01566?ds=BUI-60033-01566-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gVM1r7pUcMHMSa2GcVlGJ89dEy+Qcw1pFFwtXMA2bd6BIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/kWb5w256LwNjT3swpYhADDsnVS4KZgnkIiy9zaokE29tNkqUl3PHrq+qgYsvxKT2wRTevY4og2XOgqky25YOx84ncnRyz6/GfSAGKLvMXl6fYDCNl9ovXkR0JgEoi86985pveAnMYwuQcyTE1JTNL&cnc=false&pickupPointCode=PP-3066504&pid1=BUI-60033-01566",
-        "crawlAt": 1706956307660
+        "crawlAt": 1707037657059
     },
     {
         "marketplace": "blibli",
         "productName": "Samsung Galaxy Z Fold5 5G Garansi Resmi",
         "brand": "Samsung",
         "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/98/MTA-133261577/br-m036969-02885_samsung-galaxy-z-fold5-5g-12-256gb-12-512gb-12-1tb-resmi_full10-f888c297.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/98/MTA-133261577/br-m036969-02885_samsung-galaxy-z-fold5-5g-12-256gb-12-512gb-12-1tb-resmi_full01-75fd9efa.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/98/MTA-133261577/br-m036969-02885_samsung-galaxy-z-fold5-5g-12-256gb-12-512gb-12-1tb-resmi_full16-5e820002.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/98/MTA-133261577/br-m036969-02885_samsung-galaxy-z-fold5-5g-12-256gb-12-512gb-12-1tb-resmi_full17-559297d7.jpg"
         ],
+        "merchantName": "Gadget Original Official Store ",
         "price": {
             "originalPrice": 24999000,
             "discount": 10,
@@ -67,8 +174,8 @@
             "Handphone",
             "Android"
         ],
-        "url": "https://blibli.com/p/samsung-galaxy-z-fold5-5g-garansi-resmi/ps--DIG-60025-01454?ds=DIG-60025-01454-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gVM1r7pUcMHMSa2GcVlGJ9g/2Lh4BbV9/F4FHC0gmG4Vfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3037122&pid1=DIG-60025-01454",
-        "crawlAt": 1706956307660
+        "url": "https://blibli.com/p/samsung-galaxy-z-fold5-5g-garansi-resmi/ps--DIG-60025-01454?ds=DIG-60025-01454-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gVM1r7pUcMHMSa2GcVlGJ9g/2Lh4BbV9/F4FHC0gmG4Vfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3037122&pid1=DIG-60025-01454",
+        "crawlAt": 1707037657059
     },
     {
         "marketplace": "blibli",
@@ -77,6 +184,7 @@
         "images": [
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//102/MTA-47626392/samsung_samsung_galaxy_s22_ultra_5g_12-256gb_garansi_resmi_sein_full01_e05ec9b3.jpg"
         ],
+        "merchantName": "MurahMeriah Shop Official Store",
         "price": {
             "originalPrice": 15499000,
             "discount": 0,
@@ -90,7 +198,7 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-s22-ultra-5g-12-256gb-garansi-resmi-sein/ps--ASP-60026-01154?ds=ASP-60026-01154-00003&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1glXvEa/ey9ABMCrC8d7ex28n70Hm1Dg/pv77i5v8k2GlsogVVfmUpV8Tbz8/WvDB0/Qd+PE2R+BYcbkg24R21veGaGYGFGYf25z1CaNjawdBgtRiqs/MAUme7ocrJ5UAquVtw0c/bnyKkeJ3r2OgtA0T0T2y5SVcq7DCnwmLMya5GtthzJzuC9/poT4qkNt9vp//9wnF99rtVaFwv1ETfeO88fyzvy/mZdUpEwHtXWE&cnc=false&pickupPointCode=PP-3038901&pid1=ASP-60026-01154",
-        "crawlAt": 1706956307660
+        "crawlAt": 1707037657059
     },
     {
         "marketplace": "blibli",
@@ -106,6 +214,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//123/MTA-76959888/samsung_samsung_galaxy_a04e_3-32gb_garansi_resmi_full06_raufgu6w.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//123/MTA-76959888/samsung_samsung_galaxy_a04e_3-32gb_garansi_resmi_full07_i3zizdqo.jpg"
         ],
+        "merchantName": "SYAFIRA BABYSHOP",
         "price": {
             "originalPrice": 0,
             "discount": 0,
@@ -119,7 +228,7 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-a04e-3-32gb-garansi-resmi/ps--SYB-70013-00045?ds=SYB-70013-00045-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1rzYERlulaE9tXmNiEFhybtODP54fsbTHBLbW9f9xvLZVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3233436&pid1=SYB-70013-00045",
-        "crawlAt": 1706956307660
+        "crawlAt": 1707037657059
     },
     {
         "marketplace": "blibli",
@@ -128,6 +237,7 @@
         "images": [
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//88/MTA-7120085/gkk_gkk_360_full_cover_baby_skin_hard_case_samsung_a50_armor_full07_jjfsfj7o.jpg"
         ],
+        "merchantName": "Bunso Indonesia",
         "price": {
             "originalPrice": 100000,
             "discount": 60,
@@ -141,38 +251,7 @@
             "Casing"
         ],
         "url": "https://blibli.com/p/gkk-360-full-cover-baby-skin-hard-case-samsung-a50-armor/ps--BUI-60033-00749?ds=BUI-60033-00749-00020&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1jEXDEZ95tCeex4Innf4ihXOgTuDo5AEPCk/VoR7NS9U6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvgDGemfm5SNh5Jq9KPDEXJ5jzCxKTOmEWlperjuKJtK31FBTc87YP8sPvWm7FKE+rYMTLk5pIsoVQJmtwLacJnYvOraDWI0pCKeuYXD6zKYCpT14wSobMnF05qab41SltUq6VBV00TSMvh5kbZwrs+u&cnc=false&pickupPointCode=PP-3066504&pid1=BUI-60033-00749",
-        "crawlAt": 1706956307660
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "SAMSUNG 85QN90C SMART TV 85 INCH NEO QLED 4K UHD SAMSUNG QN90C 85 INCH",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/97/MTA-122684263/samsung_samsung_85qn90c_smart_tv_85_inch_neo_qled_4k_uhd_samsung_qn90c_full01_b39kr8e3.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/97/MTA-122684263/samsung_samsung_85qn90c_smart_tv_85_inch_neo_qled_4k_uhd_samsung_qn90c_full02_js6e70ap.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/97/MTA-122684263/samsung_samsung_85qn90c_smart_tv_85_inch_neo_qled_4k_uhd_samsung_qn90c_full03_co2satzq.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/97/MTA-122684263/samsung_samsung_85qn90c_smart_tv_85_inch_neo_qled_4k_uhd_samsung_qn90c_full04_l71xmxcs.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/97/MTA-122684263/samsung_samsung_85qn90c_smart_tv_85_inch_neo_qled_4k_uhd_samsung_qn90c_full05_mtdpy0hh.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/97/MTA-122684263/samsung_samsung_85qn90c_smart_tv_85_inch_neo_qled_4k_uhd_samsung_qn90c_full06_sql2f29e.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/97/MTA-122684263/samsung_samsung_85qn90c_smart_tv_85_inch_neo_qled_4k_uhd_samsung_qn90c_full07_u7o1a70p.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/97/MTA-122684263/samsung_samsung_85qn90c_smart_tv_85_inch_neo_qled_4k_uhd_samsung_qn90c_full08_vbbwqxyd.jpg"
-        ],
-        "price": {
-            "originalPrice": 0,
-            "discount": 0,
-            "finalPrice": 58999000
-        },
-        "category": "Peralatan Elektronik",
-        "sell": 1,
-        "categoryList": [
-            "Peralatan Elektronik",
-            "Televisi & Aksesoris",
-            "TV LCD##LED",
-            "Smart TV",
-            "Smart TV Over 70 Inch"
-        ],
-        "url": "https://blibli.com/p/samsung-85qn90c-smart-tv-85-inch-neo-qled-4k-uhd-samsung-qn90c-85-inch/ps--TI9-70004-00863?ds=TI9-70004-00863-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1igbwLPbKKMBrsjRhg5GQhua5wHNtAGgAMVVG/HWqKtsVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPqbM7lt328rv/uATuMrdMHKlbi4aulnAm4XgZlLGTbTANAzP0TCbosRlNRDom8WQ2Wa+H7WIEt2cWr8JmCN7B2VjvPH8s78v5mXVKRMB7V1hA==&cnc=false&pickupPointCode=PP-3265106&pid1=TI9-70004-00863",
-        "crawlAt": 1706956307660
+        "crawlAt": 1707037657059
     },
     {
         "marketplace": "blibli",
@@ -188,6 +267,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//109/MTA-92486935/samsung_batch_2_-_samsung_galaxy_s23-_smartphone_-8-512_gb-_full11_tpzmts8j.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-92486935/samsung_samsung_galaxy_s23-_5g_smartphone_8gb-256gb_full02_bsex0dxh.jpg"
         ],
+        "merchantName": "Samsung Official Store",
         "price": {
             "originalPrice": 15999000,
             "discount": 11,
@@ -201,7 +281,39 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-s23-5g-smartphone-8gb-256gb/ps--SAO-60034-02068?ds=SAO-60034-02068-00004&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1mLQKq/Hui5E5YBveNALnY5SzDXmui+Gii5FMs4+I4nBlsogVVfmUpV8Tbz8/WvDB0/Qd+PE2R+BYcbkg24R21veGaGYGFGYf25z1CaNjawdBgtRiqs/MAUme7ocrJ5UAquVtw0c/bnyKkeJ3r2OgtA0T0T2y5SVcq7DCnwmLMya5GtthzJzuC9/poT4qkNt9vp//9wnF99rtVaFwv1ETfeO88fyzvy/mZdUpEwHtXWE&cnc=false&pickupPointCode=PP-3036193&pid1=SAO-60034-02068",
-        "crawlAt": 1706956307660
+        "crawlAt": 1707037657059
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "SAMSUNG 85QN90C SMART TV 85 INCH NEO QLED 4K UHD SAMSUNG QN90C 85 INCH",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/97/MTA-122684263/samsung_samsung_85qn90c_smart_tv_85_inch_neo_qled_4k_uhd_samsung_qn90c_full01_b39kr8e3.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/97/MTA-122684263/samsung_samsung_85qn90c_smart_tv_85_inch_neo_qled_4k_uhd_samsung_qn90c_full02_js6e70ap.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/97/MTA-122684263/samsung_samsung_85qn90c_smart_tv_85_inch_neo_qled_4k_uhd_samsung_qn90c_full03_co2satzq.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/97/MTA-122684263/samsung_samsung_85qn90c_smart_tv_85_inch_neo_qled_4k_uhd_samsung_qn90c_full04_l71xmxcs.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/97/MTA-122684263/samsung_samsung_85qn90c_smart_tv_85_inch_neo_qled_4k_uhd_samsung_qn90c_full05_mtdpy0hh.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/97/MTA-122684263/samsung_samsung_85qn90c_smart_tv_85_inch_neo_qled_4k_uhd_samsung_qn90c_full06_sql2f29e.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/97/MTA-122684263/samsung_samsung_85qn90c_smart_tv_85_inch_neo_qled_4k_uhd_samsung_qn90c_full07_u7o1a70p.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/97/MTA-122684263/samsung_samsung_85qn90c_smart_tv_85_inch_neo_qled_4k_uhd_samsung_qn90c_full08_vbbwqxyd.jpg"
+        ],
+        "merchantName": "tigajaya7",
+        "price": {
+            "originalPrice": 0,
+            "discount": 0,
+            "finalPrice": 58999000
+        },
+        "category": "Peralatan Elektronik",
+        "sell": 1,
+        "categoryList": [
+            "Peralatan Elektronik",
+            "Televisi & Aksesoris",
+            "TV LCD##LED",
+            "Smart TV",
+            "Smart TV Over 70 Inch"
+        ],
+        "url": "https://blibli.com/p/samsung-85qn90c-smart-tv-85-inch-neo-qled-4k-uhd-samsung-qn90c-85-inch/ps--TI9-70004-00863?ds=TI9-70004-00863-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1igbwLPbKKMBrsjRhg5GQhua5wHNtAGgAMVVG/HWqKtsVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPqbM7lt328rv/uATuMrdMHKlbi4aulnAm4XgZlLGTbTANAzP0TCbosRlNRDom8WQ2Wa+H7WIEt2cWr8JmCN7B2VjvPH8s78v5mXVKRMB7V1hA==&cnc=false&pickupPointCode=PP-3265106&pid1=TI9-70004-00863",
+        "crawlAt": 1707037657059
     },
     {
         "marketplace": "blibli",
@@ -211,6 +323,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//103/MTA-7786912/iring_samsung_galaxy_a31_invisible_i_ring_iring_soft_case_tempered_glass_full01_80q8jot.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//103/MTA-7786912/iring_samsung_galaxy_a31_invisible_i_ring_iring_soft_case_tempered_glass_full02_i7k7g4l2.jpg"
         ],
+        "merchantName": "Bunso Indonesia",
         "price": {
             "originalPrice": 100000,
             "discount": 60,
@@ -224,7 +337,7 @@
             "Casing"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-a31-invisible-i-ring-iring-soft-case-tempered-glass/ps--BUI-60033-01209?ds=BUI-60033-01209-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1jivGClVoqEpHhqjcdJgG3I9dEy+Qcw1pFFwtXMA2bd6BIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/kWb5w256LwNjT3swpYhADDsnVS4KZgnkIiy9zaokE29tNkqUl3PHrq+qgYsvxKT2wRTevY4og2XOgqky25YOx84ncnRyz6/GfSAGKLvMXl6fYDCNl9ovXkR0JgEoi86985pveAnMYwuQcyTE1JTNL&cnc=false&pickupPointCode=PP-3066504&pid1=BUI-60033-01209",
-        "crawlAt": 1706956307660
+        "crawlAt": 1707037657059
     },
     {
         "marketplace": "blibli",
@@ -236,6 +349,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//89/MTA-7800414/iring_samsung_galaxy_s9_invisible_i_ring_iring_soft_case_tempered_glass_full02_dhudkhnd.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//89/MTA-7800414/iring_samsung_galaxy_s9_invisible_i_ring_iring_soft_case_tempered_glass_full04_dq65m5h2.jpg"
         ],
+        "merchantName": "Bunso Indonesia",
         "price": {
             "originalPrice": 100000,
             "discount": 60,
@@ -249,33 +363,7 @@
             "Casing"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-s9-invisible-i-ring-iring-soft-case-tempered-glass/ps--BUI-60033-01233?ds=BUI-60033-01233-00003&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1sHt2s+DPNzC/qy+zJlEIX89dEy+Qcw1pFFwtXMA2bd6BIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/kWb5w256LwNjT3swpYhADDsnVS4KZgnkIiy9zaokE29tNkqUl3PHrq+qgYsvxKT2wRTevY4og2XOgqky25YOx84ncnRyz6/GfSAGKLvMXl6fYDCNl9ovXkR0JgEoi86985pveAnMYwuQcyTE1JTNL&cnc=false&pickupPointCode=PP-3066504&pid1=BUI-60033-01233",
-        "crawlAt": 1706956307660
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Samsung Galaxy A15 NFC 8/128GB LTE",
-        "brand": "no brand",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/94/MTA-151046355/brd-44261_samsung-galaxy-a15-8-128gb-lte_full05-3003e032.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/94/MTA-151046355/brd-44261_samsung-galaxy-a15-8-128gb-lte_full01-48ca7767.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/94/MTA-151046355/brd-44261_samsung-galaxy-a15-8-128gb-lte_full02-22adb1d5.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/94/MTA-151046355/brd-44261_samsung-galaxy-a15-8-128gb-lte_full03-5952c46b.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/94/MTA-151046355/brd-44261_samsung-galaxy-a15-8-128gb-lte_full04-04cea54e.jpg"
-        ],
-        "price": {
-            "originalPrice": 0,
-            "discount": 0,
-            "finalPrice": 2899000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 2,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Handphone",
-            "Android"
-        ],
-        "url": "https://blibli.com/p/samsung-galaxy-a15-nfc-8-128gb-lte/ps--HAS-70030-00794?ds=HAS-70030-00794-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gVM1r7pUcMHMSa2GcVlGJ+gdgrJBXQf25yEyfGiF0SvV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3314382&pid1=HAS-70030-00794",
-        "crawlAt": 1706956307660
+        "crawlAt": 1707037657059
     },
     {
         "marketplace": "blibli",
@@ -284,6 +372,7 @@
         "images": [
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-54699284/samsung_samsung-galaxy-a13-6-128-garansi-resmi_full00_3D88FF8B-63A6-484D-8C7A-CC896F83EBBC.jpg"
         ],
+        "merchantName": "Darlen Store",
         "price": {
             "originalPrice": 0,
             "discount": 0,
@@ -297,7 +386,34 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-a13-6-128-garansi-resmi/ps--DAS-70465-00002?ds=DAS-70465-00002-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1kEBTwiSpIo4v+cKVqPIb6M2mttaJahA4A2NbxtXoG4AVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3372634&pid1=DAS-70465-00002",
-        "crawlAt": 1706956307660
+        "crawlAt": 1707037657059
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Samsung Galaxy A15 NFC 8/128GB LTE",
+        "brand": "no brand",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/94/MTA-151046355/brd-44261_samsung-galaxy-a15-8-128gb-lte_full05-3003e032.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/94/MTA-151046355/brd-44261_samsung-galaxy-a15-8-128gb-lte_full01-48ca7767.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/94/MTA-151046355/brd-44261_samsung-galaxy-a15-8-128gb-lte_full02-22adb1d5.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/94/MTA-151046355/brd-44261_samsung-galaxy-a15-8-128gb-lte_full03-5952c46b.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/94/MTA-151046355/brd-44261_samsung-galaxy-a15-8-128gb-lte_full04-04cea54e.jpg"
+        ],
+        "merchantName": "HapeJoss Official Store",
+        "price": {
+            "originalPrice": 0,
+            "discount": 0,
+            "finalPrice": 2899000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 2,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Handphone",
+            "Android"
+        ],
+        "url": "https://blibli.com/p/samsung-galaxy-a15-nfc-8-128gb-lte/ps--HAS-70030-00794?ds=HAS-70030-00794-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gVM1r7pUcMHMSa2GcVlGJ+gdgrJBXQf25yEyfGiF0SvV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3314382&pid1=HAS-70030-00794",
+        "crawlAt": 1707037657059
     },
     {
         "marketplace": "blibli",
@@ -307,6 +423,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//94/MTA-3915913/oem_oem_mirror_clear_view_flip_cover_casing_for_samsung_galaxy_j7_plus__-_dark_blue-_full03.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//94/MTA-3915913/oem_oem_mirror_clear_view_flip_cover_casing_for_samsung_galaxy_j7_plus__-_dark_blue-_full04.jpg"
         ],
+        "merchantName": "Bunso Indonesia",
         "price": {
             "originalPrice": 86000,
             "discount": 62,
@@ -320,7 +437,7 @@
             "Casing"
         ],
         "url": "https://blibli.com/p/oem-mirror-clear-view-flip-cover-casing-for-samsung-galaxy-j7-plus-dark-blue/ps--BUI-60033-00087?ds=BUI-60033-00087-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1igbwLPbKKMBrsjRhg5GQhs4mHOyHDZiFOIr9VADOKkMBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/kWb5w256LwNjT3swpYhADDsnVS4KZgnkIiy9zaokE29tNkqUl3PHrq+qgYsvxKT2wRTevY4og2XOgqky25YOx84ncnRyz6/GfSAGKLvMXl6fYDCNl9ovXkR0JgEoi86985pveAnMYwuQcyTE1JTNL&cnc=false&pickupPointCode=PP-3066504&pid1=BUI-60033-00087",
-        "crawlAt": 1706956307660
+        "crawlAt": 1707037657059
     },
     {
         "marketplace": "blibli",
@@ -329,6 +446,7 @@
         "images": [
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-3921633/oem_oem_clear_view_mirror_flip_cover_casing_for_samsung_galaxy_a500_or_a5_2015_full12.jpg"
         ],
+        "merchantName": "Bunso Indonesia",
         "price": {
             "originalPrice": 86000,
             "discount": 62,
@@ -342,7 +460,7 @@
             "Casing"
         ],
         "url": "https://blibli.com/p/oem-clear-view-mirror-flip-cover-casing-for-samsung-galaxy-a500-or-a5-2015/ps--BUI-60033-00363?ds=BUI-60033-00363-00004&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1igbwLPbKKMBrsjRhg5GQhs4mHOyHDZiFOIr9VADOKkMBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/kWb5w256LwNjT3swpYhADDsnVS4KZgnkIiy9zaokE29tNkqUl3PHrq+qgYsvxKT2wRTevY4og2XOgqky25YOx84ncnRyz6/GfSAGKLvMXl6fYDCNl9ovXkR0JgEoi86985pveAnMYwuQcyTE1JTNL&cnc=false&pickupPointCode=PP-3066504&pid1=BUI-60033-00363",
-        "crawlAt": 1706956307660
+        "crawlAt": 1707037657059
     },
     {
         "marketplace": "blibli",
@@ -353,6 +471,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//91/MTA-7800146/iring_samsung_galaxy_s9_plus_s9_plus_invisible_i_ring_iring_soft_case_tempered_glass_full03_e2v5a49y.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//91/MTA-7800146/iring_samsung_galaxy_s9_plus_s9_plus_invisible_i_ring_iring_soft_case_tempered_glass_full02_dxbljs02.jpg"
         ],
+        "merchantName": "Bunso Indonesia",
         "price": {
             "originalPrice": 100000,
             "discount": 60,
@@ -366,57 +485,7 @@
             "Casing"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-s9-plus-s9-plus-invisible-i-ring-iring-soft-case-tempered-glass/ps--BUI-60033-01232?ds=BUI-60033-01232-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1jivGClVoqEpHhqjcdJgG3I9dEy+Qcw1pFFwtXMA2bd6BIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/kWb5w256LwNjT3swpYhADDsnVS4KZgnkIiy9zaokE29tNkqUl3PHrq+qgYsvxKT2wRTevY4og2XOgqky25YOx84ncnRyz6/GfSAGKLvMXl6fYDCNl9ovXkR0JgEoi86985pveAnMYwuQcyTE1JTNL&cnc=false&pickupPointCode=PP-3066504&pid1=BUI-60033-01232",
-        "crawlAt": 1706956307660
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Samsung Galaxy A24 LTE Smartphone [8/128GB/N] + TA 15W",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/98/MTA-100948317/samsung_samsung_galaxy_a24_lte_smartphone_-8-128gb-_full20_bron3hf0.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/98/MTA-100948317/samsung_samsung_galaxy_a24_lte_smartphone_-8-128gb-_full05_nnh5f247.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/98/MTA-100948317/samsung_samsung_galaxy_a24_lte_smartphone_-8-128gb-_full14_h5w60lqu.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/98/MTA-100948317/samsung_samsung_galaxy_a24_lte_smartphone_-8-128gb-_full09_ov05o5ad.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/98/MTA-100948317/samsung_samsung_galaxy_a24_lte_smartphone_-8-128gb-_full10_dmc0fk3t.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/98/MTA-100948317/samsung_samsung_galaxy_a24_lte_smartphone_-8-128gb-_full21_slcj5iz9.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/98/MTA-100948317/samsung_samsung_galaxy_a24_lte_smartphone_-8-128gb-_full02_kb4xh033.jpg"
-        ],
-        "price": {
-            "originalPrice": 3499000,
-            "discount": 12,
-            "finalPrice": 3079000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 1900,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Handphone",
-            "Android"
-        ],
-        "url": "https://blibli.com/p/samsung-galaxy-a24-lte-smartphone-8-128gb-n-ta-15w/ps--INL-60035-01091?ds=INL-60035-01091-00003&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1lMul7to+1AtcTBKGUeWvRIDpAChu02MgyNLEVfbJzCqssFoHe0ux6oJFT/XRXpCLib/SBy6IB1M3IaqMuoteMwULt2y/e/6/ySmsLVfoFbUduDLXl0TQnuCON1cZnD5z9mb5z4CQ2EemV55RRhtG48Ky39fi3Va6xY0tttu7XwbdCIjEVS4NKc4mYAdHVV7x291KO7Dj9/1o5ZdZy0k0Ds/RD55r8MN6K/oKaplDyYP&cnc=false&pickupPointCode=PP-3046516&pid1=INL-60035-01091",
-        "crawlAt": 1706956307660
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Samsung Galaxy S21 Invisible I Ring iRing Soft Case Cover Free Tempered Glass",
-        "brand": "iRing",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-11438523/iring_samsung_galaxy_s21_invisible_i_ring_iring_soft_case_cover_free_tempered_glass_full03_cwuj12vm.jpg"
-        ],
-        "price": {
-            "originalPrice": 100000,
-            "discount": 60,
-            "finalPrice": 40000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 2,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Aksesoris Handphone & Tablet Lainnya"
-        ],
-        "url": "https://blibli.com/p/samsung-galaxy-s21-invisible-i-ring-iring-soft-case-cover-free-tempered-glass/ps--BUI-60033-01972?ds=BUI-60033-01972-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gVM1r7pUcMHMSa2GcVlGJ89dEy+Qcw1pFFwtXMA2bd6BIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/kWb5w256LwNjT3swpYhADDsnVS4KZgnkIiy9zaokE29tNkqUl3PHrq+qgYsvxKT2wRTevY4og2XOgqky25YOx84ncnRyz6/GfSAGKLvMXl2PUMXE6MaSDgMhDTT8FM1985pveAnMYwuQcyTE1JTNL&cnc=false&pickupPointCode=PP-3066504&pid1=BUI-60033-01972",
-        "crawlAt": 1706956307660
+        "crawlAt": 1707037657059
     },
     {
         "marketplace": "blibli",
@@ -428,6 +497,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//108/MTA-7798158/iring_samsung_galaxy_a20_a30_invisible_i_ring_iring_soft_case_tempered_glass_full03_rc92n2fl.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//108/MTA-7798158/iring_samsung_galaxy_a20_a30_invisible_i_ring_iring_soft_case_tempered_glass_full02_sjwpx753.jpg"
         ],
+        "merchantName": "Bunso Indonesia",
         "price": {
             "originalPrice": 100000,
             "discount": 60,
@@ -441,7 +511,31 @@
             "Casing"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-a20-a30-invisible-i-ring-iring-soft-case-tempered-glass/ps--BUI-60033-01221?ds=BUI-60033-01221-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1sHt2s+DPNzC/qy+zJlEIX89dEy+Qcw1pFFwtXMA2bd6BIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/kWb5w256LwNjT3swpYhADDsnVS4KZgnkIiy9zaokE29tNkqUl3PHrq+qgYsvxKT2wRTevY4og2XOgqky25YOx84ncnRyz6/GfSAGKLvMXl6fYDCNl9ovXkR0JgEoi86985pveAnMYwuQcyTE1JTNL&cnc=false&pickupPointCode=PP-3066504&pid1=BUI-60033-01221",
-        "crawlAt": 1706956307660
+        "crawlAt": 1707037657059
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Samsung Galaxy S21 Invisible I Ring iRing Soft Case Cover Free Tempered Glass",
+        "brand": "iRing",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-11438523/iring_samsung_galaxy_s21_invisible_i_ring_iring_soft_case_cover_free_tempered_glass_full03_cwuj12vm.jpg"
+        ],
+        "merchantName": "Bunso Indonesia",
+        "price": {
+            "originalPrice": 100000,
+            "discount": 60,
+            "finalPrice": 40000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 2,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Aksesoris Handphone & Tablet Lainnya"
+        ],
+        "url": "https://blibli.com/p/samsung-galaxy-s21-invisible-i-ring-iring-soft-case-cover-free-tempered-glass/ps--BUI-60033-01972?ds=BUI-60033-01972-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gVM1r7pUcMHMSa2GcVlGJ89dEy+Qcw1pFFwtXMA2bd6BIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/kWb5w256LwNjT3swpYhADDsnVS4KZgnkIiy9zaokE29tNkqUl3PHrq+qgYsvxKT2wRTevY4og2XOgqky25YOx84ncnRyz6/GfSAGKLvMXl2PUMXE6MaSDgMhDTT8FM1985pveAnMYwuQcyTE1JTNL&cnc=false&pickupPointCode=PP-3066504&pid1=BUI-60033-01972",
+        "crawlAt": 1707037657059,
+        "_id": "65bf54031abe1c535fd55fcd"
     },
     {
         "marketplace": "blibli",
@@ -451,6 +545,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//111/MTA-7798719/iring_samsung_galaxy_note_8_note8_invisible_i_ring_iring_soft_case_tempered_glass_full01_l4f8l3re.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//111/MTA-7798719/iring_samsung_galaxy_note_8_note8_invisible_i_ring_iring_soft_case_tempered_glass_full02_c6e88do1.jpg"
         ],
+        "merchantName": "Bunso Indonesia",
         "price": {
             "originalPrice": 100000,
             "discount": 60,
@@ -464,7 +559,8 @@
             "Casing"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-note-8-note8-invisible-i-ring-iring-soft-case-tempered-glass/ps--BUI-60033-01225?ds=BUI-60033-01225-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1hoohFLFJVwVeGdsDku9ec49dEy+Qcw1pFFwtXMA2bd6BIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/kWb5w256LwNjT3swpYhADDsnVS4KZgnkIiy9zaokE29tNkqUl3PHrq+qgYsvxKT2wRTevY4og2XOgqky25YOx84ncnRyz6/GfSAGKLvMXl6fYDCNl9ovXkR0JgEoi86985pveAnMYwuQcyTE1JTNL&cnc=false&pickupPointCode=PP-3066504&pid1=BUI-60033-01225",
-        "crawlAt": 1706956307660
+        "crawlAt": 1707037657059,
+        "_id": "65bf54041abe1c535fd55fcf"
     },
     {
         "marketplace": "blibli",
@@ -475,6 +571,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-7801478/iring_samsung_galaxy_a7_2018_a72018_invisible_i_ring_iring_soft_case_tempered_glass_full10_q2iifttb.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-7801478/iring_samsung_galaxy_a7_2018_a72018_invisible_i_ring_iring_soft_case_tempered_glass_full11_hswufdjr.jpg"
         ],
+        "merchantName": "Bunso Indonesia",
         "price": {
             "originalPrice": 100000,
             "discount": 60,
@@ -488,32 +585,8 @@
             "Casing"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-a7-2018-a72018-invisible-i-ring-iring-soft-case-tempered-glass/ps--BUI-60033-01238?ds=BUI-60033-01238-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1p5gq3b06HjawEqL9H3Sky/OgTuDo5AEPCk/VoR7NS9U6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvgDGemfm5SNh5Jq9KPDEXJ5jzCxKTOmEWlperjuKJtK31FBTc87YP8sPvWm7FKE+rYMTLk5pIsoVQJmtwLacJnYvOraDWI0pCKeuYXD6zKYCpT14wSobMnF05qab41SltUq6VBV00TSMvh5kbZwrs+u&cnc=false&pickupPointCode=PP-3066504&pid1=BUI-60033-01238",
-        "crawlAt": 1706956307660
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Samsung Galaxy A9 2018 A92018 Invisible I Ring iRing Soft Case Tempered Glass",
-        "brand": "iRing",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//92/MTA-7801426/iring_samsung_galaxy_a9_2018_a92018_invisible_i_ring_iring_soft_case_tempered_glass_full12_lpzjbb2m.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//92/MTA-7801426/iring_samsung_galaxy_a9_2018_a92018_invisible_i_ring_iring_soft_case_tempered_glass_full08_c996flp2.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//92/MTA-7801426/iring_samsung_galaxy_a9_2018_a92018_invisible_i_ring_iring_soft_case_tempered_glass_full09_pv27zzob.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//92/MTA-7801426/iring_samsung_galaxy_a9_2018_a92018_invisible_i_ring_iring_soft_case_tempered_glass_full10_d3h93nur.jpg"
-        ],
-        "price": {
-            "originalPrice": 100000,
-            "discount": 60,
-            "finalPrice": 40000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 3,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Casing"
-        ],
-        "url": "https://blibli.com/p/samsung-galaxy-a9-2018-a92018-invisible-i-ring-iring-soft-case-tempered-glass/ps--BUI-60033-01237?ds=BUI-60033-01237-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1sHt2s+DPNzC/qy+zJlEIX89dEy+Qcw1pFFwtXMA2bd6BIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/kWb5w256LwNjT3swpYhADDsnVS4KZgnkIiy9zaokE29tNkqUl3PHrq+qgYsvxKT2wRTevY4og2XOgqky25YOx84ncnRyz6/GfSAGKLvMXl6fYDCNl9ovXkR0JgEoi86985pveAnMYwuQcyTE1JTNL&cnc=false&pickupPointCode=PP-3066504&pid1=BUI-60033-01237",
-        "crawlAt": 1706956307660
+        "crawlAt": 1707037657059,
+        "_id": "65bf54061abe1c535fd55fd1"
     },
     {
         "marketplace": "blibli",
@@ -523,6 +596,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//102/MTA-64963073/samsung_samsung-galaxy-a33-5g-8gb-128gb-new-_full01.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//102/MTA-64963073/samsung_samsung-galaxy-a33-5g-8gb-128gb-new-_full02.jpg"
         ],
+        "merchantName": "Restu cell.",
         "price": {
             "originalPrice": 0,
             "discount": 0,
@@ -536,7 +610,35 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-a33-5g-8gb-128gb-new/ps--REC-70170-00043?ds=REC-70170-00043-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1igbwLPbKKMBrsjRhg5GQhsMysj8GjKdV6vmNR+FLGu+V6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3404351&pid1=REC-70170-00043",
-        "crawlAt": 1706956307660
+        "crawlAt": 1707037657059,
+        "_id": "65bf54091abe1c535fd55fd3"
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Samsung Galaxy A9 2018 A92018 Invisible I Ring iRing Soft Case Tempered Glass",
+        "brand": "iRing",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//92/MTA-7801426/iring_samsung_galaxy_a9_2018_a92018_invisible_i_ring_iring_soft_case_tempered_glass_full12_lpzjbb2m.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//92/MTA-7801426/iring_samsung_galaxy_a9_2018_a92018_invisible_i_ring_iring_soft_case_tempered_glass_full08_c996flp2.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//92/MTA-7801426/iring_samsung_galaxy_a9_2018_a92018_invisible_i_ring_iring_soft_case_tempered_glass_full09_pv27zzob.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//92/MTA-7801426/iring_samsung_galaxy_a9_2018_a92018_invisible_i_ring_iring_soft_case_tempered_glass_full10_d3h93nur.jpg"
+        ],
+        "merchantName": "Bunso Indonesia",
+        "price": {
+            "originalPrice": 100000,
+            "discount": 60,
+            "finalPrice": 40000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 3,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Casing"
+        ],
+        "url": "https://blibli.com/p/samsung-galaxy-a9-2018-a92018-invisible-i-ring-iring-soft-case-tempered-glass/ps--BUI-60033-01237?ds=BUI-60033-01237-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1sHt2s+DPNzC/qy+zJlEIX89dEy+Qcw1pFFwtXMA2bd6BIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/kWb5w256LwNjT3swpYhADDsnVS4KZgnkIiy9zaokE29tNkqUl3PHrq+qgYsvxKT2wRTevY4og2XOgqky25YOx84ncnRyz6/GfSAGKLvMXl6fYDCNl9ovXkR0JgEoi86985pveAnMYwuQcyTE1JTNL&cnc=false&pickupPointCode=PP-3066504&pid1=BUI-60033-01237",
+        "crawlAt": 1707037657059,
+        "_id": "65bf540a1abe1c535fd55fd5"
     },
     {
         "marketplace": "blibli",
@@ -550,6 +652,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/96/MTA-146442543/samsung_monitor_samsung_led_ls24c330gaexxd_24-_full12_sygujkqz.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/96/MTA-146442543/samsung_monitor_samsung_led_ls24c330gaexxd_24-_full13_tuac8ixm.jpg"
         ],
+        "merchantName": "MEGACOMP Official Store",
         "price": {
             "originalPrice": 1358150,
             "discount": 2,
@@ -563,31 +666,8 @@
             "Monitor Komputer"
         ],
         "url": "https://blibli.com/p/monitor-samsung-led-ls24c330gaexxd-24/ps--MEP-60067-01806?ds=MEP-60067-01806-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1igbwLPbKKMBrsjRhg5GQhulUvAn7nmkciGROjb2T3BJV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYO+Bt8lF6uHShubdas43I/r7wOxHClP1aQp1Vq9llU5n24x0fmnjQobkI3ZMYz6m/Mrvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3227259&pid1=MEP-60067-01806",
-        "crawlAt": 1706956307660
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Samsung Galaxy A6 2018 A62018 Invisible I Ring iRing Soft Case Tempered Glass",
-        "brand": "iRing",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-7801603/iring_samsung_galaxy_a6_2018_a62018_invisible_i_ring_iring_soft_case_tempered_glass_full04_llfonwd3.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-7801603/iring_samsung_galaxy_a6_2018_a62018_invisible_i_ring_iring_soft_case_tempered_glass_full03_lhlhyyb4.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-7801603/iring_samsung_galaxy_a6_2018_a62018_invisible_i_ring_iring_soft_case_tempered_glass_full05_iyaeg6pj.jpg"
-        ],
-        "price": {
-            "originalPrice": 100000,
-            "discount": 60,
-            "finalPrice": 40000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 6,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Casing"
-        ],
-        "url": "https://blibli.com/p/samsung-galaxy-a6-2018-a62018-invisible-i-ring-iring-soft-case-tempered-glass/ps--BUI-60033-01239?ds=BUI-60033-01239-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1mcVsjhcdgPp+qTVepsj2RQ9dEy+Qcw1pFFwtXMA2bd6BIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/kWb5w256LwNjT3swpYhADDsnVS4KZgnkIiy9zaokE29tNkqUl3PHrq+qgYsvxKT2wRTevY4og2XOgqky25YOx84ncnRyz6/GfSAGKLvMXl6fYDCNl9ovXkR0JgEoi86985pveAnMYwuQcyTE1JTNL&cnc=false&pickupPointCode=PP-3066504&pid1=BUI-60033-01239",
-        "crawlAt": 1706956307660
+        "crawlAt": 1707037657059,
+        "_id": "65bf540b1abe1c535fd55fd7"
     },
     {
         "marketplace": "blibli",
@@ -597,6 +677,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//94/MTA-44191552/samsung_samsung_a03_core_full05_czivu4mt.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//94/MTA-44191552/samsung_samsung_a03_core_full06_uxvapid8.jpg"
         ],
+        "merchantName": "AS-PHONE",
         "price": {
             "originalPrice": 1165000,
             "discount": 0,
@@ -610,7 +691,34 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-a03-core/ps--ASE-70084-00045?ds=ASE-70084-00045-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1poYmPpp+4np1fbP+lKd4vuFEmGJ4s/jPQMFvzs/kqloVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX5S8zmthDZvuxaMAiMic0Z/VadLzfI1Uug6xRZEdsASicz0Rl8lfc9CnJqjMMx4lFpRiA2nX5MQkJ/wB53voxWG7TpFTM31J8iJEsajgAmGqZIyu1gXyKCeg3W1yjMq1TtHWJ2l6vVUDGMPRV5VPpjl&cnc=false&pickupPointCode=PP-3308906&pid1=ASE-70084-00045",
-        "crawlAt": 1706956307660
+        "crawlAt": 1707037657059,
+        "_id": "65bf540d1abe1c535fd55fd9"
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Samsung Galaxy A6 2018 A62018 Invisible I Ring iRing Soft Case Tempered Glass",
+        "brand": "iRing",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-7801603/iring_samsung_galaxy_a6_2018_a62018_invisible_i_ring_iring_soft_case_tempered_glass_full04_llfonwd3.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-7801603/iring_samsung_galaxy_a6_2018_a62018_invisible_i_ring_iring_soft_case_tempered_glass_full03_lhlhyyb4.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-7801603/iring_samsung_galaxy_a6_2018_a62018_invisible_i_ring_iring_soft_case_tempered_glass_full05_iyaeg6pj.jpg"
+        ],
+        "merchantName": "Bunso Indonesia",
+        "price": {
+            "originalPrice": 100000,
+            "discount": 60,
+            "finalPrice": 40000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 6,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Casing"
+        ],
+        "url": "https://blibli.com/p/samsung-galaxy-a6-2018-a62018-invisible-i-ring-iring-soft-case-tempered-glass/ps--BUI-60033-01239?ds=BUI-60033-01239-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1mcVsjhcdgPp+qTVepsj2RQ9dEy+Qcw1pFFwtXMA2bd6BIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/kWb5w256LwNjT3swpYhADDsnVS4KZgnkIiy9zaokE29tNkqUl3PHrq+qgYsvxKT2wRTevY4og2XOgqky25YOx84ncnRyz6/GfSAGKLvMXl6fYDCNl9ovXkR0JgEoi86985pveAnMYwuQcyTE1JTNL&cnc=false&pickupPointCode=PP-3066504&pid1=BUI-60033-01239",
+        "crawlAt": 1707037657059,
+        "_id": "65bf540e1abe1c535fd55fdb"
     },
     {
         "marketplace": "blibli",
@@ -621,6 +729,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-59332662/samsung_samsung_galaxy_a23_5g_6-128gb_full02_bc115221.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-59332662/samsung_samsung_galaxy_a23_5g_6-128gb_full03_3e5c9a9b.jpg"
         ],
+        "merchantName": "Sentra Pusat Gadget Official Store",
         "price": {
             "originalPrice": 0,
             "discount": 0,
@@ -634,7 +743,8 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-a23-5g-6-128gb/ps--SEP-60034-00739?ds=SEP-60034-00739-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1kL2FIqBQc+lQodUj2tZPWEnuCJsvNBU3SOQqc1s909CVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3037586&pid1=SEP-60034-00739",
-        "crawlAt": 1706956307660
+        "crawlAt": 1707037657059,
+        "_id": "65bf540f1abe1c535fd55fdd"
     },
     {
         "marketplace": "blibli",
@@ -643,6 +753,7 @@
         "images": [
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//107/MTA-4579982/samsung_samsung_a10s_-_2-32gb_full02_h8o6xc25.jpg"
         ],
+        "merchantName": "DRELEKTRONIK",
         "price": {
             "originalPrice": 0,
             "discount": 0,
@@ -656,7 +767,8 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-a10s-2-32gb/ps--DRK-60024-00023?ds=DRK-60024-00023-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1u4IuJbJOzg4UL5DOaFtlFKl7QWaLG2E0tlf4Sw8RPp7Vfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3095075&pid1=DRK-60024-00023",
-        "crawlAt": 1706956307660
+        "crawlAt": 1707037657059,
+        "_id": "65bf54101abe1c535fd55fdf"
     },
     {
         "marketplace": "blibli",
@@ -669,6 +781,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-2475617/samsung_samsung-clear-view-standing-galaxy-s9-_full32.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-2475617/samsung_samsung-clear-view-standing-galaxy-s9-_full33.jpg"
         ],
+        "merchantName": "khanza cell",
         "price": {
             "originalPrice": 700000,
             "discount": 64,
@@ -682,7 +795,8 @@
             "Casing"
         ],
         "url": "https://blibli.com/p/samsung-clear-view-stasing-casing-for-samsung-galaxy-s9/ps--KHC-60032-00160?ds=KHC-60032-00160-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1igbwLPbKKMBrsjRhg5GQhuUwJQy1EK3MRZ2W3Yt349M6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86POIUqKO9p5cMvC+z/NFTdpQlKQ42/GHkegkCqMU45W3Q=&cnc=false&pickupPointCode=PP-3102015&pid1=KHC-60032-00160",
-        "crawlAt": 1706956307660
+        "crawlAt": 1707037657059,
+        "_id": "65bf54121abe1c535fd55fe1"
     },
     {
         "marketplace": "blibli",
@@ -691,6 +805,7 @@
         "images": [
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//97/MTA-31095924/samsung_samsung_galaxy_a72_8-256_resmi_full02_h9e2nzm4.jpg"
         ],
+        "merchantName": "VALEN STORE",
         "price": {
             "originalPrice": 7299000,
             "discount": 18,
@@ -704,7 +819,8 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-a72-8-256-resmi-putih/ps--VAS-41278-00918?ds=VAS-41278-00918-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1mPLhyhOtMzhHDziRpiGCLtkIgQx8HIrYoV7O65gthNBVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3013060&pid1=VAS-41278-00918",
-        "crawlAt": 1706956307660
+        "crawlAt": 1707037657059,
+        "_id": "65bf54131abe1c535fd55fe3"
     },
     {
         "marketplace": "blibli",
@@ -714,6 +830,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//109/MTA-29696824/samsung_samsung_m12_-4-64gb-_samsung_galaxy_m12_4gb_64gb_garansi_resmi_full01_l6d8i9q6.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//109/MTA-29696824/samsung_samsung_m12_-4-64gb-_samsung_galaxy_m12_4gb_64gb_garansi_resmi_full02_g377zm5u.jpg"
         ],
+        "merchantName": "Home Elektronic",
         "price": {
             "originalPrice": 2099000,
             "discount": 13,
@@ -727,58 +844,8 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-m12-4-64gb-samsung-galaxy-m12-4gb-64gb-garansi-resmi/ps--HOE-70007-00297?ds=HOE-70007-00297-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1iYI2BDHujiFy09q4/uHexU+XKJiYX4SpXExrHEc1NROVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3487586&pid1=HOE-70007-00297",
-        "crawlAt": 1706956307660
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Samsung Galaxy M31 Invisible I Ring iRing Soft Case Tempered Glass",
-        "brand": "iRing",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-7788494/iring_samsung_galaxy_m31_invisible_i_ring_iring_soft_case_tempered_glass_full05_rtesj5f3.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-7788494/iring_samsung_galaxy_m31_invisible_i_ring_iring_soft_case_tempered_glass_full03_jxl7ml1r.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-7788494/iring_samsung_galaxy_m31_invisible_i_ring_iring_soft_case_tempered_glass_full02_ml2zvqay.jpg"
-        ],
-        "price": {
-            "originalPrice": 100000,
-            "discount": 60,
-            "finalPrice": 40000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 31,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Casing"
-        ],
-        "url": "https://blibli.com/p/samsung-galaxy-m31-invisible-i-ring-iring-soft-case-tempered-glass/ps--BUI-60033-01211?ds=BUI-60033-01211-00003&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1pQ7KG86jukDeLDaMfcd1xHOgTuDo5AEPCk/VoR7NS9U6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvgDGemfm5SNh5Jq9KPDEXJ5jzCxKTOmEWlperjuKJtK31FBTc87YP8sPvWm7FKE+rYMTLk5pIsoVQJmtwLacJnYvOraDWI0pCKeuYXD6zKYCpT14wSobMnF05qab41SltUq6VBV00TSMvh5kbZwrs+u&cnc=false&pickupPointCode=PP-3066504&pid1=BUI-60033-01211",
-        "crawlAt": 1706956307660
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Samsung Galaxy Tablet Tab S9 Fe Fe+ Plus 5G Wifi RAM 6GB 8GB 12GB 128GB 256GB S9Fe Android",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-139676841/samsung_samsung_galaxy_tablet_tab_s9_fe_fe-_plus_5g_wifi_ram_6gb_8gb_12gb_128gb_256gb_s9fe_android_full08_okqg7m7d.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/108/MTA-139676841/samsung_samsung_galaxy_tablet_tab_s9_fe_fe-_plus_5g_wifi_ram_6gb_8gb_12gb_128gb_256gb_s9fe_android_full01_kiym5hvn.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/108/MTA-139676841/samsung_samsung_galaxy_tablet_tab_s9_fe_fe-_plus_5g_wifi_ram_6gb_8gb_12gb_128gb_256gb_s9fe_android_full02_fl16atl1.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/108/MTA-139676841/samsung_samsung_galaxy_tablet_tab_s9_fe_fe-_plus_5g_wifi_ram_6gb_8gb_12gb_128gb_256gb_s9fe_android_full03_egrm85l9.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/108/MTA-139676841/samsung_samsung_galaxy_tablet_tab_s9_fe_fe-_plus_5g_wifi_ram_6gb_8gb_12gb_128gb_256gb_s9fe_android_full04_7pw5qxj.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/108/MTA-139676841/samsung_samsung_galaxy_tablet_tab_s9_fe_fe-_plus_5g_wifi_ram_6gb_8gb_12gb_128gb_256gb_s9fe_android_full05_r504k1xm.jpg"
-        ],
-        "price": {
-            "originalPrice": 6499000,
-            "discount": 8,
-            "finalPrice": 5949000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 1,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Tablet",
-            "Tablet Android"
-        ],
-        "url": "https://blibli.com/p/samsung-galaxy-tablet-tab-s9-fe-fe-plus-5g-wifi-ram-6gb-8gb-12gb-128gb-256gb-s9fe-android/ps--FEO-16605-04818?ds=FEO-16605-04818-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1igbwLPbKKMBrsjRhg5GQhvP9SVhhHarB/+LvMLBtl05V6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70MpLMfP88iQTh28yrud9gP8L8fQNr+iQQraBtd3ylN43svJqIi2XqjxFa1WXD2Hq7li0nCtQOqY4utJmZa0EvR2ZzpOOMdOk17yww/hFY7T1CC5SLDDkk/NXp4m5tkHYA32TeETumckatdkLB2bGJ7r&cnc=false&pickupPointCode=PP-3140310&pid1=FEO-16605-04818",
-        "crawlAt": 1706956307660
+        "crawlAt": 1707037657059,
+        "_id": "65bf54161abe1c535fd55fe5"
     },
     {
         "marketplace": "blibli",
@@ -788,6 +855,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-41135890/samsung_samsung_galaxy_a53_5g_smartphone_-8-128gb-_full01_u6b0ns32.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-41135890/samsung_samsung_galaxy_a53_5g_smartphone_-8-128gb-_full02_r3ua9s2h.jpg"
         ],
+        "merchantName": "Ucellcempaka Official Store",
         "price": {
             "originalPrice": 5999000,
             "discount": 23,
@@ -801,7 +869,63 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-a53-5g-8-128gb-garansi-resmi/ps--UCA-60023-00576?ds=UCA-60023-00576-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1glXvEa/ey9ABMCrC8d7ex2itIXbc8dTWu5GJ8EzGKYaVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX5S8zmthDZvuxaMAiMic0Z/VadLzfI1Uug6xRZEdsASicz0Rl8lfc9CnJqjMMx4lFpRiA2nX5MQkJ/wB53voxWG7TpFTM31J8iJEsajgAmGqZIyu1gXyKCeg3W1yjMq1TtHWJ2l6vVUDGMPRV5VPpjl&cnc=false&pickupPointCode=PP-3091938&pid1=UCA-60023-00576",
-        "crawlAt": 1706956307660
+        "crawlAt": 1707037657059,
+        "_id": "65bf541a1abe1c535fd55fe7"
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Samsung Galaxy Tablet Tab S9 Fe Fe+ Plus 5G Wifi RAM 6GB 8GB 12GB 128GB 256GB S9Fe Android",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-139676841/samsung_samsung_galaxy_tablet_tab_s9_fe_fe-_plus_5g_wifi_ram_6gb_8gb_12gb_128gb_256gb_s9fe_android_full08_okqg7m7d.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/108/MTA-139676841/samsung_samsung_galaxy_tablet_tab_s9_fe_fe-_plus_5g_wifi_ram_6gb_8gb_12gb_128gb_256gb_s9fe_android_full01_kiym5hvn.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/108/MTA-139676841/samsung_samsung_galaxy_tablet_tab_s9_fe_fe-_plus_5g_wifi_ram_6gb_8gb_12gb_128gb_256gb_s9fe_android_full02_fl16atl1.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/108/MTA-139676841/samsung_samsung_galaxy_tablet_tab_s9_fe_fe-_plus_5g_wifi_ram_6gb_8gb_12gb_128gb_256gb_s9fe_android_full03_egrm85l9.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/108/MTA-139676841/samsung_samsung_galaxy_tablet_tab_s9_fe_fe-_plus_5g_wifi_ram_6gb_8gb_12gb_128gb_256gb_s9fe_android_full04_7pw5qxj.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/108/MTA-139676841/samsung_samsung_galaxy_tablet_tab_s9_fe_fe-_plus_5g_wifi_ram_6gb_8gb_12gb_128gb_256gb_s9fe_android_full05_r504k1xm.jpg"
+        ],
+        "merchantName": "Super Gadget ",
+        "price": {
+            "originalPrice": 6499000,
+            "discount": 8,
+            "finalPrice": 5949000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 1,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Tablet",
+            "Tablet Android"
+        ],
+        "url": "https://blibli.com/p/samsung-galaxy-tablet-tab-s9-fe-fe-plus-5g-wifi-ram-6gb-8gb-12gb-128gb-256gb-s9fe-android/ps--FEO-16605-04818?ds=FEO-16605-04818-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1igbwLPbKKMBrsjRhg5GQhvP9SVhhHarB/+LvMLBtl05V6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70MpLMfP88iQTh28yrud9gP8L8fQNr+iQQraBtd3ylN43svJqIi2XqjxFa1WXD2Hq7li0nCtQOqY4utJmZa0EvR2ZzpOOMdOk17yww/hFY7T1CC5SLDDkk/NXp4m5tkHYA32TeETumckatdkLB2bGJ7r&cnc=false&pickupPointCode=PP-3140310&pid1=FEO-16605-04818",
+        "crawlAt": 1707037657059,
+        "_id": "65bf541c1abe1c535fd55fe9"
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Samsung Galaxy M31 Invisible I Ring iRing Soft Case Tempered Glass",
+        "brand": "iRing",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-7788494/iring_samsung_galaxy_m31_invisible_i_ring_iring_soft_case_tempered_glass_full05_rtesj5f3.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-7788494/iring_samsung_galaxy_m31_invisible_i_ring_iring_soft_case_tempered_glass_full03_jxl7ml1r.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-7788494/iring_samsung_galaxy_m31_invisible_i_ring_iring_soft_case_tempered_glass_full02_ml2zvqay.jpg"
+        ],
+        "merchantName": "Bunso Indonesia",
+        "price": {
+            "originalPrice": 100000,
+            "discount": 60,
+            "finalPrice": 40000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 31,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Casing"
+        ],
+        "url": "https://blibli.com/p/samsung-galaxy-m31-invisible-i-ring-iring-soft-case-tempered-glass/ps--BUI-60033-01211?ds=BUI-60033-01211-00003&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1pQ7KG86jukDeLDaMfcd1xHOgTuDo5AEPCk/VoR7NS9U6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvgDGemfm5SNh5Jq9KPDEXJ5jzCxKTOmEWlperjuKJtK31FBTc87YP8sPvWm7FKE+rYMTLk5pIsoVQJmtwLacJnYvOraDWI0pCKeuYXD6zKYCpT14wSobMnF05qab41SltUq6VBV00TSMvh5kbZwrs+u&cnc=false&pickupPointCode=PP-3066504&pid1=BUI-60033-01211",
+        "crawlAt": 1707037657059,
+        "_id": "65bf541d1abe1c535fd55feb"
     },
     {
         "marketplace": "blibli",
@@ -815,6 +939,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/96/MTA-131286183/samsung_samsung_43t5001_full_hd_digital_led_tv_43_inch_t5001_full05_k4z78bls.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-131286183/samsung_samsung_43t5001_-_43_t5001_full_hd_digital_led_tv_43_inch_-_garansi_resmi_full01_g7x6rmbj.jpg"
         ],
+        "merchantName": "SINAR AGUNG ELEKTRONIK FBB Official Store",
         "price": {
             "originalPrice": 3500000,
             "discount": 20,
@@ -830,32 +955,8 @@
             "Basic TV 40-49 Inch"
         ],
         "url": "https://blibli.com/p/samsung-43t5001-43-t5001-full-hd-digital-led-tv-43-inch-garansi-resmi/ps--SIA-48886-00433?ds=SIA-48886-00433-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1iYI2BDHujiFy09q4/uHexWB0+SUwfk7Xu+zNmlswVtSVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX5S8zmthDZvuxaMAiMic0Z/VadLzfI1Uug6xRZEdsASicz0Rl8lfc9CnJqjMMx4lFpRiA2nX5MQkJ/wB53voxWGZkf/3lGKAJ3+RleFPm3I7GXtqb8NV8ICHct6fbFMUYMCo0l2HZvSnq95wXiklFIMJ7216Si69yisks2aI+v8fAX60O94pcudF/X845NSITA=&cnc=false&pickupPointCode=PP-3466802&pid1=SIA-48886-00433",
-        "crawlAt": 1706956307660
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Samsung Galaxy A14 5G 6/128GB",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//126/MTA-89987499/samsung_samsung_a14_5g_6-128gb_full03_iwl0tgfe.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//126/MTA-89987499/samsung_samsung_a14_5g_6-128gb_full01_gtxsa760.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//126/MTA-89987499/samsung_samsung_a14_5g_6-128gb_full02_kptrox91.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//126/MTA-89987499/samsung_samsung_a14_5g_6-128gb_full04_snf47gs9.jpg"
-        ],
-        "price": {
-            "originalPrice": 2999000,
-            "discount": 7,
-            "finalPrice": 2799000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 8,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Handphone",
-            "Android"
-        ],
-        "url": "https://blibli.com/p/samsung-galaxy-a14-5g-6-128gb/ps--SES-60074-00636?ds=SES-60074-00636-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1pGTFXj2OkmKf+AOWXtSxPLXy8oILbPQ+dNyn5sFnBquV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3042374&pid1=SES-60074-00636",
-        "crawlAt": 1706956307660
+        "crawlAt": 1707037657059,
+        "_id": "65bf541e1abe1c535fd55fed"
     },
     {
         "marketplace": "blibli",
@@ -872,6 +973,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//114/MTA-94985655/samsung_samsung_galaxy_a54_5g_smartphone_-8-256gb-_garansi_resmi_full06_c546ce32.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//114/MTA-94985655/samsung_samsung_galaxy_a54_5g_smartphone_-8-256gb-_garansi_resmi_full07_342a1eb4.jpg"
         ],
+        "merchantName": "Global Teleshop Official Store",
         "price": {
             "originalPrice": 6399000,
             "discount": 6,
@@ -885,15 +987,45 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-a54-5g-smartphone-8-256gb-garansi-resmi/ps--GLP-60023-00863?ds=GLP-60023-00863-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1sHt2s+DPNzC/qy+zJlEIX+fkEhLUEQeAZIJmjhDEt2cV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3098398&pid1=GLP-60023-00863",
-        "crawlAt": 1706956307660
+        "crawlAt": 1707037657059,
+        "_id": "65bf54201abe1c535fd55fef"
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Samsung Galaxy A14 5G 6/128GB",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//126/MTA-89987499/samsung_samsung_a14_5g_6-128gb_full03_iwl0tgfe.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//126/MTA-89987499/samsung_samsung_a14_5g_6-128gb_full01_gtxsa760.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//126/MTA-89987499/samsung_samsung_a14_5g_6-128gb_full02_kptrox91.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//126/MTA-89987499/samsung_samsung_a14_5g_6-128gb_full04_snf47gs9.jpg"
+        ],
+        "merchantName": "Sentris.id Official Store",
+        "price": {
+            "originalPrice": 2999000,
+            "discount": 7,
+            "finalPrice": 2799000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 8,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Handphone",
+            "Android"
+        ],
+        "url": "https://blibli.com/p/samsung-galaxy-a14-5g-6-128gb/ps--SES-60074-00636?ds=SES-60074-00636-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1pGTFXj2OkmKf+AOWXtSxPLXy8oILbPQ+dNyn5sFnBquV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3042374&pid1=SES-60074-00636",
+        "crawlAt": 1707037657059,
+        "_id": "65bf54221abe1c535fd55ff1"
     },
     {
         "marketplace": "blibli",
         "productName": "Samsung Galaxy S21 FE",
         "brand": "Samsung",
         "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/90/MTA-110454434/samsung_samsung_galaxy_s21_fe_full05_e8iq2c77.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/90/MTA-110454434/samsung_samsung_galaxy_s21_fe_full02_tb9zvn5b.jpg"
         ],
+        "merchantName": "Jikalaku",
         "price": {
             "originalPrice": 0,
             "discount": 0,
@@ -906,73 +1038,8 @@
             "Handphone",
             "Android"
         ],
-        "url": "https://blibli.com/p/samsung-galaxy-s21-fe/ps--SIA-60028-01817?ds=SIA-60028-01817-00006&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gVM1r7pUcMHMSa2GcVlGJ8101wS42fUb3a4kPT/9RfsV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3034298&pid1=SIA-60028-01817",
-        "crawlAt": 1706956307660
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Samsung Galaxy S20 FE S20FE Magnetic Case Glass Back Metal Cover Casing",
-        "brand": "Magnetic",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//113/MTA-9748778/magnetic_samsung_galaxy_s20_fe_s20fe_magnetic_case_glass_back_metal_cover_casing_full03_pt35mfho.jpg"
-        ],
-        "price": {
-            "originalPrice": 130000,
-            "discount": 58,
-            "finalPrice": 55000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 3,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Casing"
-        ],
-        "url": "https://blibli.com/p/samsung-galaxy-s20-fe-s20fe-magnetic-case-glass-back-metal-cover-casing/ps--BUI-60033-01732?ds=BUI-60033-01732-00003&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1sHt2s+DPNzC/qy+zJlEIX+6tKNCVnn/km3zdj218nsbBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/kWb5w256LwNjT3swpYhADDsnVS4KZgnkIiy9zaokE29tNkqUl3PHrq+qgYsvxKT2wRTevY4og2XOgqky25YOx84ncnRyz6/GfSAGKLvMXl6fYDCNl9ovXkR0JgEoi86985pveAnMYwuQcyTE1JTNL&cnc=false&pickupPointCode=PP-3066504&pid1=BUI-60033-01732",
-        "crawlAt": 1706956307660
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "OEM Clear View Standing Flip Cover Casing for samsung galaxy J700 J7 2015",
-        "brand": "OEM",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//101/MTA-3919457/oem_oem_clear_view_standing_flip_cover_casing_for_samsung_galaxy_j700_j7_2015_full08.jpg"
-        ],
-        "price": {
-            "originalPrice": 130000,
-            "discount": 58,
-            "finalPrice": 55000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 5,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Casing"
-        ],
-        "url": "https://blibli.com/p/oem-clear-view-standing-flip-cover-casing-for-samsung-galaxy-j700-j7-2015/ps--BUI-60033-00254?ds=BUI-60033-00254-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1hoohFLFJVwVeGdsDku9ec66tKNCVnn/km3zdj218nsbBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/kWb5w256LwNjT3swpYhADDsnVS4KZgnkIiy9zaokE29tNkqUl3PHrq+qgYsvxKT2wRTevY4og2XOgqky25YOx84ncnRyz6/GfSAGKLvMXl6fYDCNl9ovXkR0JgEoi86985pveAnMYwuQcyTE1JTNL&cnc=false&pickupPointCode=PP-3066504&pid1=BUI-60033-00254",
-        "crawlAt": 1706956307660
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Samsung A23 5g",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/96/MTA-102080748/samsung_samsung_a23_5g_full01_ofrxovmj.jpg"
-        ],
-        "price": {
-            "originalPrice": 0,
-            "discount": 0,
-            "finalPrice": 4020000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 8,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Handphone",
-            "Android"
-        ],
-        "url": "https://blibli.com/p/samsung-a23-5g/ps--MAC-70443-00017?ds=MAC-70443-00017-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1pGTFXj2OkmKf+AOWXtSxPLdH9d0cm1QFC5t1iCqGRwaV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3464886&pid1=MAC-70443-00017",
-        "crawlAt": 1706956307660
+        "url": "https://blibli.com/p/samsung-galaxy-s21-fe/ps--SIA-60028-01817?ds=SIA-60028-01817-00010&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gVM1r7pUcMHMSa2GcVlGJ8101wS42fUb3a4kPT/9RfsV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3034298&pid1=SIA-60028-01817",
+        "crawlAt": 1707037657059,
+        "_id": "65bf54251abe1c535fd55ff3"
     }
 ]

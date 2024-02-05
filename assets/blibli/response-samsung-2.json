@@ -1,6 +1,90 @@
 [
     {
         "marketplace": "blibli",
+        "productName": "Samsung Galaxy A05 Smartphone [4/64GB] + Travel Adaptor 25w",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-133551933/samsung_samsung_galaxy_a05_smartphone_-4-64gb-_-_travel_adaptor_25w_full01_rby4qe0t.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/96/MTA-133551933/samsung_samsung_galaxy_a05_smartphone_-4-64gb-_full01_j3vreqf4.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-133551933/samsung_samsung_galaxy_a05_smartphone_-4-64gb-_full02_ebr6senr.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-133551933/samsung_samsung_galaxy_a05_smartphone_-4-64gb-_full03_u89m1vco.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-133551933/samsung_samsung_galaxy_a05_smartphone_-4-64gb-_full04_kj2twgmd.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-133551933/samsung_samsung_galaxy_a05_smartphone_-4-64gb-_-_travel_adaptor_25w_full02_n2957yj6.jpg"
+        ],
+        "merchantName": "Samsung Official Store",
+        "price": {
+            "originalPrice": 1499000,
+            "discount": 3,
+            "finalPrice": 1449000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 495,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Handphone",
+            "Android"
+        ],
+        "url": "https://blibli.com/p/samsung-galaxy-a05-smartphone-4-64gb-travel-adaptor-25w/ps--SAO-60034-02289?ds=SAO-60034-02289-00003&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1mVVqK67acec4HsgqUmLH8ttdHzn5hX2qeHyte844F/VlsogVVfmUpV8Tbz8/WvDB0/Qd+PE2R+BYcbkg24R21veGaGYGFGYf25z1CaNjawdBgtRiqs/MAUme7ocrJ5UAquVtw0c/bnyKkeJ3r2OgtA0T0T2y5SVcq7DCnwmLMya5GtthzJzuC9/poT4qkNt9vp//9wnF99rtVaFwv1ETfeO88fyzvy/mZdUpEwHtXWE&cnc=false&pickupPointCode=PP-3036193&pid1=SAO-60034-02289",
+        "crawlAt": 1707037228071
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Samsung Galaxy A05 Smartphone [4/128GB] + Travel Adaptor 25w",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-133552045/samsung_samsung_galaxy_a05_smartphone_-4-128gb-_-_travel_adaptor_25w_full02_t878vc0c.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/92/MTA-133552045/samsung_samsung_galaxy_a05_smartphone_-4-128gb-_full02_dbiatjj4.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-133552045/samsung_samsung_galaxy_a05_smartphone_-4-128gb-_full06_fn25lehx.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-133552045/samsung_samsung_galaxy_a05_smartphone_-4-128gb-_full07_db2q7zrt.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-133552045/samsung_samsung_galaxy_a05_smartphone_-4-128gb-_full08_f0c5y9c8.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-133552045/samsung_samsung_galaxy_a05_smartphone_-4-128gb-_-_travel_adaptor_25w_full02_tj0jkghy.jpg"
+        ],
+        "merchantName": "Samsung Official Store",
+        "price": {
+            "originalPrice": 1699000,
+            "discount": 3,
+            "finalPrice": 1649000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 239,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Handphone",
+            "Android"
+        ],
+        "url": "https://blibli.com/p/samsung-galaxy-a05-smartphone-4-128gb-travel-adaptor-25w/ps--SAO-60034-02290?ds=SAO-60034-02290-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1hm3FQy+bST6wHmxkWbKovcgOAE87DPWv+p9pD+DCCO0lsogVVfmUpV8Tbz8/WvDB0/Qd+PE2R+BYcbkg24R21veGaGYGFGYf25z1CaNjawdBgtRiqs/MAUme7ocrJ5UAquVtw0c/bnyKkeJ3r2OgtA0T0T2y5SVcq7DCnwmLMya5GtthzJzuC9/poT4qkNt9vp//9wnF99rtVaFwv1ETfeO88fyzvy/mZdUpEwHtXWE&cnc=false&pickupPointCode=PP-3036193&pid1=SAO-60034-02290",
+        "crawlAt": 1707037228071
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Samsung Galaxy A05s Smartphone [6/128GB] + Travel Adaptor 25w",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-133552274/samsung_samsung_galaxy_a05s_smartphone_-6-128gb-_-_travel_adaptor_25w_full02_h46hb43u.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-133552274/samsung_samsung_galaxy_a05s_smartphone_-6-128gb-_full07_72199um.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-133552274/samsung_samsung_galaxy_a05s_smartphone_-6-128gb-_full08_eiuo5wfm.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-133552274/samsung_samsung_galaxy_a05s_smartphone_-6-128gb-_full09_n9b9qt0a.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-133552274/samsung_samsung_galaxy_a05s_smartphone_-6-128gb-_full05_uxc2bd6n.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-133552274/samsung_samsung_galaxy_a05s_smartphone_-6-128gb-_-_travel_adaptor_25w_full03_qfnv8sa6.jpg"
+        ],
+        "merchantName": "Samsung Official Store",
+        "price": {
+            "originalPrice": 2299000,
+            "discount": 3,
+            "finalPrice": 2219000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 586,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Handphone",
+            "Android"
+        ],
+        "url": "https://blibli.com/p/samsung-galaxy-a05s-smartphone-6-128gb-travel-adaptor-25w/ps--SAO-60034-02292?ds=SAO-60034-02292-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1pvdwsi2xtdx+2/boL6jWFowCX3O97xRT8EgAeuyAva2lsogVVfmUpV8Tbz8/WvDB0/Qd+PE2R+BYcbkg24R21veGaGYGFGYf25z1CaNjawdBgtRiqs/MAUme7ocrJ5UAquVtw0c/bnyKkeJ3r2OgtA0T0T2y5SVcq7DCnwmLMya5GtthzJzuC9/poT4qkNt9vp//9wnF99rtVaFwv1ETfeO88fyzvy/mZdUpEwHtXWE&cnc=false&pickupPointCode=PP-3036193&pid1=SAO-60034-02292",
+        "crawlAt": 1707037228071
+    },
+    {
+        "marketplace": "blibli",
         "productName": "Samsung Galaxy A54 5G Smartphone (8/128GB)",
         "brand": "Samsung",
         "images": [
@@ -14,20 +98,21 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/MTA-93388193/samsung_samsung_galaxy_a54_5g_smartphone_-8-128gb-_full19_vddedttx.png",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-93388193/samsung_samsung_galaxy_a54_5g_smartphone_-8-128gb-_full02_t6k7m3nn.jpg"
         ],
+        "merchantName": "Samsung Official Store",
         "price": {
             "originalPrice": 5999000,
             "discount": 13,
             "finalPrice": 5249000
         },
         "category": "Handphone & Tablet",
-        "sell": 319,
+        "sell": 327,
         "categoryList": [
             "Handphone & Tablet",
             "Handphone",
             "Android"
         ],
-        "url": "https://blibli.com/p/samsung-galaxy-a54-5g-smartphone-8-128gb/ps--SAO-60034-02094?ds=SAO-60034-02094-00003&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1mFIcqpUllm5CR5rXLzl/6AC3/K1UhgOXBdqvl2MqvXZlsogVVfmUpV8Tbz8/WvDB0/Qd+PE2R+BYcbkg24R21ueL9F9e2M76YsQGLUm9TigHjCITnaWFAGh4FHnHRTkmp2KnAun/YYLvwc268FM3NiL59VZTgWpMbeYqGkFrJSh7AOVPD2SpZKfjAs2aksZMMLpEI+vdGef6g8NpVxWl320XBPM8Ib69hRyb0y0TLR/&cnc=false&pickupPointCode=PP-3036193&pid1=SAO-60034-02094",
-        "crawlAt": 1706956257012
+        "url": "https://blibli.com/p/samsung-galaxy-a54-5g-smartphone-8-128gb/ps--SAO-60034-02094?ds=SAO-60034-02094-00003&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1oAi5jOb1fVgAN6MOIMDWrMC3/K1UhgOXBdqvl2MqvXZlsogVVfmUpV8Tbz8/WvDB0/Qd+PE2R+BYcbkg24R21ueL9F9e2M76YsQGLUm9TigHjCITnaWFAGh4FHnHRTkmp2KnAun/YYLvwc268FM3NiL59VZTgWpMbeYqGkFrJSh7AOVPD2SpZKfjAs2aksZMMLpEI+vdGef6g8NpVxWl320XBPM8Ib69hRyb0y0TLR/&cnc=false&pickupPointCode=PP-3036193&pid1=SAO-60034-02094",
+        "crawlAt": 1707037228071
     },
     {
         "marketplace": "blibli",
@@ -44,6 +129,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-93388462/samsung_samsung_galaxy_a54_5g_smartphone_-8-256gb-_full04_i83rwaum.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-93388462/samsung_samsung_galaxy_a54_5g_smartphone_-8-256gb-_full02_klqxdxym.jpg"
         ],
+        "merchantName": "Samsung Official Store",
         "price": {
             "originalPrice": 6399000,
             "discount": 11,
@@ -56,8 +142,8 @@
             "Handphone",
             "Android"
         ],
-        "url": "https://blibli.com/p/samsung-galaxy-a54-5g-smartphone-8-256gb/ps--SAO-60034-02095?ds=SAO-60034-02095-00004&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1sOpr6TcF8WH1SWW7ElWBxZKqP4EMyTUCjk3gsX2IiuSssFoHe0ux6oJFT/XRXpCLib/SBy6IB1M3IaqMuoteMxUHRnX0XlLc4mbrFU85AX5uwU8CHZPPj+WC4axMhQ3Xpp1dxJur/tJaCG+yveKP755bzPYvzhwgcSRqReRQnHZrfNytHYOUNnyyFJEz0AFJqF94tqEKbvU0jVWf8WeIMBi18XUN4IWU/HqfOMfURcY&cnc=false&pickupPointCode=PP-3036193&pid1=SAO-60034-02095",
-        "crawlAt": 1706956257012
+        "url": "https://blibli.com/p/samsung-galaxy-a54-5g-smartphone-8-256gb/ps--SAO-60034-02095?ds=SAO-60034-02095-00004&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1oStLtiBZ+CZzj/nufmyC+BKqP4EMyTUCjk3gsX2IiuSssFoHe0ux6oJFT/XRXpCLib/SBy6IB1M3IaqMuoteMxUHRnX0XlLc4mbrFU85AX5uwU8CHZPPj+WC4axMhQ3Xpp1dxJur/tJaCG+yveKP755bzPYvzhwgcSRqReRQnHZrfNytHYOUNnyyFJEz0AFJqF94tqEKbvU0jVWf8WeIMBi18XUN4IWU/HqfOMfURcY&cnc=false&pickupPointCode=PP-3036193&pid1=SAO-60034-02095",
+        "crawlAt": 1707037228071
     },
     {
         "marketplace": "blibli",
@@ -66,6 +152,7 @@
         "images": [
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/91/MTA-140055641/samsung_samsung_galaxy_a05_6-128gb_4-128gb_4-128gb_garansi_resmi_full02_dccafsj8.jpg"
         ],
+        "merchantName": "Gadgetindo Official Store",
         "price": {
             "originalPrice": 1599000,
             "discount": 12,
@@ -79,7 +166,34 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-a05-6-128gb-4-128gb-4-128gb-garansi-resmi/ps--ARD-70044-00797?ds=ARD-70044-00797-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1kL2FIqBQc+lQodUj2tZPWHCK3sjXbMY27Vv2OwraTamVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX5S8zmthDZvuxaMAiMic0Z/VadLzfI1Uug6xRZEdsASicz0Rl8lfc9CnJqjMMx4lFpRiA2nX5MQkJ/wB53voxWG7TpFTM31J8iJEsajgAmGqZIyu1gXyKCeg3W1yjMq1TtHWJ2l6vVUDGMPRV5VPpjl&cnc=false&pickupPointCode=PP-3203996&pid1=ARD-70044-00797",
-        "crawlAt": 1706956257012
+        "crawlAt": 1707037228071
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Promo Case Maple Samsung A32 4G Softcase Silikon Elektro Plating Mewah Bonus Tali Strap",
+        "brand": "tidak ada merk",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/89/MTA-122043148/brd-60517_promo-case-maple-samsung-a32-4g-softcase-silikon-elektro-plating-mewah-bonus-tali-strap_full01-6d1880b9.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/89/MTA-122043148/brd-60517_promo-case-maple-samsung-a32-4g-softcase-silikon-elektro-plating-mewah-bonus-tali-strap_full07-7666ea7c.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/89/MTA-122043148/brd-60517_promo-case-maple-samsung-a32-4g-softcase-silikon-elektro-plating-mewah-bonus-tali-strap_full03-586cb7af.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/89/MTA-122043148/brd-60517_promo-case-maple-samsung-a32-4g-softcase-silikon-elektro-plating-mewah-bonus-tali-strap_full04-e3c63ffe.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/89/MTA-122043148/brd-60517_promo-case-maple-samsung-a32-4g-softcase-silikon-elektro-plating-mewah-bonus-tali-strap_full05-0b6fda8a.jpg"
+        ],
+        "merchantName": "ARSUM CASE",
+        "price": {
+            "originalPrice": 32000,
+            "discount": 16,
+            "finalPrice": 27000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 1,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Aksesoris Handphone & Tablet",
+            "Casing"
+        ],
+        "url": "https://blibli.com/p/promo-case-maple-samsung-a32-4g-softcase-silikon-elektro-plating-mewah-bonus-tali-strap/ps--ARC-70290-02051?ds=ARC-70290-02051-00003&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1igbwLPbKKMBrsjRhg5GQhugjXSN1bD+LSZi6zRvzGLWBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aZyNa4lr5t5nmCNGGkFUiPkvcnYFT3umgteJlcsl6vpVQ4mQJV0iPtTkz+ALVZefk&cnc=false&pickupPointCode=PP-3391458&pid1=ARC-70290-02051",
+        "crawlAt": 1707037228071
     },
     {
         "marketplace": "blibli",
@@ -89,6 +203,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//109/MTA-59361499/samsung_samsung_galaxy_s20fe_smartphone_-8gb-128gb-_full04_q1noyvsq.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//109/MTA-59361499/samsung_samsung_galaxy_s20fe_smartphone_-8gb-128gb-_full03_b1efic9m.jpg"
         ],
+        "merchantName": "Tukar Tambah Store Instore",
         "price": {
             "originalPrice": 0,
             "discount": 0,
@@ -102,7 +217,7 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-s20fe-8gb-128gb-smartphone/ps--TUT-70022-00405?ds=TUT-70022-00405-00003&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1iYI2BDHujiFy09q4/uHexX+QitMzwNmIdWAekFCiwoaVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3343276&pid1=TUT-70022-00405",
-        "crawlAt": 1706956257012
+        "crawlAt": 1707037228071
     },
     {
         "marketplace": "blibli",
@@ -115,6 +230,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/104/MTA-147910288/samsung_samsung_galaxy_s23_fe_5g_8-128gb_8-256gb_garansi_resmi_full04_kx6q4cxa.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/104/MTA-147910288/samsung_samsung_galaxy_s23_fe_5g_8-128gb_8-256gb_garansi_resmi_full05_jku0itzj.jpg"
         ],
+        "merchantName": "the greatest shop",
         "price": {
             "originalPrice": 0,
             "discount": 0,
@@ -128,16 +244,16 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-s23-fe-5g-8-128gb-8-256gb-garansi-resmi/ps--THG-70066-00138?ds=THG-70066-00138-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1pGTFXj2OkmKf+AOWXtSxPKNd1iK9KxbASioiTyo4Xk0V6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3483425&pid1=THG-70066-00138",
-        "crawlAt": 1706956257012
+        "crawlAt": 1707037228071
     },
     {
         "marketplace": "blibli",
         "productName": "Samsung Galaxy S23 FE Smartphone (8/128GB)",
         "brand": "Samsung",
         "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-136856264/samsung_samsung_galaxy_s23_fe_smartphone_-8-128gb-_full02_stmym6gd.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-136856264/samsung_samsung_galaxy_s23_fe_smartphone_-8-128gb-_full35_hnkovcq9.png",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-136856264/samsung_samsung_galaxy_s23_fe_smartphone_-8-128gb-_full36_d2599gqy.png",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-136856264/samsung_samsung_galaxy_s23_fe_smartphone_-8-128gb-_full01_vnz63bch.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-136856264/samsung_samsung_galaxy_s23_fe_smartphone_-8-128gb-_full24_raitx6z0.png",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-136856264/samsung_samsung_galaxy_s23_fe_smartphone_-8-128gb-_full30_g02s3jyf.png",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-136856264/samsung_samsung_galaxy_s23_fe_smartphone_-8-128gb-_full25_p5hafxnv.png",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-136856264/samsung_samsung_galaxy_s23_fe_smartphone_-8-128gb-_full26_kw8qvszd.png",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-136856264/samsung_samsung_galaxy_s23_fe_smartphone_-8-128gb-_full27_rf5jj4an.png",
@@ -145,44 +261,21 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-136856264/samsung_samsung_galaxy_s23_fe_smartphone_-8-128gb-_full29_jg3oa7ro.png",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-136856264/samsung_samsung_galaxy_s23_fe_smartphone_-8-128gb-_full02_mqo3lkki.jpg"
         ],
+        "merchantName": "Samsung Official Store",
         "price": {
             "originalPrice": 8999000,
             "discount": 3,
             "finalPrice": 8719000
         },
         "category": "Handphone & Tablet",
-        "sell": 42,
+        "sell": 44,
         "categoryList": [
             "Handphone & Tablet",
             "Handphone",
             "Android"
         ],
-        "url": "https://blibli.com/p/samsung-galaxy-s23-fe-smartphone-8-128gb/ps--SAO-60034-02299?ds=SAO-60034-02299-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1oSJRgwBSb7K2/zMIUMHwZOrME3+YJ/lF2C6ABPBdHqtVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX5S8zmthDZvuxaMAiMic0Z/VadLzfI1Uug6xRZEdsASicz0Rl8lfc9CnJqjMMx4lFpRiA2nX5MQkJ/wB53voxWG7TpFTM31J8iJEsajgAmGqZIyu1gXyKCeg3W1yjMq1TtHWJ2l6vVUDGMPRV5VPpjl&cnc=false&pickupPointCode=PP-3036193&pid1=SAO-60034-02299",
-        "crawlAt": 1706956257012
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Samsung Galaxy A15 4G LTE [8/128GB] +TA 25W RESMI SEIN",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/109/MTA-153567775/samsung_samsung_galaxy_a15_-8-128gb-_-ta_25w_resmi_sein_full02_ucwup143.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/109/MTA-153567775/samsung_samsung_galaxy_a15_-8-128gb-_-ta_25w_resmi_sein_full01_iqpeic8k.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/109/MTA-153567775/samsung_samsung_galaxy_a15_-8-128gb-_-ta_25w_resmi_sein_full03_br7uqq9x.jpg"
-        ],
-        "price": {
-            "originalPrice": 2899000,
-            "discount": 7,
-            "finalPrice": 2706400
-        },
-        "category": "Handphone & Tablet",
-        "sell": 6,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Handphone",
-            "Android"
-        ],
-        "url": "https://blibli.com/p/samsung-galaxy-a15-4g-lte-8-128gb-ta-25w-resmi-sein/ps--UNC-53496-00625?ds=UNC-53496-00625-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1mcVsjhcdgPp+qTVepsj2RRxOW6vrzKrEeHD6AW49UUlV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70MpLMfP88iQTh28yrud9gP8L8fQNr+iQQraBtd3ylN43svJqIi2XqjxFa1WXD2Hq7li0nCtQOqY4utJmZa0EvR2PLWjp7XXNx89qDNn9ZrNSX8CG88FJRCeLOsphecMqhL2TeETumckatdkLB2bGJ7r&cnc=false&pickupPointCode=PP-3018173&pid1=UNC-53496-00625",
-        "crawlAt": 1706956257012
+        "url": "https://blibli.com/p/samsung-galaxy-s23-fe-smartphone-8-128gb/ps--SAO-60034-02299?ds=SAO-60034-02299-00004&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1vfae4yyVrjmQUZZOhsMwEqrME3+YJ/lF2C6ABPBdHqtVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX5S8zmthDZvuxaMAiMic0Z/VadLzfI1Uug6xRZEdsASicz0Rl8lfc9CnJqjMMx4lFpRiA2nX5MQkJ/wB53voxWG7TpFTM31J8iJEsajgAmGqZIyu1gXyKCeg3W1yjMq1TtHWJ2l6vVUDGMPRV5VPpjl&cnc=false&pickupPointCode=PP-3036193&pid1=SAO-60034-02299",
+        "crawlAt": 1707037228071
     },
     {
         "marketplace": "blibli",
@@ -191,6 +284,7 @@
         "images": [
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/92/MTA-153061417/samsung_samsung_a15_lte_8-256_gb_garansi_resmi_-_promo_full03_qahmid8.jpg"
         ],
+        "merchantName": "CV INTOWN CELL INDONESIA",
         "price": {
             "originalPrice": 3299000,
             "discount": 5,
@@ -204,7 +298,7 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-a15-lte-8-256-gb-garansi-resmi-promo/ps--CVI-70037-00256?ds=CVI-70037-00256-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZEuLwRSppkGyDEHzIP5woIbV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3395611&pid1=CVI-70037-00256",
-        "crawlAt": 1706956257012
+        "crawlAt": 1707037228071
     },
     {
         "marketplace": "blibli",
@@ -217,6 +311,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/95/MTA-141147446/samsung_samsung_galaxy_a05s_6-128_garansi_resmi_samsung_indonesia_full18_uucog04p.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/95/MTA-141147446/samsung_samsung_galaxy_a05s_6-128_garansi_resmi_samsung_indonesia_full19_cblfrh0l.jpg"
         ],
+        "merchantName": "Vote VIP Official Store",
         "price": {
             "originalPrice": 3199000,
             "discount": 35,
@@ -230,31 +325,32 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-a05s-6-128-garansi-resmi-samsung-indonesia/ps--VOV-70000-00550?ds=VOV-70000-00550-00004&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1kL2FIqBQc+lQodUj2tZPWHOIU9PfoURG+xFsp9J3OW8Vfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX5S8zmthDZvuxaMAiMic0Z/VadLzfI1Uug6xRZEdsASicz0Rl8lfc9CnJqjMMx4lFpRiA2nX5MQkJ/wB53voxWG7TpFTM31J8iJEsajgAmGqZIyu1gXyKCeg3W1yjMq1TtHWJ2l6vVUDGMPRV5VPpjl&cnc=false&pickupPointCode=PP-3459261&pid1=VOV-70000-00550",
-        "crawlAt": 1706956257012
+        "crawlAt": 1707037228071
     },
     {
         "marketplace": "blibli",
         "productName": "Samsung Galaxy A05s Smartphone [6/128GB/N] + Travel Adaptor 25w",
         "brand": "Samsung",
         "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/100/MTA-152960930/samsung_samsung_galaxy_a05s_smartphone_-6-128gb-n-_-_travel_adaptor_25w_full10_ma0tsuju.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/100/MTA-152960930/samsung_samsung_galaxy_a05s_smartphone_-6-128gb-n-_-_travel_adaptor_25w_full11_qcoxlqi6.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/100/MTA-152960930/samsung_samsung_galaxy_a05s_smartphone_-6-128gb-n-_-_travel_adaptor_25w_full12_ihbyunmy.jpg"
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/100/MTA-152960930/samsung_samsung_galaxy_a05s_smartphone_-6-128gb-n-_-_travel_adaptor_25w_full12_ihbyunmy.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/100/MTA-152960930/samsung_samsung_galaxy_a05s_smartphone_-6-128gb-n-_-_travel_adaptor_25w_full10_ma0tsuju.jpg"
         ],
+        "merchantName": "Jual Hape Official Store",
         "price": {
             "originalPrice": 2299000,
             "discount": 8,
             "finalPrice": 2109000
         },
         "category": "Handphone & Tablet",
-        "sell": 5,
+        "sell": 16,
         "categoryList": [
             "Handphone & Tablet",
             "Handphone",
             "Android"
         ],
-        "url": "https://blibli.com/p/samsung-galaxy-a05s-smartphone-6-128gb-n-travel-adaptor-25w/ps--INL-60035-01116?ds=INL-60035-01116-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1hoohFLFJVwVeGdsDku9ec5t1xMiAP039Sqjsu50EAA+V6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70MpLMfP88iQTh28yrud9gP8L8fQNr+iQQraBtd3ylN43svJqIi2XqjxFa1WXD2Hq7li0nCtQOqY4utJmZa0EvR2PLWjp7XXNx89qDNn9ZrNSX8CG88FJRCeLOsphecMqhL2TeETumckatdkLB2bGJ7r&cnc=false&pickupPointCode=PP-3046516&pid1=INL-60035-01116",
-        "crawlAt": 1706956257012
+        "url": "https://blibli.com/p/samsung-galaxy-a05s-smartphone-6-128gb-n-travel-adaptor-25w/ps--INL-60035-01116?ds=INL-60035-01116-00004&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1glXvEa/ey9ABMCrC8d7ex3QMxCCWylu01TuX8AI4C5OVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX5S8zmthDZvuxaMAiMic0Z/VadLzfI1Uug6xRZEdsASicz0Rl8lfc9CnJqjMMx4lFpRiA2nX5MQkJ/wB53voxWG7TpFTM31J8iJEsajgAmGqZIyu1gXyKCeg3W1yjMq1TtHWJ2l6vVUDGMPRV5VPpjl&cnc=false&pickupPointCode=PP-3046516&pid1=INL-60035-01116",
+        "crawlAt": 1707037228071
     },
     {
         "marketplace": "blibli",
@@ -263,20 +359,21 @@
         "images": [
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-50414129/samsung_samsung_galaxy_zflip3_ram_8-256_gb_-garansi_resmi-_full01_u59rhz0p.jpg"
         ],
+        "merchantName": "Hokihp Official Store",
         "price": {
             "originalPrice": 14000000,
             "discount": 29,
             "finalPrice": 9905000
         },
         "category": "Handphone & Tablet",
-        "sell": 21,
+        "sell": 24,
         "categoryList": [
             "Handphone & Tablet",
             "Handphone",
             "Android"
         ],
-        "url": "https://blibli.com/p/samsung-galaxy-z-flip-3-ram-8-256-gb-garansi-resmi/ps--HOP-70008-00243?ds=HOP-70008-00243-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1seDbPZsUpQD1+5czNmjba9V5p1xsBthQ5kPej7THwlJVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX5S8zmthDZvuxaMAiMic0Z/VadLzfI1Uug6xRZEdsASicz0Rl8lfc9CnJqjMMx4lFpRiA2nX5MQkJ/wB53voxWG7TpFTM31J8iJEsajgAmGqZIyu1gXyKCeg3W1yjMq1TtHWJ2l6vVUDGMPRV5VPpjl&cnc=false&pickupPointCode=PP-3163107&pid1=HOP-70008-00243",
-        "crawlAt": 1706956257012
+        "url": "https://blibli.com/p/samsung-galaxy-z-flip-3-ram-8-256-gb-garansi-resmi/ps--HOP-70008-00243?ds=HOP-70008-00243-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1iYI2BDHujiFy09q4/uHexVV5p1xsBthQ5kPej7THwlJVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX5S8zmthDZvuxaMAiMic0Z/VadLzfI1Uug6xRZEdsASicz0Rl8lfc9CnJqjMMx4lFpRiA2nX5MQkJ/wB53voxWG7TpFTM31J8iJEsajgAmGqZIyu1gXyKCeg3W1yjMq1TtHWJ2l6vVUDGMPRV5VPpjl&cnc=false&pickupPointCode=PP-3163107&pid1=HOP-70008-00243",
+        "crawlAt": 1707037228071
     },
     {
         "marketplace": "blibli",
@@ -289,6 +386,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-137415331/samsung_samsung_galaxy_a05_4-128gb_full11_ge119c0r.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-137415331/samsung_samsung_galaxy_a05_4-128gb_full12_n96uoxzj.jpg"
         ],
+        "merchantName": "Ucellcempaka Official Store",
         "price": {
             "originalPrice": 1899000,
             "discount": 3,
@@ -302,31 +400,32 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-a05-6-128gb-travel-adapter-25w/ps--UCA-60023-00893?ds=UCA-60023-00893-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1sHt2s+DPNzC/qy+zJlEIX+tvgFctJ65v2YDeLGaK7TQV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70MpLMfP88iQTh28yrud9gP8L8fQNr+iQQraBtd3ylN43svJqIi2XqjxFa1WXD2Hq7li0nCtQOqY4utJmZa0EvR2PLWjp7XXNx89qDNn9ZrNSX8CG88FJRCeLOsphecMqhL2TeETumckatdkLB2bGJ7r&cnc=false&pickupPointCode=PP-3091938&pid1=UCA-60023-00893",
-        "crawlAt": 1706956257012
+        "crawlAt": 1707037228071
     },
     {
         "marketplace": "blibli",
         "productName": "Samsung Galaxy A05 Smartphone [6/128GB/N] + Travel Adaptor 25w",
         "brand": "Samsung",
         "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/101/MTA-152960923/samsung_samsung_galaxy_a05_smartphone_-6-128gb-n-_-_travel_adaptor_25w_full08_ewy2yu86.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/101/MTA-152960923/samsung_samsung_galaxy_a05_smartphone_-6-128gb-n-_-_travel_adaptor_25w_full09_k3lc0kqi.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/101/MTA-152960923/samsung_samsung_galaxy_a05_smartphone_-6-128gb-n-_-_travel_adaptor_25w_full07_bugxi57a.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/101/MTA-152960923/samsung_samsung_galaxy_a05_smartphone_-6-128gb-n-_-_travel_adaptor_25w_full09_k3lc0kqi.jpg"
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/101/MTA-152960923/samsung_samsung_galaxy_a05_smartphone_-6-128gb-n-_-_travel_adaptor_25w_full08_ewy2yu86.jpg"
         ],
+        "merchantName": "Jual Hape Official Store",
         "price": {
             "originalPrice": 1899000,
             "discount": 9,
             "finalPrice": 1725000
         },
         "category": "Handphone & Tablet",
-        "sell": 4,
+        "sell": 12,
         "categoryList": [
             "Handphone & Tablet",
             "Handphone",
             "Android"
         ],
-        "url": "https://blibli.com/p/samsung-galaxy-a05-smartphone-6-128gb-n-travel-adaptor-25w/ps--INL-60035-01115?ds=INL-60035-01115-00003&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1jivGClVoqEpHhqjcdJgG3Iiku58Jbp+I0/DNZggKxMzV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70MpLMfP88iQTh28yrud9gP8L8fQNr+iQQraBtd3ylN43svJqIi2XqjxFa1WXD2Hq7li0nCtQOqY4utJmZa0EvR2PLWjp7XXNx89qDNn9ZrNSX8CG88FJRCeLOsphecMqhL2TeETumckatdkLB2bGJ7r&cnc=false&pickupPointCode=PP-3046516&pid1=INL-60035-01115",
-        "crawlAt": 1706956257012
+        "url": "https://blibli.com/p/samsung-galaxy-a05-smartphone-6-128gb-n-travel-adaptor-25w/ps--INL-60035-01115?ds=INL-60035-01115-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1i1zUkDz0XPTp6rr5PUEIlUg7Rm8oGENwfRQp9hea7YlVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX5S8zmthDZvuxaMAiMic0Z/VadLzfI1Uug6xRZEdsASicz0Rl8lfc9CnJqjMMx4lFpRiA2nX5MQkJ/wB53voxWG7TpFTM31J8iJEsajgAmGqZIyu1gXyKCeg3W1yjMq1TtHWJ2l6vVUDGMPRV5VPpjl&cnc=false&pickupPointCode=PP-3046516&pid1=INL-60035-01115",
+        "crawlAt": 1707037228071
     },
     {
         "marketplace": "blibli",
@@ -339,6 +438,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-92116818/br-m036969-02885_samsung-a04s-ram-4-rom-64gb_full03.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-92116818/br-m036969-02885_samsung-a04s-ram-4-rom-64gb_full04.jpg"
         ],
+        "merchantName": "Mutiara Flasher Store",
         "price": {
             "originalPrice": 1975000,
             "discount": 30,
@@ -352,7 +452,7 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-a04s-ram-4-rom-64gb/ps--MUF-70056-00301?ds=MUF-70056-00301-00003&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1jivGClVoqEpHhqjcdJgG3ISmSHzck1hXFjaz7LIQuTlV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70MpLMfP88iQTh28yrud9gP8L8fQNr+iQQraBtd3ylN43svJqIi2XqjxFa1WXD2Hq7li0nCtQOqY4utJmZa0EvR2PLWjp7XXNx89qDNn9ZrNSX8CG88FJRCeLOsphecMqhL2TeETumckatdkLB2bGJ7r&cnc=false&pickupPointCode=PP-3394378&pid1=MUF-70056-00301",
-        "crawlAt": 1706956257012
+        "crawlAt": 1707037228071
     },
     {
         "marketplace": "blibli",
@@ -361,6 +461,7 @@
         "images": [
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//91/MTA-23124078/samsung_samsung_a32_full01_jywmd4up.jpg"
         ],
+        "merchantName": "BINTANG CELLULAR O2O",
         "price": {
             "originalPrice": 0,
             "discount": 0,
@@ -374,7 +475,7 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-a32/ps--BIC-70080-00001?ds=BIC-70080-00001-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1n2w4hyoSe9OWrWTVrMg3TbQq4+rmkrH7Ve5Ty0bujQcV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3257575&pid1=BIC-70080-00001",
-        "crawlAt": 1706956257012
+        "crawlAt": 1707037228071
     },
     {
         "marketplace": "blibli",
@@ -387,6 +488,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/MTA-7784039/uneed_uneed-hybrid-pro-anti-break-screen-protector-handphone-full-cover_full04.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/MTA-7784039/uneed_uneed-hybrid-pro-anti-break-screen-protector-handphone-full-cover_full05.jpg"
         ],
+        "merchantName": "Uneed Accessories Official Store ",
         "price": {
             "originalPrice": 199000,
             "discount": 60,
@@ -400,7 +502,7 @@
             "Screen Protector"
         ],
         "url": "https://blibli.com/p/uneed-hybrid-pro-anti-gores-anti-break-samsung-galaxy-fold-2/ps--UNI-60030-00333?ds=UNI-60030-00333-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1n2w4hyoSe9OWrWTVrMg3TbapLs+80NYKznwexMo0/8mBIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqmyhzwC1Pcf7exQx+5QKt8aO9+IA/O9Alm0sDqZ/gwLsWT+quUfPh5equX/0M72Hfc=&cnc=false&pickupPointCode=PP-3059631&pid1=UNI-60030-00333",
-        "crawlAt": 1706956257012
+        "crawlAt": 1707037228071
     },
     {
         "marketplace": "blibli",
@@ -415,20 +517,21 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-94654766/samsung_samsung_galaxy_a14_5g_smartphone_-6-128gb-_-_travel_adaptor_15w_full12_bzi3k97j.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-94654766/samsung_samsung_galaxy_a14_5g_smartphone_-6-128gb-_-_travel_adaptor_15w_full13_rqkqiqh6.jpg"
         ],
+        "merchantName": "Blibli (Ponsel)",
         "price": {
             "originalPrice": 2399000,
             "discount": 8,
             "finalPrice": 2199000
         },
         "category": "Handphone & Tablet",
-        "sell": 39,
+        "sell": 40,
         "categoryList": [
             "Handphone & Tablet",
             "Handphone",
             "Android"
         ],
-        "url": "https://blibli.com/p/samsung-galaxy-a14-lte-smartphone-4-128gb-travel-adaptor-15w-starter-pack-telkomsel-bundling-max/ps--BLP-60045-00522?ds=BLP-60045-00522-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1i9OHtJJb0SFLVLPopsUggQLKcZNDrCnWr++DQTcIgeUVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3092985&pid1=BLP-60045-00522",
-        "crawlAt": 1706956257012
+        "url": "https://blibli.com/p/samsung-galaxy-a14-lte-smartphone-4-128gb-travel-adaptor-15w-starter-pack-telkomsel-bundling-max/ps--BLP-60045-00522?ds=BLP-60045-00522-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1kRrvvgByLHjT0ingGnpBJsLKcZNDrCnWr++DQTcIgeUVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3092985&pid1=BLP-60045-00522",
+        "crawlAt": 1707037228071
     },
     {
         "marketplace": "blibli",
@@ -440,6 +543,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-95429215/samsung_samsung_galaxy_a54_5g_garansi_resmi_sein_full03_teh1iq0h.jpeg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-95429215/samsung_samsung_galaxy_a54_5g_garansi_resmi_sein_full04_jbe9om9r.jpeg"
         ],
+        "merchantName": "Senjaya Selindo Official Store",
         "price": {
             "originalPrice": 5999000,
             "discount": 10,
@@ -453,7 +557,8 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-a54-5g-garansi-resmi-sein/ps--SES-70404-00214?ds=SES-70404-00214-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1vxne5HTVK2oSErbEkAVUaBb1FIxZceiJRYfA4vee2HGVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX5S8zmthDZvuxaMAiMic0Z/VadLzfI1Uug6xRZEdsASicz0Rl8lfc9CnJqjMMx4lFpRiA2nX5MQkJ/wB53voxWG7TpFTM31J8iJEsajgAmGqZIyu1gXyKCeg3W1yjMq1TtHWJ2l6vVUDGMPRV5VPpjl&cnc=false&pickupPointCode=PP-3319326&pid1=SES-70404-00214",
-        "crawlAt": 1706956257012
+        "crawlAt": 1707037228071,
+        "_id": "65bf52521abe1c535fd55e9c"
     },
     {
         "marketplace": "blibli",
@@ -463,6 +568,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//103/MTA-62421988/samsung_samsung_galaxy_a23_5g_6-128gb_full05_e8tod2o2.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//103/MTA-62421988/samsung_samsung_galaxy_a23_5g_6-128gb_full01_jtc2j7wk.jpg"
         ],
+        "merchantName": "Telering - Samsung Official Store",
         "price": {
             "originalPrice": 0,
             "discount": 0,
@@ -476,7 +582,8 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-a23-5g-6-128gb/ps--SAT-60079-00317?ds=SAT-60079-00317-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gVM1r7pUcMHMSa2GcVlGJ8wiiWu1W6D9xilWdtSj+/7V6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3107954&pid1=SAT-60079-00317",
-        "crawlAt": 1706956257012
+        "crawlAt": 1707037228071,
+        "_id": "65bf52551abe1c535fd55e9e"
     },
     {
         "marketplace": "blibli",
@@ -491,6 +598,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//92/MTA-71911145/samsung_samsung_galaxy_a04_smartphone_-3-32gb-_full14_thajg6eb.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//92/MTA-71911145/samsung_samsung_galaxy_a04_smartphone_-4-64gb-_full28_ui63e4zu.jpg"
         ],
+        "merchantName": "Jual Hape Official Store",
         "price": {
             "originalPrice": 1499000,
             "discount": 15,
@@ -503,8 +611,9 @@
             "Handphone",
             "Android"
         ],
-        "url": "https://blibli.com/p/samsung-galaxy-a04-smartphone-4-64gb-n/ps--INL-60035-01061?ds=INL-60035-01061-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1txQIIfqWNabDmdMBBK84trwCyHkTyfrQ0mblpoTqzKSssFoHe0ux6oJFT/XRXpCLib/SBy6IB1M3IaqMuoteMwULt2y/e/6/ySmsLVfoFbUduDLXl0TQnuCON1cZnD5z9mb5z4CQ2EemV55RRhtG48Ky39fi3Va6xY0tttu7XwbdCIjEVS4NKc4mYAdHVV7x291KO7Dj9/1o5ZdZy0k0Ds/RD55r8MN6K/oKaplDyYP&cnc=false&pickupPointCode=PP-3046516&pid1=INL-60035-01061",
-        "crawlAt": 1706956257012
+        "url": "https://blibli.com/p/samsung-galaxy-a04-smartphone-4-64gb-n/ps--INL-60035-01061?ds=INL-60035-01061-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1q6/ZLwcrNh7aXHpVWfdYZLwCyHkTyfrQ0mblpoTqzKSssFoHe0ux6oJFT/XRXpCLib/SBy6IB1M3IaqMuoteMwULt2y/e/6/ySmsLVfoFbUduDLXl0TQnuCON1cZnD5z9mb5z4CQ2EemV55RRhtG48Ky39fi3Va6xY0tttu7XwbdCIjEVS4NKc4mYAdHVV7x291KO7Dj9/1o5ZdZy0k0Ds/RD55r8MN6K/oKaplDyYP&cnc=false&pickupPointCode=PP-3046516&pid1=INL-60035-01061",
+        "crawlAt": 1707037228071,
+        "_id": "65bf52571abe1c535fd55ea0"
     },
     {
         "marketplace": "blibli",
@@ -518,20 +627,22 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-140719716/samsung_samsung_galaxy_tab_a9_-4-64gb-_full02_gbat1675.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-140719716/samsung_samsung_galaxy_tab_a9_-4-64gb-_full03_tg41pnyp.jpg"
         ],
+        "merchantName": "Samsung Official Store",
         "price": {
             "originalPrice": 2799000,
             "discount": 5,
             "finalPrice": 2649000
         },
         "category": "Handphone & Tablet",
-        "sell": 39,
+        "sell": 40,
         "categoryList": [
             "Handphone & Tablet",
             "Tablet",
             "Tablet Android"
         ],
-        "url": "https://blibli.com/p/samsung-galaxy-tab-a9-4-64gb/ps--SAO-60034-02325?ds=SAO-60034-02325-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1i9OHtJJb0SFLVLPopsUggQ5GvBshjuQ32/wwe/zP231Vfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX5S8zmthDZvuxaMAiMic0Z/VadLzfI1Uug6xRZEdsASicz0Rl8lfc9CnJqjMMx4lFpRiA2nX5MQkJ/wB53voxWGO1g2vFnYm/gSAqQ9Kku+9LUGF95WKmFHz1bFI68JzHpHWJ2l6vVUDGMPRV5VPpjl&cnc=false&pickupPointCode=PP-3036193&pid1=SAO-60034-02325",
-        "crawlAt": 1706956257012
+        "url": "https://blibli.com/p/samsung-galaxy-tab-a9-4-64gb/ps--SAO-60034-02325?ds=SAO-60034-02325-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1kRrvvgByLHjT0ingGnpBJs5GvBshjuQ32/wwe/zP231Vfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX5S8zmthDZvuxaMAiMic0Z/VadLzfI1Uug6xRZEdsASicz0Rl8lfc9CnJqjMMx4lFpRiA2nX5MQkJ/wB53voxWGO1g2vFnYm/gSAqQ9Kku+9LUGF95WKmFHz1bFI68JzHpHWJ2l6vVUDGMPRV5VPpjl&cnc=false&pickupPointCode=PP-3036193&pid1=SAO-60034-02325",
+        "crawlAt": 1707037228071,
+        "_id": "65bf52591abe1c535fd55ea2"
     },
     {
         "marketplace": "blibli",
@@ -547,6 +658,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/95/MTA-139923300/br-m036969-02885_samsung-galaxy-s23-fe-ukuran-256gb_full06-2d2a4cc2.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/95/MTA-139923300/br-m036969-02885_samsung-galaxy-s23-fe-ukuran-256gb_full07-2b95b049.jpg"
         ],
+        "merchantName": "Jikalaku",
         "price": {
             "originalPrice": 0,
             "discount": 0,
@@ -560,7 +672,8 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-s23-fe-8-256gb/ps--SIA-60028-01870?ds=SIA-60028-01870-00005&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1mPLhyhOtMzhHDziRpiGCLt/RIMfsL6wvmbWDZiO9yfWVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3034298&pid1=SIA-60028-01870&tag=new",
-        "crawlAt": 1706956257012
+        "crawlAt": 1707037228071,
+        "_id": "65bf525a1abe1c535fd55ea4"
     },
     {
         "marketplace": "blibli",
@@ -569,6 +682,7 @@
         "images": [
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/88/MTA-153061025/samsung_samsung_a15_lte_8-128_gb_garansi_resmi_-_promo_full01_puyu27ud.jpg"
         ],
+        "merchantName": "CV INTOWN CELL INDONESIA",
         "price": {
             "originalPrice": 2899000,
             "discount": 5,
@@ -582,7 +696,42 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-a15-lte-8-128-gb-garansi-resmi-promo/ps--CVI-70037-00254?ds=CVI-70037-00254-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZHFPziDltXbEQ3iSfe0taLzV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3395611&pid1=CVI-70037-00254",
-        "crawlAt": 1706956257012
+        "crawlAt": 1707037228071,
+        "_id": "65bf525c1abe1c535fd55ea6"
+    },
+    {
+        "marketplace": "blibli",
+        "productName": "Samsung Galaxy A04s Smartphone [4/64GB] + Starter Pack Telkomsel Bundling Max",
+        "brand": "Samsung",
+        "images": [
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-94651449/samsung_samsung_galaxy_a04s_smartphone_-4-64gb-_-_starter_pack_telkomsel_bundling_max_full01_j0pf8b6q.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-94651449/samsung_samsung_galaxy_a04s_smartphone_-4-64gb-_full03_hp2v8q4l.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-94651449/samsung_samsung_galaxy_a04s_smartphone_-4-64gb-_full04_t16p4ac8.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-94651449/samsung_samsung_galaxy_a04s_smartphone_-4-64gb-_full05_p0dxk5w1.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-94651449/samsung_samsung_galaxy_a04s_smartphone_-4-64gb-_full06_f0ns49g7.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-94651449/samsung_samsung_galaxy_a04s_smartphone_-4-64gb-_full07_jz5xidad.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-94651449/samsung_samsung_galaxy_a04s_smartphone_-4-64gb-_full08_r5m96ur5.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-94651449/samsung_samsung_galaxy_a04s_smartphone_-4-64gb-_full02_h60glqji.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-94651449/samsung_samsung_galaxy_a04s_smartphone_-4-64gb-_full31_3kor5em.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-94651449/samsung_samsung_galaxy_a04s_smartphone_-4-64gb-_full32_vf55ovig.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-94651449/samsung_samsung_galaxy_a04s_smartphone_-4-64gb-_full24_ohml1wvm.jpg"
+        ],
+        "merchantName": "Blibli (Ponsel)",
+        "price": {
+            "originalPrice": 2099000,
+            "discount": 23,
+            "finalPrice": 1609000
+        },
+        "category": "Handphone & Tablet",
+        "sell": 20,
+        "categoryList": [
+            "Handphone & Tablet",
+            "Handphone",
+            "Android"
+        ],
+        "url": "https://blibli.com/p/samsung-galaxy-a04s-smartphone-4-64gb-starter-pack-telkomsel-bundling-max/ps--BLP-60045-00516?ds=BLP-60045-00516-00003&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1k0bi4oaTwOh2ahk1QwAbieF2mCcAvs7hHjr8SZwOTGdVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3092985&pid1=BLP-60045-00516",
+        "crawlAt": 1707037228071,
+        "_id": "65bf525d1abe1c535fd55ea8"
     },
     {
         "marketplace": "blibli",
@@ -594,6 +743,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-95721883/samsung_samsung_galaxy_a54_5g_full03_jl3jpfv3.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-95721883/samsung_samsung_galaxy_a54_5g_full04_me87a74c.jpg"
         ],
+        "merchantName": "SAMSUNG  - DGADGET Official Store",
         "price": {
             "originalPrice": 5999000,
             "discount": 7,
@@ -606,8 +756,9 @@
             "Handphone",
             "Android"
         ],
-        "url": "https://blibli.com/p/samsung-galaxy-a54-5g/ps--SAD-60054-00229?ds=SAD-60054-00229-00003&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gVM1r7pUcMHMSa2GcVlGJ/Q4dMQigNF/4NyHEMPNUwTV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3110051&pid1=SAD-60054-00229",
-        "crawlAt": 1706956257012
+        "url": "https://blibli.com/p/samsung-galaxy-a54-5g/ps--SAD-60054-00229?ds=SAD-60054-00229-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gVM1r7pUcMHMSa2GcVlGJ/Q4dMQigNF/4NyHEMPNUwTV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3110051&pid1=SAD-60054-00229",
+        "crawlAt": 1707037228071,
+        "_id": "65bf52601abe1c535fd55eaa"
     },
     {
         "marketplace": "blibli",
@@ -619,6 +770,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/106/MTA-147166981/samsung_samsung_galaxy_a34_5g_smartphone_-8-256gb-_full04_B79A5CED-D1FF-48C7-9DB8-F6C00AF66EB5.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/106/MTA-147166981/samsung_samsung_galaxy_a34_5g_smartphone_-8-256gb-_full05_8A736AEA-6334-4F71-846C-1F165CDD29B4.jpg"
         ],
+        "merchantName": "DeceStore",
         "price": {
             "originalPrice": 0,
             "discount": 0,
@@ -632,7 +784,8 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-a34-5g-smartphone-8-256gb/ps--DEE-70282-00043?ds=DEE-70282-00043-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gVM1r7pUcMHMSa2GcVlGJ8p+OtE2gNzrP5ILTuO5cP0V6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3434293&pid1=DEE-70282-00043",
-        "crawlAt": 1706956257012
+        "crawlAt": 1707037228071,
+        "_id": "65bf52611abe1c535fd55eac"
     },
     {
         "marketplace": "blibli",
@@ -656,6 +809,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-94892156/samsung_samsung_galaxy_a54_5g_8-256gb_full06_ritoqsq5.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-94892156/samsung_samsung_galaxy_a54_5g_8-256gb_full07_lguerxmz.jpg"
         ],
+        "merchantName": "Ucellcempaka Official Store",
         "price": {
             "originalPrice": 6499000,
             "discount": 11,
@@ -669,37 +823,40 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-a54-5g-8-256gb/ps--UCA-60023-00816?ds=UCA-60023-00816-00003&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1ianrHyri++fEHtxtCP/bJbdD2kEj9CgLpdkycmkG4/BlsogVVfmUpV8Tbz8/WvDB0/Qd+PE2R+BYcbkg24R21veGaGYGFGYf25z1CaNjawdBgtRiqs/MAUme7ocrJ5UAquVtw0c/bnyKkeJ3r2OgtA0T0T2y5SVcq7DCnwmLMya5GtthzJzuC9/poT4qkNt9vp//9wnF99rtVaFwv1ETfeO88fyzvy/mZdUpEwHtXWE&cnc=false&pickupPointCode=PP-3091938&pid1=UCA-60023-00816",
-        "crawlAt": 1706956257012
+        "crawlAt": 1707037228071,
+        "_id": "65bf52641abe1c535fd55eae"
     },
     {
         "marketplace": "blibli",
         "productName": "Samsung Galaxy S23 FE Smartphone (8/256GB)",
         "brand": "Samsung",
         "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-140281941/samsung_samsung_galaxy_s23_fe_smartphone_-8-256gb-_full01_bamjtqif.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/94/MTA-140281941/samsung_samsung_galaxy_s23_fe_smartphone_-8-256gb-_full49_rlbentng.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/94/MTA-140281941/samsung_samsung_galaxy_s23_fe_smartphone_-8-256gb-_full50_thgcebxk.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/94/MTA-140281941/samsung_samsung_galaxy_s23_fe_smartphone_-8-256gb-_full51_fq87zeal.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/94/MTA-140281941/samsung_samsung_galaxy_s23_fe_smartphone_-8-256gb-_full52_dv8atet.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/94/MTA-140281941/samsung_samsung_galaxy_s23_fe_smartphone_-8-256gb-_full53_mud7t4yj.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/94/MTA-140281941/samsung_samsung_galaxy_s23_fe_smartphone_-8-256gb-_full54_pn9t9vzr.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/94/MTA-140281941/samsung_samsung_galaxy_s23_fe_smartphone_-8-256gb-_full55_u8xdcxx4.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-140281941/samsung_samsung_galaxy_s23_fe_smartphone_-8-256gb-_full03_ekxw1hza.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/94/MTA-140281941/samsung_samsung_galaxy_s23_fe_smartphone_-8-256gb-_free_upgrade_from_128gb_full41_crhlufup.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/94/MTA-140281941/samsung_samsung_galaxy_s23_fe_smartphone_-8-256gb-_free_upgrade_from_128gb_full42_jsozj3cf.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/94/MTA-140281941/samsung_samsung_galaxy_s23_fe_smartphone_-8-256gb-_free_upgrade_from_128gb_full43_e86445ly.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/94/MTA-140281941/samsung_samsung_galaxy_s23_fe_smartphone_-8-256gb-_free_upgrade_from_128gb_full44_kkphti6t.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/94/MTA-140281941/samsung_samsung_galaxy_s23_fe_smartphone_-8-256gb-_free_upgrade_from_128gb_full45_iv4xze5n.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/94/MTA-140281941/samsung_samsung_galaxy_s23_fe_smartphone_-8-256gb-_free_upgrade_from_128gb_full46_nc9bq6nr.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/94/MTA-140281941/samsung_samsung_galaxy_s23_fe_smartphone_-8-256gb-_free_upgrade_from_128gb_full47_s07ga3tw.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-140281941/samsung_samsung_galaxy_s23_fe_smartphone_-8-256gb-_full02_j1vdv2ks.jpg"
         ],
+        "merchantName": "Samsung Official Store",
         "price": {
             "originalPrice": 9999000,
             "discount": 3,
             "finalPrice": 9689000
         },
         "category": "Handphone & Tablet",
-        "sell": 73,
+        "sell": 74,
         "categoryList": [
             "Handphone & Tablet",
             "Handphone",
             "Android"
         ],
-        "url": "https://blibli.com/p/samsung-galaxy-s23-fe-smartphone-8-256gb/ps--SAO-60034-02320?ds=SAO-60034-02320-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1nnkJrZAeWZzPozHo/3I0JHgR9s0ITTAWd6jDb6WNsSZVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX5S8zmthDZvuxaMAiMic0Z/VadLzfI1Uug6xRZEdsASicz0Rl8lfc9CnJqjMMx4lFpRiA2nX5MQkJ/wB53voxWG7TpFTM31J8iJEsajgAmGqZIyu1gXyKCeg3W1yjMq1TsqjqySsetc/BVGCTBRDdmLX8lHI6X0LWwx6iahbExNOw==&cnc=false&pickupPointCode=PP-3036193&pid1=SAO-60034-02320",
-        "crawlAt": 1706956257012
+        "url": "https://blibli.com/p/samsung-galaxy-s23-fe-smartphone-8-256gb/ps--SAO-60034-02320?ds=SAO-60034-02320-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1kNPWOeOsc3xZ4s9VGvxufLgR9s0ITTAWd6jDb6WNsSZVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX5S8zmthDZvuxaMAiMic0Z/VadLzfI1Uug6xRZEdsASicz0Rl8lfc9CnJqjMMx4lFpRiA2nX5MQkJ/wB53voxWG7TpFTM31J8iJEsajgAmGqZIyu1gXyKCeg3W1yjMq1TsqjqySsetc/BVGCTBRDdmLX8lHI6X0LWwx6iahbExNOw==&cnc=false&pickupPointCode=PP-3036193&pid1=SAO-60034-02320",
+        "crawlAt": 1707037228071,
+        "_id": "65bf52641abe1c535fd55eb0"
     },
     {
         "marketplace": "blibli",
@@ -709,6 +866,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//96/MTA-71209066/samsung_samsung_galaxy_a04__3gb-32gb_full01_szagje2j.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//96/MTA-71209066/samsung_samsung_galaxy_a04__3gb-32gb_full02_t86h0v7q.jpg"
         ],
+        "merchantName": "Fresh 1 Mobile",
         "price": {
             "originalPrice": 0,
             "discount": 0,
@@ -722,7 +880,8 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-a04/ps--FR1-70003-00003?ds=FR1-70003-00003-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1i9OHtJJb0SFLVLPopsUggTtG68FdOtaXDWEfrrva0jkV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3267141&pid1=FR1-70003-00003",
-        "crawlAt": 1706956257012
+        "crawlAt": 1707037228071,
+        "_id": "65bf52661abe1c535fd55eb2"
     },
     {
         "marketplace": "blibli",
@@ -731,6 +890,7 @@
         "images": [
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-50084205/samsung_samsung_galaxy_a73_5g_-8-256-_resmi_full01_sr2t8jkl.jpg"
         ],
+        "merchantName": "Jaya Phone Jakarta",
         "price": {
             "originalPrice": 0,
             "discount": 0,
@@ -744,7 +904,8 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-a73-5g-8gb-256gb/ps--JAP-70196-00041?ds=JAP-70196-00041-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1pGTFXj2OkmKf+AOWXtSxPISavu4hOS5MUBiVJJQcsouV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3354334&pid1=JAP-70196-00041",
-        "crawlAt": 1706956257012
+        "crawlAt": 1707037228071,
+        "_id": "65bf52671abe1c535fd55eb4"
     },
     {
         "marketplace": "blibli",
@@ -754,6 +915,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/97/MTA-140750186/br-m036969-02885_samsung-a05s-6-128-new-segel-box-garansi-resmi-promo-bandung_full01-29103c95.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/97/MTA-140750186/br-m036969-02885_samsung-a05s-6-128-new-segel-box-garansi-resmi-promo-bandung_full02-d27fb5c2.jpg"
         ],
+        "merchantName": "Jalaprang Elektronik",
         "price": {
             "originalPrice": 0,
             "discount": 0,
@@ -767,7 +929,8 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-a05s-6-128-new-segel-box-garansi-resmi-promo-bandung/ps--JAE-70081-00768?ds=JAE-70081-00768-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gVM1r7pUcMHMSa2GcVlGJ/1ILj++RHLQW5Pa/7eft85V6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3230862&pid1=JAE-70081-00768",
-        "crawlAt": 1706956257012
+        "crawlAt": 1707037228071,
+        "_id": "65bf52681abe1c535fd55eb6"
     },
     {
         "marketplace": "blibli",
@@ -776,6 +939,7 @@
         "images": [
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/103/MTA-153608394/samsung_samsung_travel_adapter_25_watt_usb_port_type_c_garansi_resmi_full01_mvov8qnz.jpg"
         ],
+        "merchantName": "Hapemall Official Store",
         "price": {
             "originalPrice": 299000,
             "discount": 8,
@@ -789,7 +953,8 @@
             "Charge"
         ],
         "url": "https://blibli.com/p/samsung-travel-adapter-25-watt-usb-port-type-c-garansi-resmi/ps--HAL-60036-01719?ds=HAL-60036-01719-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1uxy0R6u3E0q00PoslzqIZH59o4wZTiSOJPjUMrkfd+N6Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvgDGemfm5SNh5Jq9KPDEXJ5jzCxKTOmEWlperjuKJtK31FBTc87YP8sPvWm7FKE+rYMTLk5pIsoVQJmtwLacJnYvOraDWI0pCKeuYXD6zKYCr5MjFTRVjR6FSwIk1s14Vgq6VBV00TSMvh5kbZwrs+u&cnc=false&pickupPointCode=PP-3084878&pid1=HAL-60036-01719",
-        "crawlAt": 1706956257012
+        "crawlAt": 1707037228071,
+        "_id": "65bf52691abe1c535fd55eb8"
     },
     {
         "marketplace": "blibli",
@@ -812,6 +977,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-139065341/samsung_samsung_galaxy_a05_full16_o7jz1np7.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/MTA-139065341/samsung_samsung_galaxy_a05_full17_nhq7pbhc.jpg"
         ],
+        "merchantName": "Jikalaku",
         "price": {
             "originalPrice": 0,
             "discount": 0,
@@ -825,7 +991,8 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-a05-free-adaptor-25w/ps--SIA-60028-01865?ds=SIA-60028-01865-00010&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1o25EuIws1ujlUFm+uH2HFJsVkZHCJs9FPg2A2iloMzAlsogVVfmUpV8Tbz8/WvDB0/Qd+PE2R+BYcbkg24R21ueL9F9e2M76YsQGLUm9TigHjCITnaWFAGh4FHnHRTkmp2KnAun/YYLvwc268FM3NiL59VZTgWpMbeYqGkFrJSh7AOVPD2SpZKfjAs2aksZMMLpEI+vdGef6g8NpVxWl320XBPM8Ib69hRyb0y0TLR/&cnc=false&pickupPointCode=PP-3034298&pid1=SIA-60028-01865",
-        "crawlAt": 1706956257012
+        "crawlAt": 1707037228071,
+        "_id": "65bf526a1abe1c535fd55eba"
     },
     {
         "marketplace": "blibli",
@@ -839,6 +1006,7 @@
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//109/MTA-39757852/samsung_samsung_galaxy_s22_ultra_256gb_-_e-voucher_samsung_1-5_juta_-_samsung_care-_1_thn_-claim_via_sgi-_-_casing_-_strap_full05_tzt0bv9g.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//109/MTA-39757852/samsung_samsung_galaxy_s22_ultra_256gb_-_e-voucher_samsung_1-5_juta_-_samsung_care-_1_thn_-claim_via_sgi-_-_casing_-_strap_full06_eigzcjsc.jpg"
         ],
+        "merchantName": "Blibli Monobrand Instore",
         "price": {
             "originalPrice": 0,
             "discount": 0,
@@ -852,36 +1020,39 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-galaxy-s22-ultra-5g-smartphone-256gb/ps--PTG-70003-00253?ds=PTG-70003-00253-00004&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1tpSM6rbO3D0cCcQU7OT0cohSTDaJe8mTNKxJwVvF0WQssFoHe0ux6oJFT/XRXpCLib/SBy6IB1M3IaqMuoteMxUHRnX0XlLc4mbrFU85AX5uwU8CHZPPj+WC4axMhQ3Xpp1dxJur/tJaCG+yveKP755bzPYvzhwgcSRqReRQnHZrfNytHYOUNnyyFJEz0AFJqF94tqEKbvU0jVWf8WeIMBi18XUN4IWU/HqfOMfURcY&cnc=false&pickupPointCode=PP-3276109&pid1=PTG-70003-00253",
-        "crawlAt": 1706956257012
+        "crawlAt": 1707037228071,
+        "_id": "65bf526b1abe1c535fd55ebc"
     },
     {
         "marketplace": "blibli",
         "productName": "Samsung Galaxy S23 5G Smartphone 8GB/256GB",
         "brand": "Samsung",
         "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-92486932/samsung_samsung_galaxy_s23_5g_smartphone_8gb-256gb_full03_plq2j9ny.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-92486932/samsung_samsung_galaxy_s23_5g_smartphone_8gb-256gb_full01_tgacak5t.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//106/MTA-92486932/samsung_batch_2_-_samsung_galaxy_s23_smartphone_-8-256_gb-_full06_b8bb90xk.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//106/MTA-92486932/samsung_batch_2_-_samsung_galaxy_s23_smartphone_-8-256_gb-_full07_rta1vhxn.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//106/MTA-92486932/samsung_batch_2_-_samsung_galaxy_s23_smartphone_-8-256_gb-_full13_tk7yheeo.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//106/MTA-92486932/samsung_batch_2_-_samsung_galaxy_s23_smartphone_-8-256_gb-_full17_ejycyvpc.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//106/MTA-92486932/samsung_batch_2_-_samsung_galaxy_s23_smartphone_-8-256_gb-_full09_sdrrp50o.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//106/MTA-92486932/samsung_batch_2_-_samsung_galaxy_s23_smartphone_-8-256_gb-_full10_eyvcu0j3.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//106/MTA-92486932/samsung_batch_2_-_samsung_galaxy_s23_smartphone_-8-256_gb-_full11_m9w6nyd1.jpg",
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/MTA-92486932/samsung_samsung_galaxy_s23_5g_smartphone_8gb-256gb_full02_4vro4r1.jpg"
         ],
+        "merchantName": "Samsung Official Store",
         "price": {
             "originalPrice": 13999000,
             "discount": 9,
             "finalPrice": 12789000
         },
         "category": "Handphone & Tablet",
-        "sell": 185,
+        "sell": 186,
         "categoryList": [
             "Handphone & Tablet",
             "Handphone",
             "Android"
         ],
-        "url": "https://blibli.com/p/samsung-galaxy-s23-5g-smartphone-8gb-256gb/ps--SAO-60034-02067?ds=SAO-60034-02067-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1ld5F4C3vhzXSPWDcc74WLds9u+97LwpCbP1bTWyMEx1ssFoHe0ux6oJFT/XRXpCLib/SBy6IB1M3IaqMuoteMwULt2y/e/6/ySmsLVfoFbUduDLXl0TQnuCON1cZnD5z9mb5z4CQ2EemV55RRhtG48Ky39fi3Va6xY0tttu7XwbdCIjEVS4NKc4mYAdHVV7x291KO7Dj9/1o5ZdZy0k0Ds/RD55r8MN6K/oKaplDyYP&cnc=false&pickupPointCode=PP-3036193&pid1=SAO-60034-02067",
-        "crawlAt": 1706956257012
+        "url": "https://blibli.com/p/samsung-galaxy-s23-5g-smartphone-8gb-256gb/ps--SAO-60034-02067?ds=SAO-60034-02067-00004&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1ubf0lKZChrAE4jBghaQnhts9u+97LwpCbP1bTWyMEx1ssFoHe0ux6oJFT/XRXpCLib/SBy6IB1M3IaqMuoteMwULt2y/e/6/ySmsLVfoFbUduDLXl0TQnuCON1cZnD5z9mb5z4CQ2EemV55RRhtG48Ky39fi3Va6xY0tttu7XwbdCIjEVS4NKc4mYAdHVV7x291KO7Dj9/1o5ZdZy0k0Ds/RD55r8MN6K/oKaplDyYP&cnc=false&pickupPointCode=PP-3036193&pid1=SAO-60034-02067",
+        "crawlAt": 1707037228071,
+        "_id": "65bf526c1abe1c535fd55ebe"
     },
     {
         "marketplace": "blibli",
@@ -890,6 +1061,7 @@
         "images": [
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/96/MTA-143458160/samsung_samsung_a05_series_-a05_4-4-64_--_a05_4-4-128_--_a05_6-6-128-_garansi_resmi_indonesia_full01_irnivi0e.jpg"
         ],
+        "merchantName": "Murahcell13 ",
         "price": {
             "originalPrice": 1600000,
             "discount": 19,
@@ -903,134 +1075,37 @@
             "Android"
         ],
         "url": "https://blibli.com/p/samsung-a05-series-a05-4-4-64-a05-4-4-128-a05-6-6-128-garansi-resmi-indonesia/ps--CAC-60086-00042?ds=CAC-60086-00042-00004&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1pGTFXj2OkmKf+AOWXtSxPKdi/dZOHltWfMDtywVpannV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3127276&pid1=CAC-60086-00042",
-        "crawlAt": 1706956257012
+        "crawlAt": 1707037228071,
+        "_id": "65bf526e1abe1c535fd55ec0"
     },
     {
         "marketplace": "blibli",
-        "productName": "Samsung Galaxy A54 5G [8GB/256GB] Smartphone",
+        "productName": "Samsung Galaxy M34 5G 8/128GB",
         "brand": "Samsung",
         "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-94890187/samsung_samsung_galaxy_a54_5g_-8gb-256gb-_smartphone_full01_lea5oj7e.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-94890187/samsung_samsung_galaxy_a54_5g_-8gb-256gb-_smartphone_full02_q20whw32.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-94890187/samsung_samsung_galaxy_a54_5g_-8gb-256gb-_smartphone_full03_s13qiexr.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-94890187/samsung_samsung_galaxy_a54_5g_-8gb-256gb-_smartphone_full04_nap5lzyj.jpg"
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/99/MTA-144535743/br-m036969-02885_samsung-galaxy-m34-5g-8-128gb_full08-a8771f0b.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/99/MTA-144535743/br-m036969-02885_samsung-galaxy-m34-5g-8-128gb_full01-b081b86d.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/99/MTA-144535743/br-m036969-02885_samsung-galaxy-m34-5g-8-128gb_full02-3aa40a2a.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/99/MTA-144535743/br-m036969-02885_samsung-galaxy-m34-5g-8-128gb_full03-9dbcb04f.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/99/MTA-144535743/br-m036969-02885_samsung-galaxy-m34-5g-8-128gb_full04-c99b9eb1.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/99/MTA-144535743/br-m036969-02885_samsung-galaxy-m34-5g-8-128gb_full05-6342517b.jpg",
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/99/MTA-144535743/br-m036969-02885_samsung-galaxy-m34-5g-8-128gb_full06-3e4630fc.jpg"
         ],
+        "merchantName": "Jikalaku",
         "price": {
-            "originalPrice": 6399000,
-            "discount": 6,
-            "finalPrice": 5999000
+            "originalPrice": 0,
+            "discount": 0,
+            "finalPrice": 3271000
         },
         "category": "Handphone & Tablet",
-        "sell": 67,
+        "sell": 30,
         "categoryList": [
             "Handphone & Tablet",
             "Handphone",
             "Android"
         ],
-        "url": "https://blibli.com/p/samsung-galaxy-a54-5g-8gb-256gb-smartphone/ps--APG-50293-01690?ds=APG-50293-01690-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gUYw+KU6wtVtokyXL2S/2UnrGPaGPnMl4ik7BLLa5D5Vfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3016281&pid1=APG-50293-01690",
-        "crawlAt": 1706956257012
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Samsung Galaxy A24 8/128 GB + Free Travel Adaptor",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/101/MTA-147332558/samsung_samsung_galaxy_a24_8-128_gb_-_free_travel_adaptor_full03_bsxv8f3s.jpg"
-        ],
-        "price": {
-            "originalPrice": 0,
-            "discount": 0,
-            "finalPrice": 3022000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 6,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Handphone",
-            "Android"
-        ],
-        "url": "https://blibli.com/p/samsung-galaxy-a24-8-128-gb-free-travel-adaptor/ps--LIG-70016-00111?ds=LIG-70016-00111-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1mcVsjhcdgPp+qTVepsj2RT5ZKN7bJsbDUE4gN3hJqbjV6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYMnmM2z+usVot7kci36lkGajX1vseL5xZE5pK9CMFwKmiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3188786&pid1=LIG-70016-00111",
-        "crawlAt": 1706956257012
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Samsung LED Back Cover for Galaxy Note 10 Plus / Note 10+",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-4076923/samsung_samsung_led_back_cover_for_galaxy_note_10_plus_-_note_10-_full09.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-4076923/samsung_samsung_led_back_cover_for_galaxy_note_10_plus_-_note_10-_full10.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-4076923/samsung_samsung_led_back_cover_for_galaxy_note_10_plus_-_note_10-_full11.jpg"
-        ],
-        "price": {
-            "originalPrice": 699000,
-            "discount": 43,
-            "finalPrice": 399000
-        },
-        "category": "Handphone & Tablet",
-        "sell": 38,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Casing"
-        ],
-        "url": "https://blibli.com/p/samsung-led-back-cover-for-galaxy-note-10-plus-note-10/ps--BLP-60048-00313?ds=BLP-60048-00313-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1s5y+7ibfIUGWfNNMYQ/nddVRzmUsKDADNBb+BeBjiL2V6xq99GcSyZY1Sf3L0gZM81tC/d72O3xovd3W/bG70PfM//eNdJUCw07oJWQqIFs/CwvdFssFoOKOSDSYO3t+ZeU17vCA5Htcepz5rtGXYOPTaJa61ZourzquQtoo/whKUnRDRXZLSSdAODeCXzbQiQ0ODsshdvvLcN374agqNArvl0KBXJKdKcWce8lHB5y&cnc=false&pickupPointCode=PP-3098359&pid1=BLP-60048-00313",
-        "crawlAt": 1706956257012
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Sensor Air Mesin Cuci SAMSUNG Bukaan Atas Water Level Mesin Cuci Top Loading",
-        "brand": "Samsung",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-48762794/br-m036969-02885_sensor-air-mesin-cuci-samsung-bukaan-atas-water-level-mesin-cuci-top-loading_full01.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-48762794/br-m036969-02885_sensor-air-mesin-cuci-samsung-bukaan-atas-water-level-mesin-cuci-top-loading_full02.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-48762794/br-m036969-02885_sensor-air-mesin-cuci-samsung-bukaan-atas-water-level-mesin-cuci-top-loading_full03.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-48762794/br-m036969-02885_sensor-air-mesin-cuci-samsung-bukaan-atas-water-level-mesin-cuci-top-loading_full04.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-48762794/br-m036969-02885_sensor-air-mesin-cuci-samsung-bukaan-atas-water-level-mesin-cuci-top-loading_full05.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//110/MTA-48762794/br-m036969-02885_sensor-air-mesin-cuci-samsung-bukaan-atas-water-level-mesin-cuci-top-loading_full06.jpg"
-        ],
-        "price": {
-            "originalPrice": 45900,
-            "discount": 42,
-            "finalPrice": 26500
-        },
-        "category": "Peralatan Elektronik",
-        "sell": 5,
-        "categoryList": [
-            "Peralatan Elektronik",
-            "Mesin Cuci & Pengering",
-            "Mesin Cuci",
-            "Mesin Cuci Top Load"
-        ],
-        "url": "https://blibli.com/p/sensor-air-mesin-cuci-samsung-bukaan-atas-water-level-mesin-cuci-top-loading/ps--ROS-70217-00068?ds=ROS-70217-00068-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1hoohFLFJVwVeGdsDku9ec6oaYjFq8hPqfBLjXYGXsy1BIgSK0Cr/VatBELgXrJOwOW6tVfs2sIHoyOMbNu4I6/DrrgRR68On14vpaz4zMMuSZeKujYmr5UAJJYeahf3ZRjIahGZWKxK9yKNBMS8vqnlO4aYK5g9M3rdR9UcNTMFv+V5N8QJiDJN4Bmbl3NI6/JkNF1FelPTvAlqkUsTGPfyEwLJZG0H4IZCVbm7k2Dh7P2C3Sd50v+5GxosJ0vpzw==&cnc=false&pickupPointCode=PP-3356649&pid1=ROS-70217-00068",
-        "crawlAt": 1706956257012
-    },
-    {
-        "marketplace": "blibli",
-        "productName": "Vention Kabel Data USB Type C Fast Charge Android Huawei",
-        "brand": "Vention",
-        "images": [
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-25721982/vention_vention_kabel_data_usb_type_c_fast_charge_android_huawei_full01_m3xt9zij.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-25721982/vention_vention_kabel_data_usb_type_c_fast_charge_android_huawei_full01_t9agw5q2.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-25721982/vention_vention_kabel_data_usb_type_c_fast_charge_android_huawei_full02_kksepy32.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-25721982/vention_vention_kabel_data_usb_type_c_fast_charge_android_huawei_full03_n4ah0xc6.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-25721982/vention_vention_kabel_data_usb_type_c_fast_charge_android_huawei_full04_ruu2uib6.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-25721982/vention_vention_kabel_data_usb_type_c_fast_charge_android_huawei_full05_rrb7sbg3.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-25721982/vention_vention_kabel_data_usb_type_c_fast_charge_android_huawei_full06_fmjwna2r.jpg",
-            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-25721982/vention_vention_kabel_data_usb_type_c_fast_charge_android_huawei_full07_d12f7b4e.jpg"
-        ],
-        "price": {
-            "originalPrice": 0,
-            "discount": 0,
-            "finalPrice": 25500
-        },
-        "category": "Handphone & Tablet",
-        "sell": 56,
-        "categoryList": [
-            "Handphone & Tablet",
-            "Aksesoris Handphone & Tablet",
-            "Kabel Data"
-        ],
-        "url": "https://blibli.com/p/vention-kabel-data-usb-type-c-fast-charge-android-huawei/ps--VEI-29893-00539?ds=VEI-29893-00539-00001&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1p+xgq8f3q4sncH4sGf4w8kE6Ubh+V6x4DK3Ke+xXgg56Oqsz+aOWzolAPMge9OW4yIHjOgFuRMqSJXHFTqGvvg93FMcpkFX3C6Ss3jDzb/Jm1Nu/eiGATpe2J7ynETtlnF9VKLu6jPhvkpP1HvxPgsSlLL3nc4hAUOcyeiML86PM/p4wltQSwjhFckeThcgjyWKJw/9B4YTOVyT8RIg3uU=&cnc=false&pickupPointCode=PP-3006394&pid1=VEI-29893-00539",
-        "crawlAt": 1706956257012
+        "url": "https://blibli.com/p/samsung-galaxy-m34-5g-8-128gb/ps--SIA-60028-01886?ds=SIA-60028-01886-00002&source=SEARCH&sid=c63526c21cfef290&metaData=Sa0jw+XIAzQDKlCuUgCF1gZ8J1VFoyElv4DrlI8ytUwlRpmXahQoV4RLcFBNJg5XVfpio0v83fyImViRCUjYcP1ycHsD0Gv3pU06hp78fX4FIV3TYG4eZlaHQvtHp2GSlg9DYcGal6Nha+0m5BO3EeiRIJn1Q5zmSrBX55mysPoyMEx9/nBrtNrBaHTW5AGF0WE7GVlr6RPCAEt94cJ8IeVrFqdG5mhO6/I9DBNVJcNfyUcjpfQtbDHqJqFsTE07&cnc=false&pickupPointCode=PP-3034298&pid1=SIA-60028-01886",
+        "crawlAt": 1707037228071,
+        "_id": "65bf526f1abe1c535fd55ec2"
     }
 ]
